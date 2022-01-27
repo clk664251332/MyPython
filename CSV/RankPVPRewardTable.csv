@@ -1,0 +1,15 @@
+﻿ID,ResultAtt,ResultType,Name,,Atlas,Icon,SeasonAwardMailID
+唯一ID,结果归属（0是服内1是跨服,结果类型（1冠军2亚军3季军4殿军5八强6十六强7加赛淘汰8未参赛,显示排名名字,备注,图集,图标,赛季奖励邮件ID
+1,0,1,冠军,,Ranked5v5_icon,pvp_level_6_small.png,1521
+2,0,2,亚军,,Ranked5v5_icon,pvp_level_5_small.png,1522
+3,0,3,季军,,Ranked5v5_icon,pvp_level_4_small.png,1523
+4,0,4,殿军,第4,Ranked5v5_icon,pvp_level_3_small.png,1524
+5,0,5,八强,8强,Ranked5v5_icon,pvp_level_2_small.png,1525
+6,0,6,十六强,16强,Ranked5v5_icon,pvp_level_1_small.png,1526
+7,1,1,冠军,,Ranked5v5_icon,pvp_level_6_small.png,1528
+8,1,2,亚军,,Ranked5v5_icon,pvp_level_5_small.png,1529
+9,1,3,季军,,Ranked5v5_icon,pvp_level_4_small.png,1530
+10,1,4,殿军,跨服第4,Ranked5v5_icon,pvp_level_3_small.png,1531
+11,1,5,八强,8强,Ranked5v5_icon,pvp_level_2_small.png,1532
+12,1,6,十六强,16强,Ranked5v5_icon,pvp_level_1_small.png,1533
+13,0,7,鼓励,淘汰,Ranked5v5_icon,pvp_level_1_small.png,1527

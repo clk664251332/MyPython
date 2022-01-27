@@ -1,0 +1,14 @@
+﻿ID,Type,Description,DescriptionKey,LabelsType,LabelsName,LabelsKey,TlogType,NPCBubbleDialog,ICON
+主键,类型,注释(策划自用),对应文本表的字段key,小页签类型,小标签名字（策划自用）,小页签文本表Key,对应Tlog中的Type,npc气泡对话，填写文本表中对应的Key,对应图标workspace\clientproj\Assets\artres\_UI\Suggestioncollect\XXX.png
+1,1,职业平衡,SuggestionCollect6,,,,,SuggestionBubble6,UI_Suggestioncollect_icon_02
+2,2,建议提出,SuggestionCollect7,1,装备,SuggestionLable1,,SuggestionBubble7,UI_Suggestioncollect_icon_03
+3,2,建议提出,SuggestionCollect7,2,活动,SuggestionLable2,,SuggestionBubble7,UI_Suggestioncollect_icon_03
+4,2,建议提出,SuggestionCollect7,3,佣兵,SuggestionLable3,,SuggestionBubble7,UI_Suggestioncollect_icon_03
+5,2,建议提出,SuggestionCollect7,4,宠物,SuggestionLable4,,SuggestionBubble7,UI_Suggestioncollect_icon_03
+6,2,建议提出,SuggestionCollect7,5,其他,SuggestionLable5,,SuggestionBubble7,UI_Suggestioncollect_icon_03
+7,3,BUG反馈,SuggestionCollect2,1,装备,SuggestionLable1,,SuggestionBubble2,UI_Suggestioncollect_icon_01
+8,3,BUG反馈,SuggestionCollect2,2,活动,SuggestionLable2,,SuggestionBubble2,UI_Suggestioncollect_icon_01
+9,3,BUG反馈,SuggestionCollect2,3,佣兵,SuggestionLable3,,SuggestionBubble2,UI_Suggestioncollect_icon_01
+10,3,BUG反馈,SuggestionCollect2,4,宠物,SuggestionLable4,,SuggestionBubble2,UI_Suggestioncollect_icon_01
+11,3,BUG反馈,SuggestionCollect2,5,其他,SuggestionLable5,,SuggestionBubble2,UI_Suggestioncollect_icon_01
+12,4,我要吐槽,SuggestionCollect1,,,,,SuggestionBubble1,UI_Suggestioncollect_icon_05

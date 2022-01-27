@@ -1,0 +1,7 @@
+﻿MainSonId,ChapterId,OpenTime,Awardid,ChapterName,Atlas,Icon,MemoryId
+子活动主键,章节,开放时间阶段，对应TimeLimitActivityTable表的StageTime对应阶段,进度=奖励awardid,章节名,章节图集,章节图片名,"对应小说话ID,ISContentSplitMainMemoryTable的id"
+13007001,22004010,1,1=205300|2=205310|3=205320|5=205330,村庄异变,LegendAct,ui_LegendAct_Icon_Small_1.png,71
+13007001,22004110,2,1=205340|2=205350|3=205360|5=205370,遗迹探寻,LegendAct,ui_LegendAct_Icon_Small_2.png,72
+13007001,22004210,3,1=205380|2=205390|3=205400|5=205410,最后的幸存者,LegendAct,ui_LegendAct_Icon_Small_3.png,73
+13007001,22004310,4,1=205420|2=205430|3=205440|4=205510,尘封的真相,LegendAct,ui_LegendAct_Icon_Small_4.png,74
+13007001,22004410,5,1=205460|2=205470|3=205480|4=205490,分道扬镳,LegendAct,ui_LegendAct_Icon_Small_5.png,75

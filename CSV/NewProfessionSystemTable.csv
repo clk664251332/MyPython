@@ -1,0 +1,7 @@
+﻿Id,Type,,ProfessionLimit,GiftId,GiftTxt,ProfessionFree,ProfessionTxt,ExtraGiftTxt,MailId,ProfessionName
+功能Id（对应opensystem表中的功能ID),对应新职业福利活动type，服务器给到,标题（策划备注用）,"职业限定（填允许的职业ID,参考ProfessionTable的ID",等级礼包ID(NewProfessionGiftTable的GiftId，|分隔配置多个）,指定职业特权显示本地化字段,非指定职业免费小礼包（限领取一次）awardid,非指定职业简介显示本地化字段,带特定职业特权本地化字段,未领取礼包发送邮件ID,职业名
+1911,31,智者贤者福利,4201|4202,4001|4002|4003|4004|4005,WiseMan_Text1|WiseMan_Text2,8001190,WiseMan_Des,WiseMan_Text3|WiseMan_Text4,3000,贤者
+1912,31,十字军福利,2201|2202,1001|1002|1003|1004|1005,Crusader_Text1|Crusader_Text2,8001100,Crusader_Des,Crusader_Text3|Crusader_Text4,3000,十字军
+1913,31,炼金术士福利,6201|6202,2001|2002|2003|2004|2005,Alchemist_Text1|Alchemist_Text2,8001190,Alchemist_Des,Alchemist_Text3|Alchemist_Text4,3000,炼金术士
+1914,31,诗人舞娘福利,7211|7212|7201|7202,3001|3002|3003|3004|3005,DancerBard_Text1|DancerBard_Text2,8001190,DancerBard_Des,DancerBard_Text3|DancerBard_Text4,3000,诗人
+1915,31,武僧福利,3201|3202,3001|3002|3003|3004|3005,Monk_Text1|Monk_Text2,8001100,Monk_Des,Monk_Text3|Monk_Text4,3000,武僧

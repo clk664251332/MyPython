@@ -1,0 +1,5 @@
+﻿ColorSuitId,NormalSuitId,suitBoy,suitGirl,ItemCost,Progress,weight,ItemAtlasBoy,ItemIconBoy,ItemAtlasGirl,ItemIconGirl,LocalizationArea
+染色套装ID，与LegendCollectSuit的SuitId保持一致,与LegendCollectSuit的普通时装SuitId保持一致,男性对应套装内染色id,女性对应套装内染色id,激活所需材料,每次染色增加的倍率,每个染色进度值触发权重,套装道具图集,套装道具图标,套装道具图集,套装道具图标,本地化区域划分(0所有1中2日4香港8韩16北美，多地区时数字叠加）
+3,1,1078001|1088001|1098001|1108001|1018001,1078003|1088003|1098003|1108003|1018002,2060100=2,1|2|3|5|10,20|40|30|7|3,GarderobeNew,UI_Garderobe_Dyetap1.png,GarderobeNew,UI_Garderobe_Dyetap2.png,11
+4,2,1078002|1088002|1098002|1108002|1018003,1078004|1088004|1098004|1108004|1018004,2060100=2,1|2|3|5|10,20|40|30|7|3,GarderobeNew,UI_Garderobe_Dyetap4.png,GarderobeNew,UI_Garderobe_Dyetap3.png,11
+35,34,1078005|1088005|1098005|1108005|1018005,1078006|1088006|1098006|1108006|1018006,2060100=2,1|2|3|5|10,20|40|30|7|3,GarderobeNew,UI_Garderobe_Dyetap5.png,GarderobeNew,UI_Garderobe_Dyetap6.png,9

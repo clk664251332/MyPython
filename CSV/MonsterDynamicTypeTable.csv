@@ -1,0 +1,6 @@
+﻿ID,Note,LuaFunction,EntityDynamicType,FunctionType,LuaPara
+Entity表索引ID,策划备注,属性计算函数,怪物动态属性类型,场景类型(1.圣歌试炼 2.无限塔 3.野外 4.魔物驱逐-读精英 5-boss挑战 6.迷宫副本 7公会狩猎 8世界奇闻 11心之道馆),传值至Lua
+1001,邪能入侵普通,CreatMonsterXieNengRuQin,0,2,attrfunction=2|isNPC=0
+1002,邪能入侵精英,CreatMonsterXieNengRuQin,1,2,attrfunction=2|isNPC=0
+1003,邪能入侵Boss,CreatMonsterXieNengRuQin,2,2,attrfunction=2|isNPC=0
+1004,邪能入侵友方怪,CreatMonsterXieNengRuQin,0,2,attrfunction=2|isNPC=1

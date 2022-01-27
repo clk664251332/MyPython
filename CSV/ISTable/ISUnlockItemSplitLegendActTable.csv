@@ -1,0 +1,7 @@
+﻿ID,Comment,Type,SubType,Title,Content,UnlockCondition,Bonus,PreviewPath,LocalizationArea
+ID,策划备注,类型,子类型,标题,包含内容,解锁条件,积分,预览图片路径,本地化区域划分(0所有1中2日4香港8韩16北美，多地区时数字叠加，例：日韩都上就配4+8=12)
+71,天空套小说化测试1,1,2,村庄异变,2386=2402,100001,0,PlotIcon\UI_PlotIcon_Shikongtao1.png,9
+72,天空套测试小说化2,1,2,遗迹探寻,2403=2430,100002,0,PlotIcon\UI_PlotIcon_Shikongtao_yjqb.png,9
+73,天空套测试小说化3,1,2,最后的幸存者,2431=2457,100003,0,PlotIcon\UI_PlotIcon_Shikongtao_xshct.png,9
+74,天空套小说化测试4,1,2,尘封的真相,2458=2478,100004,0,PlotIcon\UI_PlotIcon_Shikongtao_jxhx.png,9
+75,天空套测试小说化5,1,2,分道扬镳,2479=2524,100005,0,PlotIcon\UI_PlotIcon_Shikongtao_xshct2.png,9
