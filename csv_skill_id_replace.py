@@ -1,3 +1,4 @@
+from pickle import TRUE
 import pandas as pd
 import os
 
@@ -19,7 +20,7 @@ def PackToStr(value):
     Str = ""
     for i in range(len(value)):
         sequence = value[i]
-        if not i == len(value)-1 or not i == 0:
+        if not i == 0 and not i == len(value)-1:
             Str = Str + '|'
         for j in range(len(sequence)):
             Str = Str + str(sequence[j])
@@ -75,8 +76,7 @@ CSV_CONFIG = [
     ["EquipReformSkillTable", ["SkillID"], [replace_one_id]],
     ["SkillComboTable", ["Combo","ReplaceSkillId"], [replace_all, replace_one_id]],
     ["TaskTable/TaskTable", ["Target1","Target2","Target3","Target4","Target5"], [replace_task]],
-
-    '''["EntityTable", ["UnitSkillID"], [replace_id_iv], [[0,1]]],
+    ["EntityTable", ["UnitSkillID"], [replace_id_iv], [[0,1]]],
     ["MercenaryTable", ["Skill"], [replace_id_iv], [[0,1]]],
     ["MerchantMakeMaterialsTable", ["Unlock"], [replace_id_iv], [[0,1]]],
     ["ProfessionTable", ["SkillIds","FixedSkillIds","FixedUnlockSkillIds","FixedCommonSkillIds"], [replace_id_iv], [[0,1]]],
@@ -131,14 +131,13 @@ CSV_CONFIG = [
     ["SkillMatchTable", ["Skill_Id_0","Skill_Id_1","Skill_Id_2","Skill_Id_3","Skill_Id_4"], [replace_one_id]],
     ["TdUnitTable", ["SummonCosts"], [replace_id_iv], [[3]]],
     ["EquipHoleTable", ["Property"], [Todo]],
-    ["EquipTable", ["EntryAttributeOne"], [Todo]]'''
+    ["EquipTable", ["EntryAttributeOne"], [Todo]]
 ]
-
 
 def StartProcess(configRow):
     if len(configRow) < 3:
         print("error! configRow.length < 3") 
-        return -1
+        return False
     
     tableName = configRow[0]
     filedList = configRow[1]
@@ -152,43 +151,49 @@ def StartProcess(configRow):
     columnsIndex = 0
     value = None
     params = None
-
-    data = pd.read_csv(os.path.join(CSV_PATH, tableName + ".csv"))
-    commentRow = pd.DataFrame(data.iloc[0])
-    #print(commentRow)
-    data = data.drop(0)
+    data = pd.read_csv(os.path.join(CSV_PATH, tableName + ".csv"))#.dropna(axis='columns', how='all')
     rowCount = len(data)
-
+    #收集目标列的索引
     for i in range(len(filedList)):
-        index = data.columns.get_loc(filedList[i]) #TODO 这里要先检测下是否有这个key
-        columnsIndexList.append(index)
-
+        try:
+            index = data.columns.get_loc(filedList[i])
+        except:
+            print('表：' + tableName + ' 没找不到字段' + filedList[i])
+            return False
+        else:
+            columnsIndexList.append(index)
+    
+    #列和行的遍历
     for i in range(len(columnsIndexList)):
         columnsIndex = columnsIndexList[i]
         if len(funcList)-1 >= i:
             func = funcList[i]
             if not paramList == None:
                 params = paramList[i]
-
-        for rowIndex in range(rowCount):
+        for rowIndex in range(1,rowCount):
             value = data.iloc[rowIndex, columnsIndex]
             if not pd.isna(value) and not value == "0" and not value == "" and not value == " ":
                 result = func(value, params) if not params == None else func(value)
                 data.iloc[rowIndex, columnsIndex] = result
-
-    #data = pd.concat([commentRow, data], axis=0).reset_index(drop = True)
-    #print(data)
-    data.to_csv(os.path.join(CSV_NEW_PATH, tableName + "_new" +".csv"), index=False)
+    
+    #导出文件
+    try:
+        targetFilePath = os.path.join(CSV_NEW_PATH, tableName + "_new" +".csv")
+        targetFolderPath = os.path.dirname(targetFilePath)
+        if not os.path.exists(targetFolderPath):
+            os.makedirs(targetFolderPath)
+        data.to_csv(targetFilePath, index=False)
+    except:
+        print("导出失败：" + targetFilePath)
+        return False
+    else:
+        print("导出成功：" + targetFilePath)
 
 def main():
-    if not os.path.exists(CSV_NEW_PATH):
-        os.mkdir(CSV_NEW_PATH)
     for i in range(len(CSV_CONFIG)):
         result = StartProcess(CSV_CONFIG[i])
-        if result == -1:
+        if result == False:
             continue
+    os.system("pause")
 
 main()
-
-
-
