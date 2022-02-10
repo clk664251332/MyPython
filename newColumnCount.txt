@@ -1,12 +1,92 @@
+********************./CSV\AchievementBadgeTable.csv********************
+column = Point   ¡¾³É¾ÍµãÊı(ÉıÖÁ¸Ã¼¶»ÕÕÂµÈ¼¶ËùĞèµÄ×Ü³É¾ÍµãÊı)¡¿
+********************./CSV\AchievementDetailTable.csv********************
+column = Target   ¡¾³É¾ÍÄ¿±ê(ĞèÒªÖ§³ÖÅäÖÃ¶à¸öÄ¿±ê£¬ÓÃ"|"¸ô¿ª£¬µ¥¸öÄ¿±êµÄÅäÖÃ¸ñÊ½Îª"Ä¿±êÀàĞÍ=²ÎÊı1=²ÎÊı2=²ÎÊı3¡­=²ÎÊın")×¢£º²ÎÊı1¹Ì¶¨±íÊ¾ÊıÁ¿£¬·½±ã³ÌĞò¶ÁÈ¡£»¡¿
+********************./CSV\ActivityExtraAwardTable.csv********************
+column = ProfessionLimit   ¡¾Ö°ÒµÏŞ¶¨£¨ÌîÔÊĞíµÄÖ°ÒµID,²Î¿¼ProfessionTableµÄID¡¿
+column = DungeonTeamProLimit   ¡¾¸±±¾ÖĞ¶ÓÎéÌØ¶¨Ö°ÒµÏŞÖÆ£¨·ÇÖúÕ½£©¡¿
+********************./CSV\ActivitySceneTable.csv********************
+column = Listeners   ¡¾¼àÌıÏî£¨ID=²ÎÊı=ÊÇ·ñÓĞ¹«¸æ¡£ÎŞ²ÎÊıµÄÌî-1£¬Ê±¼äÓÃºÁÃë£©¡¿
+********************./CSV\AlchemistMake.csv********************
+column = Unlock   ¡¾½âËøËùĞè¼¼ÄÜIDºÍµÈ¼¶¡¿
+column = rate   ¡¾³É¹¦ÂÊ£¨ºÍ¼¼ÄÜXX¹ØÁª£©¼¼ÄÜµÈ¼¶=³É¹¦ÂÊ£º1=2000|2=3000|3=5000|4=7000|5=9000£¨Íò·ÖÎ»£©¡¿
+********************./CSV\AnimationTable.csv********************
+column = MaxTime   ¡¾×î³¤Ê±¼ä£¨-1´ú±íÊ¹ÓÃÄ¬ÈÏÊ±¼ä£©¡¿
+column = SpecialEffect   ¡¾¹ÒÔØµÄÌØĞ§ID¡¿
+********************./CSV\AuctionTable.csv********************
+column = PriceBaseFloat   ¡¾»ù´¡¼Û¸ñ¸¡¶¯(¾ø¶ÔÖµ)(Ö»¶ÔAuctionTypeÖµÎª1µÄµÀ¾ßÉúĞ§)×¢£ºß÷ß÷¹ûÊµÆğÅÄµÄµÀ¾ß£¬ÊÛ¼ÛÓÀÔ¶²»±ä£¬ĞèÒªÌî0¡¿
+********************./CSV\AutoAddSkillPointTable.csv********************
+column = ProDetailId   ¡¾Ö°Òµ¼Óµãvector<int>¡¿
+********************./CSV\AutoAddSkilPointDetailTable.csv********************
+column = AddSkillQueue   ¡¾¼¼ÄÜ¼Óµã£¨ID=¼¼ÄÜID£¬Êı×ÖµÈÓÚ¼Óµ½¶àÉÙ¼¶£©¡¿
+column = ClassRecommandId   ¡¾Á´½Óµ½³ÉĞÍÔ¤ÀÀ±í¡¿
+********************./CSV\AwardPackTable.csv********************
+column = GroupContent   ¡¾½±Àø×éÄÚÈİ¡¿
+column = GroupWeight   ¡¾½±Àø×éÈ¨ÖØ(¹Ì¶¨ÀàĞÍµÄ°ü²»¶ÁÈ¡)¡¿
+column = JobLimit   ¡¾Ö°ÒµÏŞÖÆ(Ö°ÒµId,0Í¨ÓÃ£¬ÑÏ¸ñ°´ÕÕÏŞÖÆÊ²Ã´Ö°ÒµĞ´Ê²Ã´Ö°Òµid)¡¿
+column = ExpectValue   ¡¾pack°üµÄÆÚÍû¼ÛÖµÁ¿£¬ÖµÈç¹ûÎª-1£¬±íÊ¾µ±Ç°pack°ü²»ÓÃÓÚ¼ÆËãĞÒÔËÖµ¡¿
+********************./CSV\BarberStyleTable.csv********************
+column = MoneyCost   ¡¾»õ±ÒÏûºÄ£¨101Í­±Ò 102ß÷ß÷¹ûÊµ£©¡¿
+********************./CSV\BarberTable.csv********************
+column = BarberPrice   ¡¾·¢ĞÍ¼Û¸ñ£¨1Í­±Ò 2ß÷ß÷¹ûÊµ£©¡¿
+********************./CSV\BaseLvTable.csv********************
+column = Exp   ¡¾Éı¼¶¾­Ñé¡¿
+********************./CSV\BattleCardGlobal.csv********************
+column = ActivityID   ¡¾»î¶¯ID¡¿
+********************./CSV\BattleCardTask.csv********************
+column = Target   ¡¾Ä¿±êÌõ¼şÏÈÊıÁ¿ÔÙÀàĞÍ£¬¾Û±¦³ıÍâĞ´ËÀ£¬´ï³ÉÊıÁ¿|Ä¿±êid|Ä¿±ê²ÎÊı£¬Ã»ÓĞ²ÎÊı¾ÍÌî0¡¿
+********************./CSV\BattleGroundLvRangeTable.csv********************
+column = Dungeons   ¡¾Õ½¶·³¡µØ¸±±¾ID¡¿
+********************./CSV\BlackBoxValueTable.csv********************
+column = ExpectValue   ¡¾µ¥´Î²ú³öÆÚÍû¼ÛÖµ(Zeny±Ò)¡¿
+********************./CSV\BlackCurtainTable.csv********************
+column = Content   ¡¾ÎÄ±¾ÄÚÈİ(@¶ÎÂä·Ö¸ô·û |Ê±¼ä)£¨Õâ¸öÁĞ¿íÊÇ×ÖÌå²»ËõĞ¡µÄ×î´óÁĞ¿í£¬²»Òªµ÷¶¯£©¡¿
+********************./CSV\BlessedExperienceTable.csv********************
+column = ExchangeJobNum   ¡¾µ¥Î»¾­Ñé/Î¯ÍĞÈ¯»»Ëãjob±ÈÀı£¨³Ë10000£©¡¿
+********************./CSV\BusinessGlobalTable.csv********************
+column = Value   ¡¾Öµ¡¿
+********************./CSV\BusinessPriceTable.csv********************
+column = BasePrice   ¡¾»ù´¡¼Û¸ñ¡¿
+column = SingleSellNum   ¡¾³öÊÛÊıÁ¿¡¿
+********************./CSV\CardLevelTable.csv********************
+column = CardRestoreConsume   ¡¾¿¨Æ¬·µ»¹ÏûºÄ¡¿
+********************./CSV\CareerPreviewTable.csv********************
+column = RecommendedSkills   ¡¾ÍÆ¼ö¹Ø¼ü¼¼ÄÜID¡¿
+********************./CSV\CartRemouldTable.csv********************
+column = ProfessionID   ¡¾Ö°ÒµID£¨¿ÉÒÔÕı³£×âÁŞµÀ¾ßµÄÖ°ÒµID£¬ÓĞÒ»¸öÌîÒ»¸ö£©¡¿
+column = EntityID   ¡¾ÊµÌåID¡¿
+column = UnlockSkillID   ¡¾½âËø¼¼ÄÜ¼¼ÄÜ¡¿
+********************./CSV\ChallengeCapra.csv********************
+column = CurrencyID   ¡¾»õ±Ò½±Àø¡¿
+********************./CSV\CollectPresentTable.csv********************
+column = Default2OpenAnim   ¡¾±¦Ïä´ò¿ª£¨²»Ñ­»·£©¡¿
+column = OpenAnim   ¡¾±¦Ïä´ò¿ªºó£¨Ñ­»·£©¡¿
+column = NoneAnim   ¡¾²»¿É²É×´Ì¬¡¿
 ********************./CSV\CollectTable.csv********************
 column = Type   ¡¾²É¼¯ÎïÀàĞÍ£¨0. Ò»°ã²É¼¯Îï 1001.¹«»áËæ»úÀñºĞ 1002.´óÊÀ½ç¹ûÊµ 6010.²ÉÕª×ÊÔ´µã 6020.ÍÚ¿ó×ÊÔ´µã 6030.µöÓã 5060.ÍÚ±¦Íæ·¨ 6100.ÖÜÆÚÄÚÊ×´Î´ò¿ª²Å¸ø½±Àø 6300.Ä§Îï±¦²Ø 6301.³É¹¦½ÅÓ¡ 6302.Ê§°Ü½ÅÓ¡£©¡¿
+column = Param   ¡¾²¨ÀûÍÅID£¨ID=¼ÆÊı£º±ÈÈç°áÔËÅä³ÉCarryItemID=N£»±íÊ¾ÄãÃ¿´Î²É¼¯µÄÊ±ºò°áÆğ¼¸¸öµÀ¾ß£¬ÀàËÆÄãÈ¥°áÒ»ŞûµşÔÚÒ»ÆğµÄÏ´Á³Åè£¬Äã¿ÉÒÔËµÃ¿´ÎÄã°á1¸ö£¬Ò²¿ÉÒÔÊÇ10¸ö£©¡¿
+column = DefaultEquipID   ¡¾ÂãÄ£ID¡¿
+column = PresentID   ¡¾Ä£°åID¡¿
 column = TaskLimit   ¡¾ÈÎÎñÏŞÖÆ£¨1=ÈÎÎñid£¬½ÓÈ¡Õâ¸öÈÎÎñµÄ¶ÔÓ¦²É¼¯ÎïÄ¿±êÊ±ºò¿É²É£¬Íê³É¶ÔÓ¦²É¼¯ÎïÄ¿±êÖ®ºó²»¿É²É¡£2=ÈÎÎñÄ¿±ê¿âTaskTargetLibraryÖĞÄ¿±êid£¬×öÕâ¸öÄ¿±êµÄÊ±ºò¿É²É¼¯£¬Íê³ÉÖ®ºó²»¿É²É¼¯£©¡¿
+column = CollectingAction   ¡¾²É¼¯¶¯×÷£¨¶ÔÓ¦SpecialActionTable±íÀïÃæµÄ¶¯×÷ID£©¡¿
+column = PlayerCd   ¡¾¸öÈËCD¡¿
+column = CreateBuff   ¡¾²É¼¯ºóÉÏbuff¡¿
+column = GuildNotice   ¡¾¹«»á¹«¸æ¡¿
+column = CollectFx   ¡¾²É¼¯ÌØĞ§¡¿
+column = EndCollectFx   ¡¾½áÊøÌØĞ§¡¿
+column = RoleEffect   ¡¾ÈËÎï²É¼¯Ğ§¹û¡¿
+column = CollectionResidentFx   ¡¾²É¼¯ÎïÉÏ³£×¤ÌØĞ§¡¿
+********************./CSV\CommoditTable.csv********************
+column = SortID   ¡¾ÅÅĞòID(Ç°3Î»¶ÔÓ¦OfClassListÁĞ£¬ºó3Î»´Ó001¿ªÊ¼µİÔö)¡¿
+column = InitialPrice   ¡¾³õÊ¼¼Û¸ñP0(³õÊ¼¼Û¸ñºÍ³õÊ¼¿â´æ±ØĞëÂú×ãÒ»¶¨µÄ±ÈÀı¹ØÏµ£¬Àı£º³õÊ¼¼Û¸ñºÜµÍµÄµÀ¾ß£¬¿â´æ±Ø¶¨ºÜ¸ß£¬Òª²»È»¼Û¸ñ²¨¶¯·Ç³£´ó)¡¿
+column = SellTax   ¡¾ÉÌ»áÂòÈëµÀ¾ß£¬ÔÙ´ÎÂô³öÊ±µÄË°ÂÊ(Íò·Ö±È)¡¿
+column = PriceLimit   ¡¾¼Û¸ñÏŞÖÆ(¶Ô¹«Ê¾/·Ç¹«Ê¾¶¼ÉúĞ§)¡¿
+column = InitialStock   ¡¾³õÊ¼¿â´æS0(1¡¢¹«Ê¾µÀ¾ßÒ²ĞèÒªÌîÕâ¸öÖµ£»2¡¢³õÊ¼¼Û¸ñºÍ³õÊ¼¿â´æ±ØĞëÂú×ãÒ»¶¨µÄ±ÈÀı¹ØÏµ£¬Àı£º³õÊ¼¼Û¸ñºÜµÍµÄµÀ¾ß£¬¿â´æ±Ø¶¨ºÜ¸ß£¬Òª²»È»¼Û¸ñ²¨¶¯·Ç³£´ó£»)¡¿
+column = ChangeStateInventory1   ¡¾Ô¤¹º=>²»ĞèÒªÔ¤¹ºËùĞè¿â´æ(ĞèÒªÓë³õÊ¼¿â´æS0ÓĞ±ÈÀı¹ØÏµ)¡¿
 ********************./CSV\CommonGoalsTable.csv********************
 column = OpenSystemID   ¡¾¶ÔÓ¦OpenSystem±í¹¦ÄÜid¡¿
 column = ServerDaysLimit   ¡¾¿ª·şÌìÊıÏŞÖÆ£¨×îµÍÌìÊı=×î¸ßÌìÊı£»²»Ìî»òÌî0ÊÓÎªÃ»ÓĞ¿ª·şÌìÊıÏŞÖÆ£¨Ò»°ãÌî0=9999£©£©¡¿
-column = Route   ¡¾ÀàĞÍ|id=²ÎÊı1=²ÎÊı2...£¨Ç°Íù¹¦ÄÜ£¬Ìî¿ÕÃ»ÓĞ£¬¾ßÌåº¬Òå²é¿´https://huanle.feishu.cn/wiki/wikcn2tiIMhGGpFJVVsVCqJ2YOg¡¿
 ********************./CSV\ComposeTable.csv********************
-column = ObtainID   ¡¾»ñµÃÎïÆ·ID¡¿
 column = Cost   ¡¾ÏûºÄµÄ»õ±Ò¼°ÊıÁ¿£¨101=Í­±Ò£¬102=zeny±Ò£©¡¿
 ********************./CSV\ConvenientDetailTable.csv********************
 column = Data   ¡¾Öµ¡¿
@@ -27,21 +107,12 @@ column = ShareID   ¡¾·ÖÏíID¡¿
 column = FunctionID   ¡¾¹¦ÄÜID¡¿
 column = TeamTargetType   ¡¾×é¶Ó´óÌüÄ¿±ê£¨ÀàĞÍÎª0Ê±£¬ID¶ÁÈ¡¸±±¾ID£»ÀàĞÍÎª1Ê±£¬ID¶ÁÈ¡¸±±¾¸¸ID£©¡¿
 column = RewardDisplay   ¡¾Ô¤ÀÀ½±ÀøÕ¹Ê¾£¨Åä3¸öÔ¤ÀÀ½±ÀøµÄitem£©¡¿
-********************./CSV\DanceActionGroupTable.csv********************
-column = ImageBuff   ¡¾¾µÏñbuff£¨×ó|ÓÒ£©¡¿
-column = ImageDestroyBuff   ¡¾¾µÏñ½áÊøbuff£¨×ó|ÓÒ£©¡¿
 ********************./CSV\DanceActionTable.csv********************
 column = AnimationTableId   ¡¾¶¯»­±í±àºÅ¡¿
 ********************./CSV\DcDungeonTable.csv********************
 column = DungeonWeight   ¡¾¸±±¾ºÍÈ¨ÖØ¡¿
-column = DisplayAward   ¡¾½±ÀøÕ¹Ê¾\r\n£¨´¿Õ¹Ê¾ÓÃ£¬±ÈÈçÎŞÏŞËş£©¡¿
-********************./CSV\DeathGuideTable.csv********************
-column = Value   ¡¾Öµ¡¿
-********************./CSV\DefaultEquipTable.csv********************
-column = BarberStyleID   ¡¾Í··¢¡¿
-********************./CSV\DoodadTable.csv********************
-column = Effect   ¡¾ÌØĞ§¡¿
-column = BuffID   ¡¾Ê°È¡ºóBUFFID¡¿
+********************./CSV\DcEntityTable.csv********************
+column = DungeonID   ¡¾¸±±¾ID¡¿
 ********************./CSV\DungeonEntityAttrTable.csv********************
 column = ETime   ¡¾ÆÚÍûËÀÍöÊ±¼ä/s[float]¡¿
 column = Edamage_Per   ¡¾ÆÚÍûÉËº¦°Ù·Ö±È/10000[int]¡¿
@@ -49,37 +120,25 @@ column = Etime_Normal   ¡¾ÆÚÍûËÀÍöÊ±¼ä_»ù´¡/s[float]¡¿
 column = Edamage_Per_Normal   ¡¾ÆÚÍûÉËº¦°Ù·Ö±È_»ù´¡/10000[int]¡¿
 column = Etime_Hard   ¡¾ÆÚÍûËÀÍöÊ±¼ä_½ø½×/s[float]¡¿
 column = Edamage_Per_Hard   ¡¾ÆÚÍûÉËº¦°Ù·Ö±È_½ø½×/10000[int]¡¿
-********************./CSV\DungeonLevelTable.csv********************
 ********************./CSV\DungeonRandomTable.csv********************
 column = RandomProb   ¡¾IDºÍÈ¨ÖØ¡¿
-********************./CSV\DungeonsDynamicLevelTable.csv********************
 ********************./CSV\DungeonsTable.csv********************
 column = SceneID   ¡¾³¡¾°ID\r\n£¨¶ÔÓ¦µÄ³¡¾°ID£©¡¿
-column = NeedTask   ¡¾ÈÎÎñĞèÇó£¨ÈÎÎñID=ÈÎÎñ×´Ì¬£»¸½ÈÎÎñ×´Ì¬£º1£¬½ÓÈ¡³É¹¦Î´Íê³É£»2£¬ÒÑÍê³ÉÎ´½»¸¶£»3£¬½»¸¶³É¹¦£©¡¿
-column = DungeonTarget   ¡¾¸±±¾Ä¿±ê¡¿
 column = VictoryCondion1   ¡¾Ê¤ÀûÌõ¼ş1£¨1.[1=time=0]£¬Ê±¼äµ½£»2.[2=monster_id=1]£¬ÌØ¶¨ID¹ÖÎï±»»÷É±Ö»Êı£»3,´ï³ÉË«ÈËÅëâ¿¹ı¹ØÒªÇóµ¥×ÓÊı£»4.[4=wall_id=0]£¬¼¤»î´¥·¢Æ÷£»5.[5=npc_id=0]£¬¸±±¾½áÊøÊ±NPC´æ»î£»6.[6=item_id=item_count]£¬»ñµÃµÀ¾ßÊıÁ¿£»7=0=0£¬×îºóÒ»¸ö¸±±¾Ä¿±êÍê³É£»¿ÉÅäÖÃ¶à¸ö£¬ÓëµÄ¹ØÏµ£©¡¿
 column = VictoryCondion2   ¡¾Ê¤ÀûÌõ¼ş2£¨1.[1=time=0]£¬Ê±¼äµ½£»2.[2=monster_id=1]£¬ÌØ¶¨ID¹ÖÎï±»»÷É±Ö»Êı£»3,´ï³ÉË«ÈËÅëâ¿¹ı¹ØÒªÇóµ¥×ÓÊı£»4.[4=wall_id=0]£¬¼¤»î´¥·¢Æ÷£»5.[5=npc_id=0]£¬¸±±¾½áÊøÊ±NPC´æ»î£»6.[6=item_id=item_count]£¬»ñµÃµÀ¾ßÊıÁ¿£»7=0=0£¬×îºóÒ»¸ö¸±±¾Ä¿±êÍê³É£»¿ÉÅäÖÃ¶à¸ö£¬ÓëµÄ¹ØÏµ£©£¬ºÍÊ¤ÀûÌõ¼ş1Îª»ò¹ØÏµ¡¿
-column = EnterBuffs   ¡¾½øÈë¸±±¾¼Óbuff£¨Î¨Ò»id£¬ÓÃ|¸ô¿ª£©¡¿
 column = Listeners   ¡¾¼àÌıÏî£¨ID=²ÎÊı=ÊÇ·ñÓĞ¹«¸æ¡£ÎŞ²ÎÊıµÄÌî-1£¬Ê±¼äÓÃºÁÃë£©¡¿
-column = DungeonController   ¡¾¸±±¾°Ö°ÖID\r\n£¨³¡¾°´Ê×ºÊôĞÔÀ´Ô´£¬entity±í£©¡¿
 column = SceneAffix   ¡¾³¡¾°´Ê×ºID¡¿
 column = SpectatorType   ¡¾¹ÛÕ½ÀàĞÍ¡¿
 ********************./CSV\DungeonStandardAttrTable.csv********************
 column = EDPS_Normal   ¡¾ÆÚÍûDPS_ÆÕÍ¨[int]¡¿
-column = EDPS_Hard   ¡¾ÆÚÍûDPS_À§ÄÑ[int]¡¿
 column = EHP_Normal   ¡¾ÆÚÍûHP_ÆÕÍ¨[int]¡¿
 column = EHP_Hard   ¡¾ÆÚÍûHP_À§ÄÑ[int]¡¿
 column = EBattleValue_2000   ¡¾ÆÚÍûÕ½Á¦_½£Ê¿[int]¡¿
-column = EBattleValue_3000   ¡¾ÆÚÍûÕ½Á¦_·¨Ê¦[int]¡¿
-column = EBattleValue_4000   ¡¾ÆÚÍûÕ½Á¦_Ö´ÊÂ[int]¡¿
-column = EBattleValue_5000   ¡¾ÆÚÍûÕ½Á¦_´Ì¿Í[int]¡¿
-column = EBattleValue_6000   ¡¾ÆÚÍûÕ½Á¦_ÉÌÈË[int]¡¿
 column = EBattleValue_7000   ¡¾ÆÚÍûÕ½Á¦_¹­¼ıÊÖ[int]¡¿
 ********************./CSV\DungeonTargetTable.csv********************
 column = Target   ¡¾¸±±¾Ä¿±ê£¨1£¬¶Ô»°£»2£¬´ò¹Ö£¬»÷É±ÌØ¶¨¹ÖÎï£»3£º²É¼¯£»4£¬»ñµÃÌØ¶¨ÎïÆ·£»5£¬½øÈëÇøÓò£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÌØÊâÊÂ¼ş¡¿
 ********************./CSV\DynamicAttrAdditionTable.csv********************
 column = Concatenate_1   ¡¾Êµ¼ÊÊ¹ÓÃµÄÅäÖÃ£¬Íæ¼Ò¼Ó³É(ÊÀ½çÆæÎÅ)¡¿
-column = 5   ¡¾Ïà²î5¼¶ÒÔÄÚ¡¿
 column = 10   ¡¾Ïà²î6-10¼¶¡¿
 column = 15   ¡¾Ïà²î11-15¼¶¡¿
 column = 20   ¡¾Ïà²î16-20¼¶¡¿
@@ -90,8 +149,6 @@ column = 40   ¡¾Ïà²î36-40¼¶¡¿
 column = 45   ¡¾Ïà²î4145¼¶¡¿
 column = 50   ¡¾Ïà²î46-50¼¶¡¿
 column = 55   ¡¾Ïà²î51-55¼¶¡¿
-********************./CSV\ElfTypeTable.csv********************
-column = EntityID   ¡¾Ä£°æID¡¿
 ********************./CSV\EndlessTowerTable.csv********************
 column = ExpectHp   ¡¾ÆÚÍûÉúÃü¡¿
 ********************./CSV\EntityDynamicAttributeTable.csv********************
@@ -103,11 +160,22 @@ column = MVPAttribute   ¡¾MVP¹ÖÊıÖµ£¨HP=DAMAGE£©¡¿
 column = Point   ¡¾Éı¼¶ËùĞèÑĞ¾¿µãÊı¡¿
 ********************./CSV\EntityHandBookTable.csv********************
 column = RelationEntityId   ¡¾¹ØÁªÄ§Îïid£¨Ä¿Ç°ÓÃÓÚÅäÖÃµØ³ÇÄ§Îï£¬»÷É±Ä§ÎïµÄ¼ÆÊı»áËãÔÚ¶ÔÓ¦Ä§ÎïÉÏ£©¡¿
-column = PointAward   ¡¾Ä§ÎïÑĞ¾¿½ø¶Èµã½±Àø£¨µÈ¼¶1=»÷É±ÊıÁ¿=Ä§ÎïÑĞ¾¿½ø¶ÈµãÊıÁ¿|µÈ¼¶2=»÷É±ÊıÁ¿=Ä§ÎïÑĞ¾¿½ø¶ÈµãÊıÁ¿£©¡¿
-********************./CSV\EntrustActivitiesTable.csv********************
-column = SystemID   ¡¾OpenSystem¹¦ÄÜID¡¿
-column = DependentSystemID   ¡¾ÒÀÀµµÄ¹¦ÄÜOpenSystem¹¦ÄÜID()¡¿
-column = DungeonID   ¡¾½øÈëµÄ¸±±¾ID¡¿
+********************./CSV\EntityTable.csv********************
+column = DefaultEquipID   ¡¾×°±¸ÁĞ±í¡¿
+column = PresentID   ¡¾Ä£°åID¡¿
+column = UnitSkillID   ¡¾¼¼ÄÜID(id=level|...)¡¿
+column = BornBuff   ¡¾³öÉúBuff(id=¸ÅÂÊ)¡¿
+column = HatredDetectionInterval   ¡¾³ğºŞ¼ì²â¼ä¸ô£¨ºÁÃë£¬Ò°Íâ¹ÖÎï²»µÍÓÚ1000£¬BOSSµÈ²»µÍÓÚ500£©¡¿
+column = BodyDisappearTime   ¡¾Ê¬ÌåÏûÊ§Ê±¼ä£¨Ãë£©¡¿
+column = BaseHP   ¡¾»ù´¡ÉúÃü¡¿
+column = BaseSP   ¡¾»ù´¡Ä§·¨Öµ¡¿
+column = BaseATK   ¡¾»ù´¡ÎïÀí¹¥»÷¡¿
+column = BaseMATK   ¡¾»ù´¡Ä§·¨¹¥»÷¡¿
+column = WEAPON_ATK   ¡¾×°±¸ÎïÀí¹¥»÷¡¿
+column = WEAPON_MATK   ¡¾×°±¸Ä§·¨¹¥»÷¡¿
+column = DropDoodad   ¡¾¿ÉÊ°È¡BUFFµôÂä¡¿
+column = DeadEffcet   ¡¾¹ÖÎïËÀÍöÌØĞ§¡¿
+column = DefaultGroup   ¡¾Ä¬ÈÏÕóÓª£¨µĞ¶Ô2£¬ÓÑ·½0£©¡¿
 ********************./CSV\EnvironmentWeatherModeTable.csv********************
 column = WeatherTypeID   ¡¾³¡¾°·ç¸ñÀàĞÍID¡¿
 ********************./CSV\EnvironmentWeatherTable.csv********************
@@ -120,7 +188,6 @@ column = CardAttributes   ¡¾¿¨Æ¬Ğ¯´øµÄÊôĞÔ£¨ÊôĞÔÀàĞÍ=¾ßÌåÊôĞÔID=ÊıÖµ/²ÎÊı¡­¡­£»Ê
 column = ExpendZeny   ¡¾·Ö½â¿¨Æ¬ËùĞèÒª»¨·ÑµÄzeny±ÒÊıÁ¿¡¿
 column = SyntheticConsume   ¡¾¿¨Æ¬ºÏ³ÉÏûºÄ¡¿
 ********************./CSV\EquipConsumeTable.csv********************
-column = EnchantConsume   ¡¾³õ¼¶¸½Ä§ÏûºÄ£¨µÀ¾ßID=ÊıÁ¿|µÀ¾ßID=ÊıÁ¿£©¡¿
 column = SeniorEnchantConsume   ¡¾¸ß¼¶¸½Ä§ÏûºÄ£¨µÀ¾ßID=ÊıÁ¿|µÀ¾ßID=ÊıÁ¿£©¡¿
 column = DismantleCardConsume   ¡¾²ğ¿¨ÏûºÄ¡¿
 column = WeaponHoleCon1   ¡¾ÎäÆ÷´òµÚ1¸ö¶´ÏûºÄ¡¿
@@ -154,12 +221,16 @@ column = SuccessRate   ¡¾¾«Á¶³É¹¦ÂÊ£¨¸ÅÂÊÍò·Ö±È£©¡¿
 column = ReturnRatio   ¡¾·µ»¹±ÈÀı£¨µÀ¾ß1=·µ»¹±ÈÀı|µÀ¾ß2=·µ»¹±ÈÀı£©¡¿
 column = WeaponConsume   ¡¾Çå³ıÎäÆ÷ÏûºÄ¡¿
 column = EquipConsume   ¡¾Çå³ı×°±¸ÏûºÄ¡¿
+********************./CSV\EquipReformSkillTable.csv********************
+column = ReformSkill   ¡¾¼¼ÄÜ¿âID¡¿
+column = ProfessionID   ¡¾Ö°ÒµID¡¿
+column = SkillID   ¡¾Ç¿»¯µÄ¼¼ÄÜUUID¡¿
+column = EquipText   ¡¾ÎÄ±¾ÃèÊö£¨ÊôĞÔÀàÎª¿Õ£¬¼¼ÄÜÉËº¦Ôö¼ÓÎª5001£¬ÆÕÍ¨¹¥»÷Îª5002,£©¡¿
 ********************./CSV\EquipReformTable.csv********************
 column = EntryAttribute   ¡¾¼¼ÄÜÔöÉËÊôĞÔËæ»úÇø¼ä¡¿
 column = Weight   ¡¾È¨ÖØ¡¿
 column = Weaponcost   ¡¾ÏûºÄ£¬ÅäÖÃ¸ñÊ½£º²ÄÁÏID=ÊıÁ¿|  Æ·ÖÊÌáÉıºóµÄÏûºÄ£¬ÔÚºóÃæÄÄ¸ö×Ö¶ÎÅäÖÃ¡¿
 column = Armorcost   ¡¾ÏûºÄ£¬ÅäÖÃ¸ñÊ½£º²ÄÁÏID=ÊıÁ¿|  Æ·ÖÊÌáÉıºóµÄÏûºÄ£¬ÔÚºóÃæÄÄ¸ö×Ö¶ÎÅäÖÃ¡¿
-column = RareEquipValue   ¡¾Ï¡ÓĞ×°±¸ÊıÖµ»ù×¼¡¿
 column = RareWeaponcost   ¡¾Æ·ÖÊÌáÉıºóÎäÆ÷¸ÄÔìÏûºÄ   Æ·ÖÊÌáÉıºóµÄÏûºÄ£¬ÔÚºóÃæÄÄ¸ö×Ö¶ÎÅäÖÃ¡¿
 column = RareArmorcost   ¡¾Æ·ÖÊÌáÉıºó×°±¸¸ÄÔìÏûºÄ  Æ·ÖÊÌáÉıºóµÄÏûºÄ£¬ÔÚºóÃæÄÄ¸ö×Ö¶ÎÅäÖÃ¡¿
 column = AddAttribute   ¡¾»ù´¡ÊôĞÔËæ»úÇø¼ä¡¿
@@ -170,7 +241,6 @@ column = ExpendZeny   ¡¾·Ö½â¿¨Æ¬ËùĞèÒª»¨·ÑµÄ»õ±ÒÊıÁ¿£¨²ÄÁÏID=ÊıÁ¿£©£¬Ö§³ÖÅä¶à¸ö¡
 column = profession   ¡¾Ö°Òµ×Ö¶Î£¬¶à¸öÓÃÊúÏß¸ô¿ª¡¿
 ********************./CSV\EquipTable.csv********************
 column = EquipSecondId   ¡¾Ì××°×¨ÓÃ×°±¸¸±Id¡¿
-column = SecondId   ¡¾×°±¸¸±ID¡¿
 column = WeaponRangeAttr   ¡¾ÎäÆ÷Éä³ÌÊôĞÔ£¨Íò·Ö±È£©¡¿
 column = BaseAttributes   ¡¾»ù´¡ÊôĞÔ£¨0=ÊôĞÔid=ÊôĞÔÊıÖµ|0=buffid=0£©¡¿
 column = EntryAttributeOne   ¡¾Á÷ÅÉ´ÊÌõ1¡¿
@@ -178,6 +248,54 @@ column = EquipText   ¡¾ÎÄ±¾ÃèÊö¡¿
 column = RecommendSchool   ¡¾ÍÆ¼öÁ÷ÅÉ¡¿
 column = ReformSkill   ¡¾¸ÄÔì¸½¼Ó¼¼ÄÜ¿âID¡¿
 column = Coloration   ¡¾Ã¿¸öÊ±×°¿ÉÈ¾µÄcolorid£¬Ë÷ÒıLegendFashionColorTable¡¿
+********************./CSV\EquipTipsTable.csv********************
+column = Small   ¡¾Ğ¡ÌåĞÍ¿ËÖÆÏµÊı¡¿
+column = Middle   ¡¾ÖĞÌåĞÍ¿ËÖÆÏµÊı¡¿
+column = Huge   ¡¾´óÌåĞÍ¿ËÖÆÏµÊı¡¿
+column = FunctionID   ¡¾¹¦ÄÜID£¨ĞÂÖ°Òµ¹¦ÄÜ¿ª¹Ø£©¡¿
+********************./CSV\ExpectPriceTable.csv********************
+column = FloatRange   ¡¾ÔÊĞí¸¡¶¯±ÈÀı(Íò·Ö±È)¡¿
+column = Price   ¡¾ÆÚÍû¼Û¸ñ\r\n(Òì³£Çé¿öÈ¡²»µ½Öµ£¬ÓÃµÚÒ»¸öºÏ·¨Öµ)¡¿
+column = NodePrice1   ¡¾·şÎñÆ÷µÈ¼¶30\r\n(Òì³£Çé¿öÈ¡²»µ½¼Û¸ñÊ±£¬Ê¹ÓÃ½Úµã¼Û¸ñ1)¡¿
+column = NodePrice2   ¡¾·şÎñÆ÷µÈ¼¶35¡¿
+column = NodePrice3   ¡¾·şÎñÆ÷µÈ¼¶40¡¿
+column = NodePrice4   ¡¾·şÎñÆ÷µÈ¼¶45¡¿
+column = NodePrice5   ¡¾·şÎñÆ÷µÈ¼¶50¡¿
+column = NodePrice6   ¡¾·şÎñÆ÷µÈ¼¶55¡¿
+column = NodePrice7   ¡¾·şÎñÆ÷µÈ¼¶60¡¿
+column = NodePrice8   ¡¾·şÎñÆ÷µÈ¼¶65¡¿
+column = NodePrice9   ¡¾·şÎñÆ÷µÈ¼¶70¡¿
+column = NodePrice10   ¡¾·şÎñÆ÷µÈ¼¶75¡¿
+column = NodePrice11   ¡¾·şÎñÆ÷µÈ¼¶80¡¿
+column = NodePrice12   ¡¾·şÎñÆ÷µÈ¼¶85¡¿
+column = NodePrice13   ¡¾·şÎñÆ÷µÈ¼¶90¡¿
+column = NodePrice14   ¡¾·şÎñÆ÷µÈ¼¶95¡¿
+column = NodePrice15   ¡¾·şÎñÆ÷µÈ¼¶100¡¿
+column = NodePrice16   ¡¾·şÎñÆ÷µÈ¼¶105¡¿
+column = NodePrice17   ¡¾·şÎñÆ÷µÈ¼¶110¡¿
+column = NodePrice18   ¡¾·şÎñÆ÷µÈ¼¶115¡¿
+column = NodePrice19   ¡¾·şÎñÆ÷µÈ¼¶120¡¿
+column = NodePrice20   ¡¾·şÎñÆ÷µÈ¼¶125¡¿
+column = NodePrice21   ¡¾·şÎñÆ÷µÈ¼¶130¡¿
+column = NodePrice22   ¡¾·şÎñÆ÷µÈ¼¶135¡¿
+column = NodePrice23   ¡¾·şÎñÆ÷µÈ¼¶140¡¿
+column = NodePrice24   ¡¾·şÎñÆ÷µÈ¼¶145¡¿
+column = NodePrice25   ¡¾·şÎñÆ÷µÈ¼¶150¡¿
+column = NodePrice26   ¡¾·şÎñÆ÷µÈ¼¶155¡¿
+column = NodePrice27   ¡¾·şÎñÆ÷µÈ¼¶160¡¿
+column = NodePrice28   ¡¾·şÎñÆ÷µÈ¼¶165¡¿
+column = NodePrice29   ¡¾·şÎñÆ÷µÈ¼¶170¡¿
+column = NodePrice30   ¡¾·şÎñÆ÷µÈ¼¶175¡¿
+********************./CSV\EyeStyleTable.csv********************
+column = MoneyCost   ¡¾»õ±ÒÏûºÄ£¨1Í­±Ò 2ß÷ß÷¹ûÊµ£©¡¿
+********************./CSV\EyeTable.csv********************
+column = EyePrice   ¡¾¼Û¸ñ£¨101Í­±Ò 102ß÷ß÷¹ûÊµ£©¡¿
+column = UseItem   ¡¾Ê¹ÓÃµÀ¾ß½âËø¡¿
+********************./CSV\FarmInfoTable.csv********************
+column = ProfessionId   ¡¾Ö°ÒµID¡¿
+********************./CSV\GachaponPackTable.csv********************
+column = GroupContent   ¡¾½±Àø×éÄÚÈİ£¨Îª-1Ôò¶ÁÈ¡±¾±íÖĞµÄPackId£©¡¿
+column = GuarantGroup   ¡¾±£µ××é£¨0Îª×é±£µ×£¬1ÎªµÀ¾ß±£µ×£©¡¿
 ********************./CSV\GachaponSystemTable.csv********************
 column = PackId   ¡¾½±³ØÄÚÈİid£¬¶à¸ö|·Ö¸ô£¬£¨GachaponPackTableµÄPackId£©¡¿
 column = ServerDaylLimit   ¡¾·şÎñÆ÷ÌìÊıÏŞÖÆ£¨¿ªÆô»î¶¯Ê±µÄ·şÎñÆ÷ÌìÊı£¬Ä¬ÈÏÃ»ÓĞÏŞÖÆ£©¡¿
@@ -190,30 +308,45 @@ column = ProbabilityID   ¡¾ProbabilityInterfaceÖĞµÄInterfaceID£¬¾ßÌåµÀ¾ßÈ¥Probab
 ********************./CSV\GiftPackageTable.csv********************
 column = Value   ¡¾Àñ°ü¼ÛÖµ£¨½öÓÃÓÚÏÔÊ¾£¬²»ÅäÓĞÎÊÌâ£©¡¿
 column = Cost   ¡¾»õ±ÒÏûºÄ£¬°üº¬¼Û¸ñÏûºÄºÍ»õ±ÒÀàĞÍ£¨103ß÷ß÷¹ûÊµ£¬102Zeny±Ò£¬101Í­±Ò£©£¬ÅäÖÃ·½Ê½¾ÙÀı£º103=100£¬²»ÅäÖÃÔòÄ¬ÈÏÎªÃâ·ÑÀñ°ü¡¿
-column = Tab   ¡¾Àñ°üÇø·Ö\r\n(11204:ÔÂ¿¨ÌØÈ¨ÏŞ¹ºÀñ°ü£»11208ÎªÊ×³äËÍÀñ°ü£©¡¿
 ********************./CSV\GlobalTableFight.csv********************
 column = Value   ¡¾Öµ¡¿
 ********************./CSV\GlobalTableSystem.csv********************
 column = Value   ¡¾Öµ¡¿
 ********************./CSV\GlobalTableTask.csv********************
 column = Value   ¡¾Öµ¡¿
+********************./CSV\GreatSecretAttTable.csv********************
+column = EntityId   ¡¾¹ÖÎïID¡¿
+column = GreatSecretNormalAttribute   ¡¾ÆÕÍ¨¹ÖÄÑ¶È¡¿
 ********************./CSV\GuildActivityTable.csv********************
 column = Value   ¡¾Öµ¡¿
-********************./CSV\GuildNewsTable.csv********************
-column = NewsContent   ¡¾ÄÚÈİ¡¿
+********************./CSV\GuildContentTable.csv********************
+column = OpenSystemId   ¡¾ÏµÍ³ID¡¿
+********************./CSV\GuildCrystalBlessingTable.csv********************
+column = BlessingCost   ¡¾Æí¸£Ê¹ÓÃÍ­±ÒÏûºÄ¡¿
+column = BlessingContributionCostt   ¡¾Æí¸£Ê¹ÓÃ¹±Ï×µÄÏûºÄ¡¿
 ********************./CSV\GuildSettingTable.csv********************
 column = Value   ¡¾Öµ¡¿
+********************./CSV\GuildUpgradingTable.csv********************
+column = BlessingStudyExpPerHour   ¡¾Ã¿Ğ¡Ê±ÑĞ¾¿¾­Ñé¡¿
+column = SectionBValue   ¡¾Ñ¡ÏîBÖµ¡¿
+********************./CSV\GvgAreaTable.csv********************
+column = GuildDungeonMonsterPreviewCenter   ¡¾ÖĞĞÄ³Ç±¤¹«»áµØ³ÇÄ§ÎïÔ¤ÀÀ¡¿
+column = GuildDungeonMonsterPreviewNormal   ¡¾·ÇÖĞĞÄ³Ç±¤¹«»áµØ³ÇÄ§ÎïÔ¤ÀÀ¡¿
+********************./CSV\GvgGuildDungeonMonsterTable.csv********************
+column = RandomProb   ¡¾¹ÖÎïºÍÈ¨ÖØ£¨0´ú±í¿Õ£©¡¿
 ********************./CSV\GvgQuestTable.csv********************
 column = Arg   ¡¾²ÎÊı¡¿
 ********************./CSV\GvgSceneTable.csv********************
 column = Listeners   ¡¾¼àÌıÏî£¨ID=²ÎÊı=ÊÇ·ñÓĞ¹«¸æ¡£ÎŞ²ÎÊıµÄÌî-1£¬Ê±¼äÓÃºÁÃë£©¡¿
 ********************./CSV\GvgSuppliesTable.csv********************
 column = Cost   ¡¾ÏûºÄµÀ¾ß£¨µÀ¾ßID=ÊıÁ¿£©¡¿
+********************./CSV\HalloweenPartyTable.csv********************
+column = Value   ¡¾Öµ¡¿
+********************./CSV\ItemAchievingTypeTable.csv********************
+column = SortID   ¡¾ÅÅĞòid¡¿
 ********************./CSV\ItemFunctionTable.csv********************
-column = ItemName   ¡¾µÀ¾ßÃû³Æ¡¿
 column = ItemFunctionValue   ¡¾Ê¹ÓÃĞ§¹ûÖµ£¨Ê¹ÓÃĞ§¹ûÎª4µÄÊ±ºò£¬1ÎªÊ³Æ×µ¯´°¡£Ê¹ÓÃĞ§¹ûÎª8Ê±£¬ÔªËØÊôĞÔ|ÊôĞÔ|Öµ|BUFFID|Íò·Ö±È¸ÅÂÊ£©£¨7Ñ¡ÔñÀñ°ü´Ë´¦ÎªUIÏÔÊ¾ÀàĞÍ£¬1Îªicon£¬2ÎªÍ·ÊÎÄ£ĞÍ£¬3ÎªÔØ¾ßÄ£ĞÍ£©¡¿
 column = ItemEffect   ¡¾µÀ¾ßÊ¹ÓÃÌØĞ§ID¡¿
-column = Prompt   ¡¾Ê¹ÓÃ·¢ËÍ¹«¸æ£¨ÀàĞÍ=messageid:ÀàĞÍ1£¬ ÓÃÓÚ¿İÊ÷Ö¦µÄÌáÊ¾ÀàĞÍ                                                                           £¬ºóÃæµÄmessageÊÇ×Ô´øÊ¹ÓÃÕßĞÕÃûºÍÊ¹ÓÃµÀ¾ß£©¡¿
 column = AchievingShow   ¡¾»ñÈ¡Í¾¾¶°×Ãûµ¥£¨»ñÈ¡Í¾¾¶ÅäÖÃÎª1µÄÀñ°ü£¬ÅäÖÃÎª¿ÕÊ±£¬Àñ°üÄÚËùÓĞµÀ¾ß¶¼»áÌí¼Ó¸ÃÀñ°ü»ñÈ¡Í¾¾¶£¬ÅäÖÃµÀ¾ßidÊ±£¬Àñ°üÄÚÖ»ÓĞ¶ÔÓ¦ÅäÖÃµÄµÀ¾ß²Å»áÏÔÊ¾¸ÃÌõ»ñÈ¡Í¾¾¶£©¡¿
 ********************./CSV\ItemRadioTable.csv********************
 column = ItemID   ¡¾µÀ¾ßid¡¿
@@ -223,21 +356,18 @@ column = ReobtainRelation   ¡¾ÖØ¸´»ñÈ¡Ë÷Òı¹ØÁª£¬Ë÷ÒıÀàĞÍ1=Ë÷Òı¶ÔÏóid1|Ë÷ÒıÀàĞÍ2=
 column = Profession   ¡¾¿ÉÓÃÖ°Òµ£¨¶ÔÓ¦Ö°Òµ±íÖĞid£©×¨ÓĞÖ°Òµ²ÅÄÜÓÃÅäÖÃ5101=1¡¿
 column = Overlap   ¡¾×î´ó¶ÑµşÊıÁ¿£¨²»¿Éµş¼ÓµÀ¾ßÎª1£¬µş¼ÓÊıÁ¿ÓĞÉÏÏŞ£©¡¿
 column = RecycleValue   ¡¾»ØÊÕ¼Û¸ñ\r\n£¨»õ±ÒÀàĞÍ=»õ±ÒÊıÁ¿£©¡¿
-column = CountTime   ¡¾Ê±Ğ§ĞÔ²ÎÊı£¨type1ÅäÖÃÊ±¼ä£¨Ãë£©£»type2ÅäÖÃÊ±¼ä£¨Ãë£©£»type3ÅäÖÃDailyActivitiesTable»î¶¯id £»type5ÅäÖÃTimeLimitActivityTableµÄActTypeÀàĞÍ£¬type6ÅäÖÃTimeLimitActivityTable±íµÄActType=»î¶¯id£¬type11ÅäÖÃActType=Ê±¼ä£¨µ¥Î»£ºÃë£©£¬±íÊ¾¸Ã»î¶¯½áÊøNÃëºó»ØÊÕ£©¡¿
 column = TimeLimitRecycleValue   ¡¾½ÚÈÕ»î¶¯»ØÊÕÁĞ£¨itemid=ÊıÁ¿£¬ÅäÖÃÇ°ºË¶Ô¸ÃµÀ¾ßÊÇ·ñÖ»ÓĞ½ÚÈÕ»î¶¯ÖĞÓÃµ½£©¡¿
 ********************./CSV\ItemTableTask.csv********************
 column = Overlap   ¡¾×î´ó¶ÑµşÊıÁ¿£¨²»¿Éµş¼ÓµÀ¾ßÎª1£¬µş¼ÓÊıÁ¿ÓĞÉÏÏŞ£©¡¿
-********************./CSV\ItemUseLimitTable.csv********************
-column = Para   ¡¾²ÎÊı¡¿
 ********************./CSV\JobAwardTable.csv********************
 column = ProfessionID   ¡¾Ö°ÒµID¡¿
-********************./CSV\JobLvTable.csv********************
-column = Exp   ¡¾Éı¼¶ÇúÏß¡¿
 ********************./CSV\LeaderBoardComponentTable.csv********************
 column = RecordCount   ¡¾×î´ó¼ÇÂ¼ÌõÊı¡¿
 column = Reward   ¡¾ÅäÖÃ¸÷¸öÅÅÃûÇø¼ä¶ÔÓ¦µÄ½±ÀøÓÊ¼şID£¬¸ñÊ½Îª¡°ÆğÊ¼Ãû´Î=½áÊøÃû´Î=½±ÀøÓÊ¼şID¡±¡¿
 column = DungeonID   ¡¾¸±±¾id£¨ÎŞ·¨Ö±½Ó¶ÔÓ¦µÄÁô¿Õ£©¡¿
 column = Job   ¡¾Ö°Òµid£¨ÎŞ·¨Ö±½Ó¶ÔÓ¦µÄÁô¿Õ£©¡¿
+********************./CSV\LeaderMethodDetailTable.csv********************
+column = SkillIds   ¡¾ÓµÓĞµÄ¼¼ÄÜ¡¿
 ********************./CSV\LegendCollectSuit.csv********************
 column = ComponentIDBoy   ¡¾ÄĞ½ÇÉ«Ì××°ÄÚ×éºÏ¡¿
 column = ComponentIDGirl   ¡¾Å®½ÇÉ«Ì××°ÄÚ×éºÏ¡¿
@@ -251,12 +381,10 @@ column = ProbabilityShows   ¡¾ProbabilityInterfaceÖĞµÄInterfaceID£¬¾ßÌåµÀ¾ßÈ¥Pro
 ********************./CSV\LotteryPropTable.csv********************
 column = Prop   ¡¾µÀ¾ß£¨µÀ¾ßid=µÀ¾ßÊıÁ¿£©¡¿
 column = ServerDaylLimit   ¡¾·şÎñÆ÷ÌìÊıÏŞÖÆ£¨¿ªÆô»î¶¯Ê±µÄ·şÎñÆ÷ÌìÊı£¬Ä¬ÈÏÃ»ÓĞÏŞÖÆ£©¡¿
-********************./CSV\LotterySystemTable.csv********************
 ********************./CSV\MagicPaperGiftTable.csv********************
 column = GiftZenys   ¡¾Àñ°üzeny¡¿
 column = GiftLargeZenys   ¡¾¾Ş¶îÀñ°üzeny2¡¿
 column = GiftLargeCoins   ¡¾¾Ş¶îÀñ°üÍ­±Ò¡¿
-********************./CSV\MagicPaperTypeTable.csv********************
 ********************./CSV\MailTable.csv********************
 column = Sender   ¡¾¼Ä¼şÈË(ÌîNpcTable±íÀïµÄID£¬Ä¿Ç°½öÖ§³Önpc±í¶ÔÓÚIDÓĞÍ·ÏñµÄ£¬²»Ö§³ÖÆ´½ÓµÄ)¡¿
 column = MailGroupContent   ¡¾ÓÊ¼ş½±Àø×éÄÚÈİ¡¿
@@ -265,25 +393,18 @@ column = MainIcon   ¡¾ĞèÒªÏÔÊ¾µÄ°´Å¥£¨¶ÔÓ¦OpenSystemTable±íÀïÃæĞèÒªÔÚÖ÷UIÉÏÏÔÊ¾µ
 ********************./CSV\MallInterfaceTable.csv********************
 column = WeightId   ¡¾È¨ÖØÖµ²ÎÊı£¨¶ÔÓ¦MallTableÖĞµÄWeightPoolParameter×Ö¶Î£©¡¿
 ********************./CSV\MallTable.csv********************
-column = ItemID   ¡¾ÉÌÆ·ID¡¿
 column = SequenceId   ¡¾ÅÅĞòid¡¿
 column = cost   ¡¾»õ±ÒÏûºÄ£¬°üº¬¼Û¸ñÏûºÄºÍ»õ±ÒÀàĞÍ£¨103ß÷ß÷¹ûÊµ£¬102Zeny±Ò£¬101Í­±Ò£©£¬Ò»¸öÉÌÆ·Ö§³Ö¶à¸ö»õ±ÒÀàĞÍ£¬µ«Ë¢ĞÂ³öÀ´Ê±Ö»ËæÒ»¸ö»õ±ÒÀàĞÍ£¬ÅäÖÃ·½Ê½¾ÙÀı£º103=100|102=10000£»cost×Ö¶ÎÖ§³Ö 101=FunctionµÄÅäÖÃĞÎÊ½£¬¼´Ç°ÃæÎªÀàĞÍ£¬ºóÃæÎªº¯ÊıÃû¡¿
 column = WeightPoolParameter   ¡¾È¨ÖØ³Ø²ÎÊı£¬ÓÃÓÚ±ê×¢³öÃ¿¸öÈ¨ÖØËæ»ú³Ø£¬1¸öÒ³Ç©ÏÂÖ§³Ö¶à¸öÈ¨ÖØËæ»ú³Ø£¬²»Í¬µÄÉÌÆ·ÔÚ¸÷×Ô¶ÔÓ¦µÄËæ»ú³ØÖĞ½øĞĞËæ»ú¡£¡¿
-column = Weight   ¡¾Ë¢ĞÂÈ¨ÖØ£¬¿ØÖÆË¢ĞÂ³öÀ´µÀ¾ßµÄÈ¨ÖØ£¬¶ÔÓ¦WeightPoolParameter¡¿
 column = ServerDays   ¡¾·şÎñÆ÷¿ª·şÌìÊıÅäÖÃ£¬¸ñÊ½¾ÙÀı1£º7=10£¬¼´¿ª·şµÚ7ÌìÖÁ¿ª·şµÚ10Ìì£¬Ã¿¹ıÒ»´Î5µãÔò¼ÆÎª1Ìì¡¿
 column = LimitProfession   ¡¾Ö°ÒµÏŞÖÆ£¬ÈôÉÌÆ·ÅäÖÃÁË¶ÔÓ¦ÖµÔòÖ»ÓĞ¶ÔÓ¦Ö°Òµ¿É¼û£¬0Ä¬ÈÏÎªÎŞÖ°ÒµÏŞÖÆ¡¿
-column = DeliverWay   ¡¾0=0£º´óÂ½°æ±¾Ö±½Ó½ø±³°ü£»1=ÓÊ¼şID£¬º«¹ú°æ±¾×ßÓÊ¼ş£»7006Îª¸¶·ÑÓÊ¼ş£¬7007ÎªÆÕÍ¨ÓÊ¼ş¡¿
 ********************./CSV\MapMatchTable.csv********************
 column = AllRuleUnlimitTime   ¡¾ËùÓĞÆ¥Åä¹æÔò·Å¿ªÊ±¼ä¡¿
 ********************./CSV\MapTable.csv********************
 column = LocalKapulaId   ¡¾±¾µØÍ¼ËùÓĞµÄ¿¨ÆÕÀ­ID¡¿
 ********************./CSV\MazeRandomTable.csv********************
 column = GroupInsideRate   ¡¾×éÄÚ¸ÅÂÊ\r\nÍò·Ö±È£¬×î´óÖµ10000¡¿
-********************./CSV\MazeRoomTable.csv********************
-column = SceneID   ¡¾ËùÊô³¡¾°ID¡¿
-********************./CSV\MedalAttrTable.csv********************
 ********************./CSV\MedalConsumeTable.csv********************
-column = TotalCost   ¡¾Éı¼¶ËùĞèÉùÍû¡¿
 column = OnceConsumeZeny   ¡¾µ¥´Î½úÉıËùĞèµÄÍ­±ÒÖµ¡¿
 ********************./CSV\MedalTable.csv********************
 column = OnceConsumeZeny   ¡¾OnceConsumeZeny¡¿
@@ -293,14 +414,27 @@ column = AdvancedCost   ¡¾½ø½×ÏûºÄ¡¿
 column = PlayerExp   ¡¾ÈËÎï·ÖµÄÍò·Ö±È¡¿
 ********************./CSV\MercenaryLevelTable.csv********************
 column = Exp   ¡¾ÏûºÄ¡¿
-column = EquipExp   ¡¾×°±¸ÏûºÄ¡¿
+********************./CSV\MercenaryTable.csv********************
+column = Profession   ¡¾Ö°Òµ¡¿
+column = Skill   ¡¾¼¼ÄÜ¡¿
+column = Point   ¡¾¼Óµã¡¿
+column = Talent   ¡¾Ìì¸³¡¿
 ********************./CSV\MercenaryTalentTable.csv********************
 column = Buff   ¡¾Ìì¸³ÊôĞÔ£¨0´ú±í¾ßÌåÊôĞÔ£¬1´ú±íBUFF£©¡¿
+********************./CSV\MerchantMakeEnchantTable.csv********************
+column = UnlockSkillID   ¡¾½âËøËùĞè¼¼ÄÜID¡¿
+********************./CSV\MerchantMakeMaterialsTable.csv********************
+column = Unlock   ¡¾½âËøËùĞè¼¼ÄÜIDºÍµÈ¼¶¡¿
+column = BaseProbability   ¡¾»ù´¡¸ÅÂÊ(Íò·Ö±È)¡¿
 ********************./CSV\MessageTable.csv********************
 column = NpcID   ¡¾NPCÄ£ĞÍID£¬ÓÃÔÚtype22ÉÏ£¨1=NpcId 2=EntityId£©¡¿
-column = SystemId   ¡¾¹¦ÄÜ¿ªÆôid£¬½ö¶Ôtype=53ÉúĞ§£¬ÅäÖÃidÔò¶ÔÓ¦¹¦ÄÜ¿ªÆô²ÅÏÔÊ¾°ïÖúĞÅÏ¢£¬²»ÅäÔò²»ÊÜÓ°Ïì¡¿
-********************./CSV\MiaoRechargeTable.csv********************
-column = Base   ¡¾´ï³ÉÌõ¼şß÷¹ûÊı¶î¡¿
+********************./CSV\MonkQTECustomSkillTable.csv********************
+column = ContinueSkillID   ¡¾¿É½ÓÖ÷¼üµÄ¼¼ÄÜID¡¿
+********************./CSV\MonkQTESkillTable.csv********************
+column = FirstSkillID   ¡¾µÚÒ»À¸Î»ID¡¿
+column = SecondSkillID   ¡¾µÚ¶şÀ¸Î»ID¡¿
+column = ThirdSkillID   ¡¾µÚÈıÀ¸Î»ID¡¿
+column = FourthSkillID   ¡¾µÚËÄÀ¸Î»ID¡¿
 ********************./CSV\MonsterDataTable.csv********************
 column = MonsterId   ¡¾¹ÖÎïID¡¿
 column = PosInfo   ¡¾³¡¾°IDÁĞ±í(|·Ö¸î¶à¸ö)¡¿
@@ -308,28 +442,16 @@ column = PosInfo   ¡¾³¡¾°IDÁĞ±í(|·Ö¸î¶à¸ö)¡¿
 column = MonsterConfig   ¡¾¶ÔÓ¦¹ÖÎïIDºÍÈ¨ÖØ¡¿
 ********************./CSV\MonsterSuppressTable.csv********************
 column = DamUpPara   ¡¾¹ÖÎïÉËº¦Ôö¼Ó£¨¹ÖÎïÀàĞÍ=ÉËº¦Ôö¼ÓÁ¿|¹ÖÎïÀàĞÍ=ÉËº¦Ôö¼ÓÁ¿£©¡¿
-********************./CSV\MonthCardTable.csv********************
-column = LinkId   ¡¾Ìø×ª¹¦ÄÜID£¨ÓĞÔòÏÔÊ¾£¬ÎŞÔò²»ÏÔÊ¾£©¡¿
 ********************./CSV\MultiTalentTable.csv********************
 column = CostItem   ¡¾¼¤»îÏûºÄ£¬ÅäÖÃ¸ñÊ½£º²ÄÁÏId=ÊıÁ¿£¬¶àÖÖ²ÄÁÏÊ±ÓÃÊúÏß¸ô¿ª£¬Ö§³ÖÅä¿Õ£¬×¢Òâ£ºÖ§³Ö¶à²ÄÁÏÅäÖÃµÄ²»ÒªÌî0£¬Ã»ÓĞ¾ÍÖ±½Ó²»Ìî¡¿
-********************./CSV\MvpTable.csv********************
 ********************./CSV\NewKingActivity.csv********************
 column = TotalScore   ¡¾½âËøÕ÷ÕÙÖµ¡¿
 ********************./CSV\NewProfessionSystemTable.csv********************
 column = ProfessionLimit   ¡¾Ö°ÒµÏŞ¶¨£¨ÌîÔÊĞíµÄÖ°ÒµID,²Î¿¼ProfessionTableµÄID¡¿
-********************./CSV\NoticeLoadTable.csv********************
-column = NoticeLoadContent   ¡¾ÈÎÎñÄÚÈİ¡¿
-********************./CSV\NoticeTable.csv********************
-column = NoticeContent   ¡¾ÈÎÎñÄÚÈİ¡¿
-********************./CSV\NpcActivityTable.csv********************
-column = TimeLimit   ¡¾×Ô¶¨ÒåÈËÎÄÕ¹Ê¾Ê±¼ä¶Î£¨Èç¹ûÅäÖÃÁËÏŞÊ±»î¶¯ID£¨»òÈÕ³£»î¶¯ID£©ÓÖÅäÖÃÁË×Ô¶¨ÒåÈËÎÄÕ¹Ê¾Ê±¼ä¶Î£¬Ôò±íÊ¾£¬ÔÚÏŞÊ±»î¶¯£¨»òÈÕ³£»î¶¯£©»î¶¯ÆÚ¼ä£¬ÔÚÅäÖÃµÄ×Ô¶¨ÒåÊ±¼ä·¶Î§ÄÚ£¬ÈËÎÄ×öÌØÊâ±íÏÖ£»²»¿ÉÅäÖÃÑ­»·£©¡¿
 ********************./CSV\NpcDataTable.csv********************
 column = NpcId   ¡¾NPCÖ÷¼ü¡¿
 column = SceneId1   ¡¾³¡¾°id1¡¿
 column = SceneId2   ¡¾³¡¾°id2¡¿
-column = SceneId3   ¡¾³¡¾°id3¡¿
-column = SceneId4   ¡¾³¡¾°id4¡¿
-column = SceneId5   ¡¾³¡¾°id5¡¿
 column = TaskAccept   ¡¾ÈÎÎñ½ÓÈ¡¹ØÁª¡¿
 column = TaskFinish   ¡¾ÈÎÎñ½»¸¶¹ØÁª¡¿
 column = TaskTarget2   ¡¾ÈÎÎñÄ¿±ê2¹ØÁª¡¿
@@ -340,20 +462,19 @@ column = DefaultEquipID   ¡¾ÂãÄ£ID¡¿
 column = PresentID   ¡¾Ä£°åID¡¿
 column = ShowUp   ¡¾±íÑİ¶¯×÷¡¿
 column = DialogAnim   ¡¾¶Ô»°¶¯×÷¡¿
-column = ReNpcId   ¡¾¸´ÓÃµÄNPCid£¬²ß»®ÓÃ¡¿
 column = NPCShowScript   ¡¾NPC×Ô¶¯Õ¹Ê¾¾ç±¾£¨¾ç±¾Ãû=tagÃû£©¡¿
 column = NPCScript   ¡¾NPC¶Ô»°¾ç±¾£¨¾ç±¾Ãû=tagÃû£©¡¿
 column = NPCRangeCheckScript   ¡¾¼ì²éNPC¾àÀë×Ö¶Î£¨¾àÀë=¾ç±¾Ãû=tagÃû£©¡¿
 column = EntityID   ¡¾¶ÔÓ¦EntityID¡¿
-column = ElfID   ¡¾²¨ÀûÍÅID¡¿
 column = AppearCommandScript   ¡¾NPC³öÉúºó²¥·Å¾ç±¾£¨¾ç±¾id=tagÃû£©¡¿
 column = DisappearCommandScript   ¡¾NPCÏûÊ§Ç°²¥·Å¾ç±¾£¨¾ç±¾id=tagÃû£©¡¿
 ********************./CSV\NumLimitTable.csv********************
 column = Level   ¡¾Íæ¼ÒµÈ¼¶ÏÂÏŞ=Íæ¼ÒµÈ¼¶ÉÏÏŞ=»ñÈ¡ÉÏÏŞ£¬¿ÉÒÔ|·Ö¶à¶Î¡¿
+********************./CSV\OpenSkillTable.csv********************
+column = SkillIds   ¡¾¿ªÆôµÄ¼¼ÄÜId£¨vector<uint>£©¡¿
 ********************./CSV\OpenSystemTable.csv********************
 column = ParentID   ¡¾¹éÊô¹¦ÄÜIdtypetab=2Ê±ĞèÒª£¨Ö»¹©¿Í»§¶Ë±íÏÖÓÃ£©¡¿
 column = FatherID   ¡¾¸¸ID£¨¹¦ÄÜ¿ª¹ØÓÃ£©¡¿
-column = FunctionOrder   ¡¾¹¦ÄÜº¯ÊıÃû£¨³ÌĞòÌá¹©£©¡¿
 column = TaskId   ¡¾Íê³ÉÈÎÎñId¡¿
 ********************./CSV\OpenWorldInfluenceTable.csv********************
 column = Probability   ¡¾Ã¿´Î´¥·¢³É¹¦µÄ¿ÉÄÜĞÔ°Ù·Ö±È£¨10000±íÊ¾100%£©¡¿
@@ -369,11 +490,7 @@ column = Buff   ¡¾Ìí¼ÓµÄBuff£¨BuffId=¸ÅÂÊÍò·Ö±È£©¡¿
 column = ExtraNum   ¡¾±»¶¯¼¼ÄÜ²ÎÊı¡¿
 ********************./CSV\PayGlobalTable.csv********************
 column = Value   ¡¾Öµ¡¿
-********************./CSV\PaymentTable.csv********************
-column = AwardId   ¡¾½±ÀøÄÚÈİ£¨Êı×é£¬1Îªawardid£¬2Îªitemid,1=awardid=mailid£©¡¿
-column = AwardExtraId   ¡¾c³¬³öÏŞ¹º½±ÀøÄÚÈİ£¨Êı×é£¬1Îªawardid£¬2Îªitemid,1=awardid=mailid£©¡¿
 ********************./CSV\PetDungeonTable.csv********************
-column = SceneID   ¡¾³¡¾°id¡¿
 column = ProgressUp   ¡¾½ø¶ÈÌõÕÇ·ù£¨¹ÖÎïÀàĞÍ1=Ã¿Ö»ÕÇ·ù=Ã¿·ÖÖÓÕÇ·ùÉÏÏŞ|¹ÖÎïÀàĞÍ2=Ã¿Ö»ÕÇ·ù¡­£©£¬ÕÇ·ùÉÏÏŞ²»ÌîÔòÄ¬ÈÏÃ»ÓĞÉÏÏŞ¡¿
 ********************./CSV\PRDQueryTable.csv********************
 column = ProbabilityC   ¡¾³é¿¨ÖÆµÄ¿¨Æ¬ÕÅÊı¡¿
@@ -390,20 +507,34 @@ column = Value   ¡¾ÊıÁ¿£¨½±ÀøIDµÄÊıÁ¿£©¡¿
 column = Probability   ¡¾²ú³ö¸ÅÂÊ£¨Íò·Ö±È£©¡¿
 ********************./CSV\ProfessionPreviewTable.csv********************
 column = SkillClassPreview   ¡¾Á÷ÅÉ¼¼ÄÜÔ¤ÀÀ£¨×î¶àÈı¸ö£© vector<sequence<int, 2>>¡¿
+********************./CSV\ProfessionTable.csv********************
+column = ParentProfession   ¡¾¸¸Ö°Òµ£¨0ÎªÎŞ¸¸Ö°Òµ£©¡¿
+column = DefaultEquipM   ¡¾ÂãÄ£(ÄĞ)¡¿
+column = DefaultEquipF   ¡¾ÂãÄ£(Å®)¡¿
+column = SkillIds   ¡¾ÓµÓĞµÄ¼¼ÄÜ£¨Èç¹û¼¼ÄÜÓĞ¶îÍâ±»¶¯£¬ÓÃµÈºÅÁ´½Ó£©¡¿
+column = ParentTransfromSkills   ¡¾¸¸½ÚµãÌæ»»¼¼ÄÜ£¨ÉÏÒ»¸öÖ°ÒµµÄ¼¼ÄÜÌæ»»£¬·şÎñÆ÷ÓÃ£©¡¿
+column = RootTransfromSkills   ¡¾¸ù½ÚµãÌæ»»¼¼ÄÜ£¨±¾Ïµ×î³õÊ¼Ö°ÒµµÄ¼¼ÄÜÌæ»»£¬¿Í»§¶ËÓÃ£©¡¿
+column = FixedSkillIds   ¡¾Ö°Òµ¹Ì¶¨¼¼ÄÜ¡¿
+column = FixedUnlockSkillIds   ¡¾Ö°Òµ¹Ì¶¨¼¼ÄÜ£¬³õÊ¼Î´½âËø¡¿
+column = FixedCommonSkillIds   ¡¾Í¨ÓÃ¼¼ÄÜID¡¿
+column = AttrRecommend   ¡¾Á÷ÅÉÍÆ¼ö¼ÓµãID¡¿
+column = HatredCount   ¡¾Ôì³É³ğºŞ±¶ÂÊ¡¿
+column = BornBuff   ¡¾³öÉúBuff(id=¸ÅÂÊ¡¿
+column = CommonAttackSkillID   ¡¾µã»÷¹ÖÎï×Ô¶¯ÊÍ·Å¼¼ÄÜ¡¿
 ********************./CSV\ProfessionTextTable.csv********************
 column = RecommendClass   ¡¾³ÉĞÍid¡¿
 ********************./CSV\PushInformationTable.csv********************
 column = OpenSystemID   ¡¾¹¦ÄÜID£¬¼´ĞèÒª¸Ã½ÇÉ«¶ÔÓ¦¹¦ÄÜ¿ª·Åºó²Å¼ì²âÍÆËÍ¡£\r\n£¨¶ÔÓ¦OpenSystemTable±íµÄId×Ö¶Î£©¡¿
-********************./CSV\RandomShowTable.csv********************
-column = BarberStyleID   ¡¾·¢ĞÍ£¨BarberStyleTable±íBarberStyleID£©¡¿
+********************./CSV\QTEGuideTable.csv********************
+column = SkillId   ¡¾¼¼ÄÜId(Èç¹û²»ÊÇ¼¼ÄÜÌî0)¡¿
+column = ShowSkillId   ¡¾Õ¹Ê¾Í¼±êµÄ¼¼ÄÜID¡¾ÓÃÓÚÌØÊâ´¦ÀíQTE¼¼ÄÜÊµ¼Ê¼¼ÄÜIDÓë¼¼ÄÜÍ¼±ê²»Ïà·ûµÄÇé¿ö¡¿¡¿
+********************./CSV\QTESkillTable.csv********************
+column = SkillGroup   ¡¾¼¼ÄÜ×é¡¿
+column = QteBuffID   ¡¾¼ì²âQTE¼¼ÄÜ¿ªÊ¼Ê±²¥³ÖĞøÌØĞ§¡¿
 ********************./CSV\RankPVPAffixTable.csv********************
 column = EffectParam   ¡¾Ğ§¹û²ÎÊı¡¿
-********************./CSV\RankPVPChampionTable.csv********************
-column = ShowType   ¡¾1Ãûµ¥£¬2ÓÊ¼ş£¬3ÏµÍ³ÏûÏ¢£¬4ÅÄÁ³Í¼(Àı2=ÓÊ¼şID|3=ÏûÏ¢ID£©£¬5Õ½¶ÓĞÂÎÅÍÆËÍ¡¿
 ********************./CSV\RankPVPLevelTable.csv********************
 column = RankScore   ¡¾×ª»»Îª·ÖÊı¡¿
-********************./CSV\RankPVPPoolTable.csv********************
-column = DungeonList   ¡¾¸±±¾ÁĞ±í¡¿
 ********************./CSV\RebateMonthlyCard.csv********************
 column = FirstMailId   ¡¾¿ªÍ¨ºóÊ×·âÓÊ¼şid¡¿
 column = DayMailId   ¡¾¿ªÍ¨ºóÃ¿ÌìÓÊ¼şid¡¿
@@ -411,14 +542,11 @@ column = ProductId   ¡¾¿ªÍ¨ºóÊ×´Î»ñµÃPaymentTable±íÖ÷¼üID¡¿
 ********************./CSV\RechargeGroupTable.csv********************
 column = MainId   ¡¾ÊÛÂôÀñ°üÖ÷¼üID¡¿
 ********************./CSV\RechargePackageTable.csv********************
-column = ProductId   ¡¾Ö±¹ºÀñ°üID£¨payment±íSameTabÁĞÖµ£©¡¿
 column = ServerDaysLimit   ¡¾·şÎñÆ÷¿ª·şÊ±¼äÌìÊıÏŞÖÆ£¨10=30£¬Á½±ßÖµ°üº¬ÔÚÄÚ£©¡¿
 column = Value   ¡¾Àñ°ü¼ÛÖµ£¬×¢Òâ¼ÛÖµ½ğ¶î¶ÔÓ¦µØÇø»õ±Ò£¬ Ö§³Ö²»Åä¾Í²»ÏÔÊ¾¡¿
 ********************./CSV\RechargeTable.csv********************
 column = PaymentID   ¡¾PaymentTableID¡¿
-column = OpenSystemID   ¡¾ÌØÊâ¹¦ÄÜÊ¶±ğ¡¿
 ********************./CSV\RecipeTable.csv********************
-column = RecipeType   ¡¾Ê³Æ×ÀàĞÍ£¨6040.Åëâ¿ 6050.Ò©¼Á 6060.ÌğÆ· 6070.ÎäÆ÷Ò±Á¶ 6080.·À¾ßÒ±Á¶ 6090.ÊÎÆ·Ò±Á¶ 6110.Åëâ¿×éºÏ 6120.ÖÆÒ©×éºÏ£©¡¿
 column = Ingredients   ¡¾²ÄÁÏ1µÄID=²ÄÁÏ1µÄ¸öÊı|²ÄÁÏ2µÄID=²ÄÁÏ2µÄ¸öÊı¡¿
 ********************./CSV\RedDotCheckTable.csv********************
 column = OpenSystemID   ¡¾¼ì²â¹¦ÄÜÏŞÖÆ\r\n¶ÔÓ¦¹¦ÄÜID\r\n½âËøºó²Å¼ì²â¡¿
@@ -429,45 +557,82 @@ column = SingleMoneyMin   ¡¾µ¥¸öºì°ü¶î¶ÈÏÂÏŞ¡¿
 ********************./CSV\RefineOrnamentTransfer.csv********************
 column = OrnamentConsume   ¡¾ÅäÊÎÏûºÄ¡¿
 column = OtherConsume   ¡¾ÔİÊ±¿ÕÖÃ¡¿
-********************./CSV\RouletteTable.csv********************
-column = OpenSystemId   ¡¾ÏµÍ³id¡¿
+********************./CSV\RefineTransfer.csv********************
+column = WeaponConsume   ¡¾¾«Á¶×ªÒÆÏûºÄ¡¿
+column = OtherConsume   ¡¾·ÇÎäÆ÷ÏûºÄ£¨·ÏÆú£©¡¿
+********************./CSV\RoleNurturanceTable.csv********************
+column = SystemId   ¡¾¹¦ÄÜID¡¿
+column = Parameter   ¡¾ÀàĞÍ²ÎÊı¡¿
+column = Score   ¡¾½×¶Î×Ü·Ö¡¿
+column = HighScore   ¡¾¸ßÄ£½×¶Î×Ü·Ö¡¿
 ********************./CSV\SameScreenShowTable.csv********************
 column = Weight   ¡¾È¨ÖØ¡¿
 ********************./CSV\SceneObjTable.csv********************
-column = Params   ¡¾²ÎÊı\r\nÆÕÍ¨³¡¾°Îï¼ş£º¶ÔÓ¦SpecialActionTableµÄID\r\n¿ª¹Ø£ºÎŞ\r\nµ¥ÈËÅëâ¿£ºÎŞ\r\nË«ÈËÅëâ¿£º£¨Ê³²Ä£ºÊ³ÎïID¹ø£º×î´ó¿É¼ÓÊ³²ÄÊı Õè°å:¶ÔÓ¦ÇĞ²Ë¶¯×÷ID£©¡¿
 column = EventChance   ¡¾¸ÅÂÊNum=1000¡¿
 ********************./CSV\SceneTable.csv********************
-column = PublicSceneID   ¡¾¸´ÓÃµÄ³¡¾°ID£¨´ËÊı¾İµÄÒâÒåÔÚÓÚ£¬ÓĞ¸´ÓÃµÄ³¡¾°Ê±£¬·şÎñÆ÷²»ÓÃÖØ¸´È¥¶à¼ÓÔØÒ»·İ¶àÓàµÄ³¡¾°Êı¾İÁË£¬¼õÉÙ·şÎñÆ÷¿ªÏú¡£±ÈÈçÆÕÂ¡µÂÀ­¾µÏñ¾Í¸´ÓÃÆÕÂ¡µÂÀ­µÄ×ÊÔ´£¬ÕâÊ±ºòÕâÀï¾ÍÌîÆÕÂ¡µÂÀ­µÄ³¡¾°ID£¬²»¸´ÓÃµÄ¾Í²»Ìî£©¡¿
 column = FirstInCutscene   ¡¾³õ´Î½øÈë¸Ã³¡¾°Ê±²¥·ÅµÄ¹ı³¡¶¯»­¡¿
 column = EnterCutSceneId   ¡¾½øÈë³¡¾°ºó²¥·ÅµÄcutscene£¬×ßcutscenetable£¬¿ÉÖØ¸´²¥·Å¡¿
-********************./CSV\SeasonTable.csv********************
-column = ActivitySystemId   ¡¾×ÓÍæ·¨¹¦ÄÜID£¨¶à¸öÓÃ|·Ö¸ô£©¡¿
+********************./CSV\ScrollMakeTable.csv********************
+column = Unlock   ¡¾½âËøËùĞè¼¼ÄÜIDºÍµÈ¼¶¡¿
+column = Cost   ¡¾ÏûºÄµÀ¾ß¡¿
+column = BaseProbability   ¡¾»ù´¡¸ÅÂÊ(Íò·Ö±È)¡¿
 ********************./CSV\SeasonTotalRechargeTable.csv********************
 column = Base   ¡¾´ï³ÉÌõ¼ş³äÖµÊı¶î¡¿
 column = FreeRebatePackage   ¡¾·µÀûÀñ°üÖ÷¼ü£¨GiftPackageTableÖĞMajorID)¡¿
+********************./CSV\ServerBaseBonusTable.csv********************
+column = ExpRate   ¡¾¾­Ñé¼Ó³É±ÈÀı(Íò·Ö±È)¡¿
+********************./CSV\ServerJobBonusTable.csv********************
+column = ExpRate   ¡¾¾­Ñé¼Ó³É±ÈÀı(Íò·Ö±È)¡¿
 ********************./CSV\ShareTable.csv********************
 column = ShareId   ¡¾·ÖÏíID£¬Ìá¹©Ë÷ÒıµÄÖ÷¼ü¡¿
-********************./CSV\ShopTable.csv********************
-column = SystemId   ¡¾¶ÔÓ¦¹¦ÄÜÃû¡¿
-********************./CSV\SkillTipsLinkTable.csv********************
-column = FunctionId   ¡¾¹¦ÄÜID¡¿
+********************./CSV\ShopCommoditTable.csv********************
+column = ItemId   ¡¾µÀ¾ßID¡¿
+column = ItemPerPrice   ¡¾µ¥´Î¹ºÂò¼Û¸ñ£¨»õ±ÒID=ÊıÁ¿£©¡¿
+column = JobLimit   ¡¾Ö°ÒµÏŞÖÆ£¨Ö°ÒµID¿ÉÂò£©£¬ÎŞÏŞÖÆÅä0¡¿
+column = TimeLimit   ¡¾Ê±Ğ§£¨ÆğÊ¼Ê±¼ä=½áÊøÊ±¼ä£©£¬ÎŞÏŞÖÆÅä0¡¿
+********************./CSV\SkillClassRecommandTable.csv********************
+column = SkillIds   ¡¾ÍÆ¼ö¼¼ÄÜ vector<int> ×î¶à3¸ö¡¿
+********************./CSV\SkillComboTable.csv********************
+column = Combo   ¡¾Á¬ÕĞA=B=Level£¨Í¬comboÏÂÁ¬ÕĞ¶ÔÓ¦µÈ¼¶ÎŞÔò²»Ìî£©¡¿
+column = ReplaceSkillId   ¡¾Á¬Ğø¼¼ÊÍ·ÅÌæ»»¼¼ÄÜ£¨ÎŞÔò²»Ìî£©¡¿
+********************./CSV\SkillDataTable.csv********************
+column = SkillId   ¡¾¼¼ÄÜID¡¿
+column = ProfessionId   ¡¾Ö°ÒµId¡¿
+********************./CSV\SkillMatchTable.csv********************
+column = Profession   ¡¾Á÷ÅÉ¡¿
+column = Skill_Id_0   ¡¾¼¼ÄÜ1µÄID¡¿
+********************./CSV\SlimeLevelTable.csv********************
+column = Exp   ¡¾¾­Ñé¡¿
+********************./CSV\SlimeTable.csv********************
+column = Skill   ¡¾¼¼ÄÜ¡¿
+column = DefaultSkill   ¡¾ÌìÉú¼¼ÄÜ¡¿
+column = Point   ¡¾¼Óµã¡¿
+column = AdvancedCondition   ¡¾½ø½×Ìõ¼ş\n1Ìõ¼şÊÇ½ÇÉ«Ö°ÒµÌõ¼ş£¬2Ìõ¼şÊÇÉúÃüÌåµÈ¼¶Ìõ¼ş\n1=Ö°ÒµID|2=ÉúÃüÌåµÈ¼¶¡¿
 ********************./CSV\SocialGlobalTable.csv********************
 column = Value   ¡¾Öµ¡¿
 ********************./CSV\SpecialItemTipsTable.csv********************
 column = ItemID   ¡¾µÀ¾ß¡¿
+********************./CSV\StallDetailTable.csv********************
+column = InventoryUpperLimit   ¡¾È«·ş¿â´æÉÏÏŞ£¬´ïµ½ÉÏÏŞºó²»ÔÊĞíÉÏ¼Ü(ÁÙÊ±¶¨Ò»¸ö¶ÑµşÉÏÏŞ¡Á1000)\r\n×¢£ºĞèÒª¶¯Ì¬±ä»¯¡¿
+column = BasePrice   ¡¾»ù´¡¼Û¸ñ¡¿
+column = PriceLimit   ¡¾¼Û¸ñÏŞÖÆ·¶Î§¡¿
+column = PriceFixPara   ¡¾¼Û¸ñĞŞÕı²ÎÊı\r\n×¢£ºĞèÒª¶¯Ì¬±ä»¯¡¿
+********************./CSV\SuitTable.csv********************
+column = ComponentID   ¡¾ÅäÖÃ¸ñÊ½£ºType=²ÄÁÏID1=²ÄÁÏID2,¶à¸öÀàĞÍÊ±ÓÃÊúÏß¸ô¿ª£¨Type1£º×°±¸£¬Type2:²ÄÁÏ£¬×°±¸Ê±×ß¸±Id,²ÄÁÏÊ±×ßID£©¡¿
+column = RecommendSchool   ¡¾ÍÆ¼öÁ÷ÅÉ¡¿
+column = ProfessionId   ¡¾ÍÆ¼öÖ°Òµ£¬½öÌ××°Í¼¼øÓÃ¡¿
 ********************./CSV\SuperMedalAttrTable.csv********************
 column = Profession   ¡¾¿ÉÓÃÖ°Òµ£¨¶ÔÓ¦Ö°Òµ±íÖĞid£©×¨ÓĞÖ°Òµ²ÅÄÜÓÃÅäÖÃ5101=1¡¿
-********************./CSV\TaskLifeSkillUnlockTable.csv********************
-column = LifeSkillLevel   ¡¾½âËø¸ÃÈÎÎñËùĞèµÄÉú»îÖ°ÒµµÈ¼¶¡¿
-********************./CSV\TdTable.csv********************
-column = SummonCircleInfo   ¡¾ÕÙ»½ÕóID=¿ÕÄ£ĞÍID=Ó¢ÁéÕÙ»½ÉÏÏŞ£¨ÊúÏß¸ô¿ª£©¡¿
-********************./CSV\TdUnitDynamicDataTable.csv********************
-column = Factors   ¡¾¶¯Ì¬ÊıÖµ²ÎÊı£¨µÈ¼¶=HP=¹¥»÷£¬²»Í¬µÈ¼¶°´Ë³ĞòÓÃÊúÏß¸ô¿ª£©¡¿
+********************./CSV\TdDifficultyTable.csv********************
+column = MinionFactors   ¡¾Ğ¡¹ÖÄÑ¶È²ÎÊı¡¿
+column = EliteFactors   ¡¾¾«Ó¢¹ÖÄÑ¶È²ÎÊı¡¿
+column = BossFactors   ¡¾BossÄÑ¶È²ÎÊı¡¿
+********************./CSV\TdUnitTable.csv********************
+column = SummonCosts   ¡¾¸öÌåÕÙ»½ÏûºÄÄ§Á¦£¨EntityID=ÏûºÄÄ§Á¦=SkillID£¬°´¼¶±ğË³ĞòÓÃÊúÏß¸ô¿ª£©¡¿
 ********************./CSV\TeamScoreTable.csv********************
 column = DeathRate   ¡¾ËÀÍö´ÎÊı¡¿
 ********************./CSV\TeamTargetTable.csv********************
 column = BelongType   ¡¾¸¸Ñ¡ÏîID¡¿
-column = RelativeDungeonId   ¡¾¸±±¾ID¡¿
 ********************./CSV\TempAttrTable.csv********************
 column = DefaultKeyValue   ¡¾ÊôĞÔÄ¬ÈÏÖµ¡¿
 column = MaxValue   ¡¾ÊôĞÔ×î´óÖµ¡¿
@@ -477,9 +642,7 @@ column = LeaderID   ¡¾Ê×ÁìID¡¿
 column = Value   ¡¾Öµ¡¿
 ********************./CSV\TimeActivityTable.csv********************
 column = ActivitySystemId   ¡¾²ß»®ÓÃ£¬³ÌĞò¶Á×Ó»î¶¯±íÉúĞ§£¬×Ó»î¶¯¹¦ÄÜID£¨¶à¸öÓÃ|·Ö¸ô£©¡¿
-column = ShowTime   ¡¾¹¦ÄÜ½çÃæÏÔÊ¾Ê±¼ä£¬Ê±·ÖÃë¸ñÊ½Îª000000£¬²»¿ÉÅä³¬¹ı235959,0µãÅäÎª000000¡¿
 ********************./CSV\TimeGiftTable.csv********************
-column = FunctionID   ¡¾¹¦ÄÜID£¬Èç¹ûopen±íÀï»ù´¡¿ªÆôÌõ¼şÒ»Ñù¿ÉÒÔÓÃÍ¬Ò»¸ö¹¦ÄÜID£¬·ñÔòÅä²»Ò»ÑùµÄ¹¦ÄÜID£¨±ÈÈçÒªÇóµÄ½ÇÉ«µÈ¼¶»ò·şÎñÆ÷µÈ¼¶²»Ò»Ñù£©¡¿
 column = ServerDaysLimit   ¡¾·şÎñÆ÷¿ª·şÊ±¼äÌìÊıÏŞÖÆ£¨10=30£¬Á½±ßÖµ°üº¬ÔÚÄÚ£©¡¿
 column = GiftMajorId   ¡¾Àñ°ü¹¦ÄÜÌîÖ÷¼üID£¨GiftPackageTable)¡¿
 ********************./CSV\TimeLimitActivityTable.csv********************
@@ -487,12 +650,9 @@ column = FunctionID   ¡¾¹¦ÄÜID¡¿
 column = ShowTime   ¡¾¹¦ÄÜ½çÃæÏÔÊ¾Ê±¼ä£¬Ê±·ÖÃë¸ñÊ½Îª000000£¬²»¿ÉÅä³¬¹ı235959,0µãÅäÎª000000¡¿
 column = StartTime   ¡¾¹¦ÄÜ¿ªÆô¾ßÌåÊ±¼ä¶Î£¬Ê±·ÖÃë¸ñÊ½Îª000000£¬²»¿ÉÅä³¬¹ı235959,0µãÅäÎª000000¡¿
 column = DayTime   ¡¾ÏŞÊ±:²»ÅäÖÃÎªÈ«Ìì£¬¾ßÌå¼¸µãÔòÅäÖÃÊ±¼ä¶Î,|·Ö¸ô£¬0000Îªµ±ÌìÁè³¿Áãµã£¬²»¿ÉÅä³¬¹ı235959¡¿
-column = Target   ¡¾Ìø×ª·½Ê½+Î»ÖÃ£¨1£ºopenallsystem±íµÄ¹¦ÄÜID£»2£ºURLÁ´½Ó£»3£º3=NPCID£¬Ñ°Â·µ½NPC£»4:4=0´ú±í²»ÏÔÊ¾°´Å¥£©¡¿
 column = PreNotice   ¡¾Ô¤ÏÈ¹«¸æ£¨ÌáÇ°ÃëÊı|messageID£©¡¿
 ********************./CSV\TimeLimitEvilInvade.csv********************
 column = Exp   ¡¾µ½´ïµÈ¼¶ĞèÒªÌá½»µÄ±¨¸æÊıÁ¿¡¿
-********************./CSV\TipsTable.csv********************
-column = SystemId   ¡¾tips¶ÔÓ¦¹¦ÄÜid£¨ÌîidÔòid¶ÔÓ¦¹¦ÄÜ¿ªÆôºó²ÅÏÔÊ¾tips£¬Ìî¿ÕÔòÏÔÊ¾²»ÊÜ¹¦ÄÜ¿ªÆôÓ°Ïì£©¡¿
 ********************./CSV\TotalRechargeTable.csv********************
 column = Base   ¡¾´ï³ÉÌõ¼ş³äÖµÊı¶î¡¿
 column = FreeRebatePackage   ¡¾·µÀûÀñ°üÖ÷¼ü£¨GiftPackageTableÖĞMajorID)¡¿
@@ -503,6 +663,19 @@ column = ServerDaysLimit   ¡¾·şÎñÆ÷¿ª·şÊ±¼äÌìÊıÏŞÖÆ£¨10=30£¬Á½±ßÖµ°üº¬ÔÚÄÚ£©¡¿
 column = NextStepId   ¡¾ÏÂÒ»²½ÖèµÄID¡¿
 column = ValueId   ¡¾ÄÚÈİID£¨¿ÉÒÔÊÇ£ºÈÎÎñID¡¢¼¼ÄÜID¡¢Í¨ÓÃÍæ·¨ËµÃ÷ID¡¢ÏµÍ³ID£©Í¨¹ıType×Ö¶ÎÇø·Ö¾ßÌåÊÇÊ²Ã´ID¡¿
 column = CountDownData   ¡¾µ¹¼ÆÊ±Êı¾İ£¨´¥·¢µ¹¼ÆÊ±=³ÖĞøµ¹¼ÆÊ±£©\r\n(µ¥Î»£ººÁÃë)¡¿
+********************./CSV\TutorialIndexTable.csv********************
+column = ProfessionLimit   ¡¾Ö°ÒµÏŞ¶¨£¨Ö§³Ö¶à¸ö | ·Ö¸ô Ã»ÓĞÏŞÖÆÔòÎª¿Õ£©¡¿
+column = StepID   ¡¾²½ÖèID¡¿
+********************./CSV\UndirectTeleport.csv********************
+column = Npcs   ¡¾ÊÇ·ñĞèÒªÍ¨¹ıNPC´¥·¢£¬¶à¸öNPCÓÃ|·Ö¸î¡¿
+********************./CSV\UserDynamicAttributeTable.csv********************
+column = EHP   ¡¾ÆÚÍûÑªÁ¿¡¿
+********************./CSV\UserDynamicTypeTable.csv********************
+column = TriggerType   ¡¾ÉúĞ§²ÎÊı(1=XXsceneID;2=XXdungeonsID)¡¿
+********************./CSV\VehicleLvTable.csv********************
+column = Exp   ¡¾Éı¼¶ÇúÏß¡¿
+********************./CSV\VehicleQualityRandomTable.csv********************
+column = Weight   ¡¾È¨ÖØ¡¿
 ********************./CSV\VehicleQualityTable.csv********************
 column = OnceConsume   ¡¾1½×ÏûºÄ¡¿
 column = Model   ¡¾1½×Ä£ĞÍ£¬ÅäÖÃ¸ñÊ½£ºÖ°ÒµID=ÅäÊÎID¡¿
@@ -514,13 +687,8 @@ column = JobLimit   ¡¾Ö°ÒµÏŞÖÆ¡¿
 column = Pro   ¡¾¸ÅÂÊ¡¿
 ********************./CSV\VouchersTable.csv********************
 column = ItemValue   ¡¾´ú½ğÈ¯¼ÛÖµ£¨µÀ¾ßID=»õ±ÒID=ÊıÁ¿£©¡¿
-column = SystemFunctionID   ¡¾¹¦ÄÜID£¨²ß»®ÓÃ£¬ÎğÉ¾£©¡¿
-********************./CSV\WelfareFunctionTable.csv********************
-column = Id   ¡¾¹¦ÄÜID¡¿
 ********************./CSV\WheelAttrTable.csv********************
 column = ProfessionId   ¡¾Ö°ÒµId¡¿
-column = SkillOne   ¡¾¼¼ÄÜ20001¿âID¡¿
-column = SkillTwo   ¡¾¼¼ÄÜ20002¿âId¡¿
 column = BornWeight   ¡¾ÊôĞÔÉú³ÉÈ¨ÖØ¡¿
 column = BorntimesLimit   ¡¾ÊôĞÔÉú³É´ÎÊıÃÅ¼÷¡¿
 column = ComposeWeight   ¡¾ºÏ³ÉÈ¨ÖØ¡¿
@@ -529,8 +697,6 @@ column = ComposetimesLimit   ¡¾ºÏ³É´ÎÊıÃÅ¼÷¡¿
 column = professionalID   ¡¾Ö°ÒµID¡¿
 ********************./CSV\WheelReset.csv********************
 column = ProfessionId   ¡¾Ö°ÒµId¡¿
-column = SkillOne   ¡¾¼¼ÄÜ1¿âID¡¿
-column = SkillTwo   ¡¾¼¼ÄÜ2¿âId¡¿
 ********************./CSV\WheelResetConsume.csv********************
 column = ItemCost   ¡¾³İÂÖÖØÖÃÏûºÄ£¬Ö§³ÖÅäÖÃ¶àµÀ¾ß¡¿
 column = WheelJuniorComposeConsume   ¡¾ÆÕÍ¨ºÏ³ÉÏûºÄ¡¿
@@ -554,9 +720,7 @@ column = BuffId   ¡¾buffid\r\n£¨³ÌĞòÓÃ£©¡¿
 column = AddCondition   ¡¾Ìí¼ÓÌõ¼ş£¨lua£©¡¿
 column = EffectGroup   ¡¾buffĞ§¹û×é¡¿
 column = DestroyLua   ¡¾Ïú»Ùlua£¨lua1|type1=value1;lua2|type2=value2  value±ØĞëÕûÊı£©¡¿
-column = BeHitLua   ¡¾±»»÷lua£¨lua1|type1=value1;lua2|type2=value2  value±ØĞëÕûÊı£©¡¿
 column = Fx   ¡¾ÌØĞ§£¨¸ù¾İ²ãÊı¸Ä±äÊ±£¬µÚ1²ãÌØĞ§¢Ù=µÚ1²ãÌØĞ§¢Ú| µÚ2²ãÌØĞ§¢Ù=µÚ2²ãÌØĞ§¢Ú|=µÚ3¡­²»¸ù¾İ²ãÊı¸Ä±äÊ±£¬¶àÌØĞ§Ö®¼äÓÃ=¼´¿É£©¡¿
-column = BeginAudio   ¡¾¿ªÊ¼ÒôĞ§¡¿
 ********************./CSV\BuffTable\BuffTable.csv********************
 column = BuffId   ¡¾buffid\r\n£¨³ÌĞòÓÃ£©¡¿
 column = AddCondition   ¡¾Ìí¼ÓÌõ¼ş£¨lua£©¡¿
@@ -571,14 +735,7 @@ column = BeginAudio   ¡¾¿ªÊ¼ÒôĞ§¡¿
 column = Audio   ¡¾³ÖĞøÒôĞ§¡¿
 column = DestroyAudio   ¡¾½áÊøÒôĞ§¡¿
 column = ConfigData   ¡¾´«Öµµ½lua£¨ÅäÖÆ·½·¨£ºkey1=value1=key2=value2=....=keyn=valuen=.....£©¡¿
-column = RelateBuffId   ¡¾¹ØÁªBuffID¡¿
 ********************./CSV\ISTable\ISContentSplitCutSceneTable.csv********************
-column = ContentID   ¡¾ÄÚÈİ¶ÔÓ¦ID¡¿
-********************./CSV\ISTable\ISContentSplitLegendActTable.csv********************
-column = ContentID   ¡¾ÄÚÈİ¶ÔÓ¦ID¡¿
-********************./CSV\ISTable\ISContentSplitMainMemoryTable.csv********************
-column = ContentID   ¡¾ÄÚÈİ¶ÔÓ¦ID¡¿
-********************./CSV\ISTable\ISContentSplitStoryBoardTable.csv********************
 column = ContentID   ¡¾ÄÚÈİ¶ÔÓ¦ID¡¿
 ********************./CSV\ISTable\ISUnlockItemSplitCutSceneTable.csv********************
 column = Content   ¡¾°üº¬ÄÚÈİ¡¿
@@ -596,31 +753,132 @@ column = GroupId   ¡¾³èÎïÊôĞÔ¿âID¡¿
 ********************./CSV\PetTable\PetEquipEnhanceTable.csv********************
 column = EnhanceCost   ¡¾Ç¿»¯µ½¸ÃµÈ¼¶ĞèÒªµÄÏûºÄ¡¿
 column = SuccessRate   ¡¾Ç¿»¯³É¹¦ÂÊ(Íò·Ö±È)¡¿
+********************./CSV\PetTable\PetFeedTable.csv********************
+column = Exp   ¡¾¾­ÑéÖµ¡¿
 ********************./CSV\PetTable\PetGuaranteeTable.csv********************
-column = ConditionOne   ¡¾Ìõ¼ş1¡¿
 column = GuaranteeRange   ¡¾´¥·¢±£µ×Ê±£¬×ÊÖÊËæ»úµÄÇø¼ä¡¿
 ********************./CSV\PetTable\PetLevelTable.csv********************
 column = Exp   ¡¾¾­Ñé¡¿
-********************./CSV\PetTable\PetQualityArgs.csv********************
-column = StatRefineCost   ¡¾³èÎï×ÊÖÊÏ´Á¶ÏûºÄµÀ¾ß£¨µÀ¾ßid=ÊıÁ¿|µÀ¾ßid=ÊıÁ¿£©¡¿
 ********************./CSV\PetTable\PetSkillBookTable.csv********************
-column = SkillItemId   ¡¾ItemId¡¿
 column = SkillBuff   ¡¾¼¼ÄÜBuff£¨½öÔÚ¼¼ÄÜ»úÖÆÀ¸Îª1Ê±ÉúĞ§£¬buffid=ÀàĞÍ£¬ÀàĞÍÎª0Ê±ÊÇ±»¶¯buff£¬ÀàĞÍÎª1Ê±ÎªµÇ³¡buff£©¡¿
-********************./CSV\PetTable\PetSkillSlotCostTable.csv********************
-column = Cost   ¡¾ÏûºÄ»õ±Ò£¨¸ñÊ½£ºµÀ¾ßid=ÊıÁ¿|µÀ¾ßid=ÊıÁ¿£©¡¿
-********************./CSV\PetTable\PetStatRangeDetail.csv********************
-column = Weight   ¡¾Ñ¡ÔñÈ¨ÖØ¡¿
 ********************./CSV\PetTable\PetStatRangeTable.csv********************
 column = StatRange   ¡¾·Ö¶ÎĞÅÏ¢£¨×ÊÖÊ·Ö¶Îid=×ÊÖÊÏÂÏŞ°Ù·Ö±È=×ÊÖÊÉÏÏŞ°Ù·Ö±È|×ÊÖÊ·Ö¶Îid=×ÊÖÊÏÂÏŞ°Ù·Ö±È=×ÊÖÊÉÏÏŞ°Ù·Ö±È|¡­)¡¿
 ********************./CSV\PetTable\PetTable.csv********************
-column = ReleaseBase   ¡¾·ÅÉúÊ±¿ÉÒÔ»ñµÃµÄ»ù´¡µÀ¾ß(µÀ¾ßid=ÊıÁ¿|µÀ¾ßid=ÊıÁ¿)¡¿
-column = ReleaseAddtional   ¡¾·ÅÉúÊ±¿ÉÒÔ¶îÍâ»ñµÃµÄµÀ¾ß(µÀ¾ßid=ÊıÁ¿)¡¿
 column = PrivateSkill   ¡¾ÌìÉú¼¼ÄÜ£¨ÎŞ·¨±»¶¥µô£©£¨¼¼ÄÜid=È¨ÖØ|¼¼ÄÜid=È¨ÖØ|¡­£©¡¿
 column = InitSkillId   ¡¾³õÊ¼¼¼ÄÜ£¨¼¼ÄÜid=È¨ÖØ|¼¼ÄÜid=È¨ÖØ|¼¼ÄÜid=È¨ÖØ¡­£¬ÊıÁ¿Îñ±Ø´óÓÚ³õÊ¼¼¼ÄÜÊıÁ¿ÁĞÌîĞ´µÄ×î´óÖµ£©¡¿
 column = BaseAttr   ¡¾Éú³ÉÊôĞÔ£¨ÊôĞÔid=ÏÂÏŞ=ÉÏÏŞ|ÊôĞÔid=ÏÂÏŞ=ÉÏÏŞ|¡­£©10=Ç×ÃÜ¶È¡¿
 column = SpecialAttrGroupID   ¡¾ÌØÊâÊôĞÔ¿âid¡¿
-column = TouchAction   ¡¾Ö÷½çÃæµã»÷Ä£ĞÍËæ»ú²¥·ÅµÄ¶¯×÷¡¿
 column = BornSound   ¡¾³öÉúÒôĞ§¡¿
+********************./CSV\TaskTable\AllTaskTable.csv********************
+column = PreId   ¡¾Ç°ÖÃÈÎÎñID¡¿
+column = Chapter   ¡¾ËùÊôÕÂ½Ú£¨×¢Òâ£º´Ë×Ö¶ÎÔÚÈÈ¸üÊ±»áµ÷ÓÃ£¬±ØĞëÅäÖÃ£¬Ã¿ÕÂ×îºÃ¿ØÖÆÔÚ20¸öÈÎÎñÒÔÄÚ£¬¼õÉÙÏûºÄ£©¡¿
+column = AcceptLimitProfession   ¡¾Ö°ÒµÏŞÖÆ£¨¸ù¾İÖ°Òµ»®·Ö£¬ÌîÈ¡Ö°ÒµID£¬¿ÉÌî¶à¸öÖĞ¼äÓÃ·ÖºÅ¸ô¿ª£»0±íÊ¾È«Ö°Òµ£©¡¿
+column = AcceptNpc   ¡¾½ÓÈ¡NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = FinishNpc   ¡¾½»¸¶NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = TargetSubTasks   ¡¾ÈÎÎñÈº×é£¨ÓÃÓÚÅäÖÃ×ÓÈÎÎñlist£¬Èç¹û´Ë´¦ÓĞÊı¾İ£¬ÔòºóÃæµÄ123¸öÄ¿±êÅäÖÃÎŞĞ§£©¡¿
+column = Target1   ¡¾ÈÎÎñÄ¿±ê1£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹«»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+column = SpecialMes1   ¡¾ÈÎÎñÌØÊâĞÅÏ¢¡¿
+column = Target2   ¡¾ÈÎÎñÄ¿±ê2¡¿
+column = Target3   ¡¾ÈÎÎñÄ¿±ê3¡¿
+column = Target4   ¡¾ÈÎÎñÄ¿±ê4¡¿
+column = Target5   ¡¾ÈÎÎñÄ¿±ê5¡¿
+column = TaskTrigger   ¡¾³¡¾°´¥·¢Æ÷£ºÊ±»ú=Ê±»ú²ÎÊı=ÊÂ¼şÀàĞÍ=ÊÂ¼ş²ÎÊı=ÆäËû²ÎÊı1=ÆäËû²ÎÊı2=ÆäËû²ÎÊı3|¡­¡­£¨¾ßÌåÅäÖÃ·½Ê½Çë²é¿´¡°Comments_taskÅäÖÃ×Ö¶ÎËµÃ÷¡±sheet£©\r\n¡¿
+column = RewardID   ¡¾½±ÀøID¡¿
+column = TalkScript   ¡¾ÈÎÎñÓÃ½Å±¾Ãû×Ö£¨Assets\Resources\CommandScript\TaskÂ·¾¶ÏÂÃæÅäÖÃÈÎÎñ¶Ô°×ÎÄ±¾Ãû£©¡¿
+column = OpenSystemLimit   ¡¾¹¦ÄÜ¿ªÆôÏŞÖÆ£¨¼´Ê¹ÆäËûÌõ¼ş´ï³É£¬Ò²ĞèÒª¸Ã¹¦ÄÜ¿ªÆôºó²Å»áÍÆËÍ¸ÃÈÎÎñ£¬Èç¹ûÒÑ¾­ÍÆËÍµÄÈÎÎñ£¬ÖĞÍ¾ºóÌ¨¹Ø±ÕÁË¸Ã¹¦ÄÜ£¬ÔòÒ²»áÔÚË¢ĞÂÈÎÎñÁĞ±íÊ±Òş²Ø¸ÃÈÎÎñ£©¡¿
+********************./CSV\TaskTable\TaskAcceptTable.csv********************
+column = TaskID   ¡¾ÈÎÎñID£¨¹ØÁª´¥·¢Ìõ¼şµÄÈÎÎñID£©¡¿
+column = Triggercondition   ¡¾²ÎÕÕÌõ¼ş£¨¡¾TaskConditionTableID¡¿=¡¾´ÎÊı¡¿´ï³Éºó£¬ÒòÌØÊâÔ­Òò£¬¼ÆÊı»áÇåÁãµÄÌõ¼ş¡£Ñ«ÕÂ¡¢³É¾ÍÇ§Íò²»ÒªÅäµ½ÕâÀï£©¡¿
+********************./CSV\TaskTable\TaskChangeJobTable.csv********************
+column = TargetJobId   ¡¾Ä¿±êÖ°Òµid£ºÍê³ÉÕâ¸öÈÎÎñÖ®ºó×ªÖ°³ÉÊ²Ã´Ö°Òµ¡¿
+********************./CSV\TaskTable\TaskConditionTable.csv********************
+column = TargetID   ¡¾Ä¿±ê£¨¼ÆÊıÄ¿±ê£¬¾ßÌåÒª×öÊ²Ã´¡££©¡¿
+********************./CSV\TaskTable\TaskDropTable.csv********************
+column = CollectDrop   ¡¾²É¼¯Îïid=µôÂäµÀ¾ß=µôÂäÊıÁ¿=°Ù·Öµ×µôÂÊ|²É¼¯Îïid=µôÂäµÀ¾ß=µôÂäÊıÁ¿=°Ù·Öµ×µôÂÊ£¨½ÓÁËÕâ¸öÈÎÎñÖ®ºó£¬²É¼¯³É¹¦Ö®ºó£¬¶ÔÓ¦²É¼¯Îï»áµôÂäÖ¸¶¨µÀ¾ß¡££©¡¿
+********************./CSV\TaskTable\TaskGuideNpcTable.csv********************
+column = NpcDate   ¡¾Òıµ¼NPCÊı¾İ£º¸ÃNPCÔÚ²»Í¬µÄ½×¶Îµ÷ÓÃ²»Í¬µÄ¾ç±¾£¬Èç¹ûÖĞÍ¾ÏÂÏß£¬ÉÏÏÂÏßÖ®ºó»áË¢µ½Ô¤±¸Ä¿µÄµØ£¨¸ñÊ½£ºÈÎÎñID=×´Ì¬=×´Ì¬²ÎÊı=¸Ã×´Ì¬ÏÂ¾ßÌåÖ´ĞĞµÄ¾ç±¾ID=¾ßÌåÖ´ĞĞµÄtagÃû=µôÏßÔ¤±¸Ë¢³ö³¡¾°ID=µôÏßÔ¤±¸Ë¢³öX=µôÏßÔ¤±¸Ë¢³öY=µôÏßÔ¤±¸Ë¢³öZ=µôÏßÔ¤±¸Ë¢³ö³¯Ïò£©¡ª¡ª¡ª¡ª×¢Òâ£ºÈÎÎñ×´Ì¬ºÍ´¥·¢Æ÷µÄ²»Ò»ÖÂ£¬ÕâÀïÒªÕâÃ´ÓÃ£º0=0£º¿É½ÓÈ¡£»1=X:ÒÑ½ÓÈ¡£¨1=0£¬ÒÑ½ÓÈ¡£»1=1£¬Íê³ÉÄ¿±ê1£»1=2£¬Íê³ÉÄ¿±ê2£¬ÒÔ´ËÀàÍÆ¡­¡­£©3=0:ÒÑ½»¸¶£»5=0£ºÒÑÍê³É£¬¿É½»¸¶¡¿
+********************./CSV\TaskTable\TaskItemUseTable.csv********************
+column = ItemAction   ¡¾µÀ¾ßÊ¹ÓÃÌØÊâ¶¯×÷ID£¨×Ô¼ºµÄ¶¯×÷£©¡¿
+********************./CSV\TaskTable\TaskSplitActivityTable.csv********************
+column = AcceptNpc   ¡¾½ÓÈ¡NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = FinishNpc   ¡¾½»¸¶NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = TaskTrigger   ¡¾³¡¾°´¥·¢Æ÷£ºÊ±»ú=Ê±»ú²ÎÊı=ÊÂ¼şÀàĞÍ=ÊÂ¼ş²ÎÊı=ÆäËû²ÎÊı1=ÆäËû²ÎÊı2=ÆäËû²ÎÊı3|¡­¡­£¨¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ£©\r\n¡¿
+column = TalkScript   ¡¾ÈÎÎñÓÃ½Å±¾Ãû×Ö£¨Assets\Resources\CommandScript\TaskÂ·¾¶ÏÂÃæÅäÖÃÈÎÎñ¶Ô°×ÎÄ±¾Ãû£©¡¿
+********************./CSV\TaskTable\TaskSplitAdventureTable.csv********************
+column = Chapter   ¡¾ËùÊôÕÂ½Ú£¨×¢Òâ£º´Ë×Ö¶ÎÔÚÈÈ¸üÊ±»áµ÷ÓÃ£¬±ØĞëÅäÖÃ£¬Ã¿ÕÂ×îºÃ¿ØÖÆÔÚ20¸öÈÎÎñÒÔÄÚ£¬¼õÉÙÏûºÄ£©¡¿
+column = AcceptNpc   ¡¾½ÓÈ¡NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = FinishNpc   ¡¾½»¸¶NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = Target1   ¡¾ÈÎÎñÄ¿±ê1£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z£»¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹«»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+column = Target2   ¡¾ÈÎÎñÄ¿±ê2£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z£»¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹«»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+column = Target3   ¡¾ÈÎÎñÄ¿±ê3£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z£»¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹«»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+column = Target4   ¡¾ÈÎÎñÄ¿±ê4¡¿
+column = TaskTrigger   ¡¾³¡¾°´¥·¢Æ÷£ºÊ±»ú=Ê±»ú²ÎÊı=ÊÂ¼şÀàĞÍ=ÊÂ¼ş²ÎÊı=ÆäËû²ÎÊı1=ÆäËû²ÎÊı2=ÆäËû²ÎÊı3|¡­¡­£¨¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ£©\r\n¡¿
+column = RewardID   ¡¾½±ÀøID£¨¶ÔÓ¦½±Àø±íID£©¡¿
+column = TalkScript   ¡¾ÈÎÎñÓÃ½Å±¾Ãû×Ö£¨Assets\Resources\CommandScript\TaskÂ·¾¶ÏÂÃæÅäÖÃÈÎÎñ¶Ô°×ÎÄ±¾Ãû£©¡¿
+********************./CSV\TaskTable\TaskSplitBranchTable.csv********************
+column = AcceptNpc   ¡¾½ÓÈ¡NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = FinishNpc   ¡¾½»¸¶NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = Target1   ¡¾ÈÎÎñÄ¿±ê1£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z£»¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹«»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+column = Target3   ¡¾ÈÎÎñÄ¿±ê3£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z£»¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹«»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+column = TaskTrigger   ¡¾³¡¾°´¥·¢Æ÷£ºÊ±»ú=Ê±»ú²ÎÊı=ÊÂ¼şÀàĞÍ=ÊÂ¼ş²ÎÊı=ÆäËû²ÎÊı1=ÆäËû²ÎÊı2=ÆäËû²ÎÊı3|¡­¡­£¨¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ£©\r\n¡¿
+********************./CSV\TaskTable\TaskSplitChallengeTable.csv********************
+column = AcceptLimitProfession   ¡¾Ö°ÒµÏŞÖÆ£¨¸ù¾İÖ°Òµ»®·Ö£¬ÌîÈ¡Ö°ÒµID£¬¿ÉÌî¶à¸öÖĞ¼äÓÃ·ÖºÅ¸ô¿ª£»0±íÊ¾È«Ö°Òµ£©¡¿
+column = TalkScript   ¡¾ÈÎÎñÓÃ½Å±¾Ãû×Ö£¨Assets\Resources\CommandScript\TaskÂ·¾¶ÏÂÃæÅäÖÃÈÎÎñ¶Ô°×ÎÄ±¾Ãû£©¡¿
+********************./CSV\TaskTable\TaskSplitDungeonsTable.csv********************
+column = TalkScript   ¡¾ÈÎÎñÓÃ½Å±¾Ãû×Ö£¨Assets\Resources\CommandScript\TaskÂ·¾¶ÏÂÃæÅäÖÃÈÎÎñ¶Ô°×ÎÄ±¾Ãû£©¡¿
+********************./CSV\TaskTable\TaskSplitExploreTable.csv********************
+column = AcceptLimitProfession   ¡¾Ö°ÒµÏŞÖÆ£¨¸ù¾İÖ°Òµ»®·Ö£¬ÌîÈ¡Ö°ÒµID£¬¿ÉÌî¶à¸öÖĞ¼äÓÃ·ÖºÅ¸ô¿ª£»0±íÊ¾È«Ö°Òµ£©¡¿
+********************./CSV\TaskTable\TaskSplitGuideTable.csv********************
+column = PreId   ¡¾Ç°ÖÃÈÎÎñID£¨ÈÎÎñID|ÈÎÎñID¡­¡­£»Âú×ãÆäÖĞÒ»¸ö¼´¿É£¬ÊÇ¡°»ò¡±µÄ¹ØÏµ£¬¿ÉÎª¿Õ£©¡¿
+column = Chapter   ¡¾ËùÊôÕÂ½Ú£¨×¢Òâ£º´Ë×Ö¶ÎÔÚÈÈ¸üÊ±»áµ÷ÓÃ£¬±ØĞëÅäÖÃ£¬Ã¿ÕÂ×îºÃ¿ØÖÆÔÚ20¸öÈÎÎñÒÔÄÚ£¬¼õÉÙÏûºÄ£©¡¿
+column = AcceptLimitProfession   ¡¾Ö°ÒµÏŞÖÆ£¨¸ù¾İÖ°Òµ»®·Ö£¬ÌîÈ¡Ö°ÒµID£¬¿ÉÌî¶à¸öÖĞ¼äÓÃ·ÖºÅ¸ô¿ª£»0±íÊ¾È«Ö°Òµ£©¡¿
+column = AcceptNpc   ¡¾½ÓÈ¡NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = FinishNpc   ¡¾½»¸¶NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = Target1   ¡¾ÈÎÎñÄ¿±ê1£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z£»¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹«»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+column = Target2   ¡¾ÈÎÎñÄ¿±ê2£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z£»¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹«»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+column = TaskTrigger   ¡¾³¡¾°´¥·¢Æ÷£ºÊ±»ú=Ê±»ú²ÎÊı=ÊÂ¼şÀàĞÍ=ÊÂ¼ş²ÎÊı=ÆäËû²ÎÊı1=ÆäËû²ÎÊı2=ÆäËû²ÎÊı3|¡­¡­£¨¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ£©\r\n¡¿
+column = TalkScript   ¡¾ÈÎÎñÓÃ½Å±¾Ãû×Ö£¨Assets\Resources\CommandScript\TaskÂ·¾¶ÏÂÃæÅäÖÃÈÎÎñ¶Ô°×ÎÄ±¾Ãû£©¡¿
+column = OpenSystemLimit   ¡¾¹¦ÄÜ¿ªÆôÏŞÖÆ£¨¼´Ê¹ÆäËûÌõ¼ş´ï³É£¬Ò²ĞèÒª¸Ã¹¦ÄÜ¿ªÆôºó²Å»áÍÆËÍ¸ÃÈÎÎñ£¬Èç¹ûÒÑ¾­ÍÆËÍµÄÈÎÎñ£¬ÖĞÍ¾ºóÌ¨¹Ø±ÕÁË¸Ã¹¦ÄÜ£¬ÔòÒ²»áÔÚË¢ĞÂÈÎÎñÁĞ±íÊ±Òş²Ø¸ÃÈÎÎñ£©¡¿
+********************./CSV\TaskTable\TaskSplitInterestingmeetTable.csv********************
+column = Chapter   ¡¾ËùÊôÕÂ½Ú¡¿
+column = AcceptNpc   ¡¾½ÓÈ¡NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = FinishNpc   ¡¾½»¸¶NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = Target1   ¡¾ÈÎÎñÄ¿±ê1£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z£»¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹«»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+column = Target3   ¡¾ÈÎÎñÄ¿±ê3£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z£»¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹«»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+column = Target4   ¡¾ÈÎÎñÄ¿±ê4¡¿
+column = TaskTrigger   ¡¾³¡¾°´¥·¢Æ÷£ºÊ±»ú=Ê±»ú²ÎÊı=ÊÂ¼şÀàĞÍ=ÊÂ¼ş²ÎÊı=ÆäËû²ÎÊı1=ÆäËû²ÎÊı2=ÆäËû²ÎÊı3|¡­¡­£¨¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ£©\r\n¡¿
+********************./CSV\TaskTable\TaskSplitJobTable.csv********************
+column = AcceptLimitProfession   ¡¾Ö°ÒµÏŞÖÆ£¨¸ù¾İÖ°Òµ»®·Ö£¬ÌîÈ¡Ö°ÒµID£¬¿ÉÌî¶à¸öÖĞ¼äÓÃ·ÖºÅ¸ô¿ª£»0±íÊ¾È«Ö°Òµ£©¡¿
+column = AcceptNpc   ¡¾½ÓÈ¡NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = FinishNpc   ¡¾½»¸¶NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = Target1   ¡¾ÈÎÎñÄ¿±ê1£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z£»¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹¤»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+column = Target2   ¡¾ÈÎÎñÄ¿±ê2£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z£»¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹¤»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+column = Target3   ¡¾ÈÎÎñÄ¿±ê3£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z£»¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹¤»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+column = Target4   ¡¾ÈÎÎñÄ¿±ê4¡¿
+column = Target5   ¡¾ÈÎÎñÄ¿±ê5¡¿
+column = TaskTrigger   ¡¾³¡¾°´¥·¢Æ÷£ºÊ±»ú=Ê±»ú²ÎÊı=ÊÂ¼şÀàĞÍ=ÊÂ¼ş²ÎÊı=ÆäËû²ÎÊı1=ÆäËû²ÎÊı2=ÆäËû²ÎÊı3|¡­¡­£¨¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ£©\r\n¡¿
+column = OpenSystemLimit   ¡¾¹¦ÄÜ¿ªÆôÏŞÖÆ£¨¼´Ê¹ÆäËûÌõ¼ş´ï³É£¬Ò²ĞèÒª¸Ã¹¦ÄÜ¿ªÆôºó²Å»áÍÆËÍ¸ÃÈÎÎñ£¬Èç¹ûÒÑ¾­ÍÆËÍµÄÈÎÎñ£¬ÖĞÍ¾ºóÌ¨¹Ø±ÕÁË¸Ã¹¦ÄÜ£¬ÔòÒ²»áÔÚË¢ĞÂÈÎÎñÁĞ±íÊ±Òş²Ø¸ÃÈÎÎñ£©¡¿
+********************./CSV\TaskTable\TaskSplitLifeTable.csv********************
+column = TaskTrigger   ¡¾³¡¾°´¥·¢Æ÷£ºÊ±»ú=Ê±»ú²ÎÊı=ÊÂ¼şÀàĞÍ=ÊÂ¼ş²ÎÊı=ÆäËû²ÎÊı1=ÆäËû²ÎÊı2=ÆäËû²ÎÊı3|¡­¡­£¨¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ£©\r\n¡¿
+********************./CSV\TaskTable\TaskSplitMercenaryTable.csv********************
+column = Chapter   ¡¾ËùÊôÕÂ½Ú£¨×¢Òâ£º´Ë×Ö¶ÎÔÚÈÈ¸üÊ±»áµ÷ÓÃ£¬±ØĞëÅäÖÃ£¬Ã¿ÕÂ×îºÃ¿ØÖÆÔÚ20¸öÈÎÎñÒÔÄÚ£¬¼õÉÙÏûºÄ£©¡¿
+column = TalkScript   ¡¾ÈÎÎñÓÃ½Å±¾Ãû×Ö£¨Assets\Resources\CommandScript\TaskÂ·¾¶ÏÂÃæÅäÖÃÈÎÎñ¶Ô°×ÎÄ±¾Ãû£©¡¿
+********************./CSV\TaskTable\TaskSplitPostcardTable.csv********************
+column = SpecialMes1   ¡¾ÈÎÎñÌØÊâĞÅÏ¢£¨1£º·Ç´ò¹ÖÀà»ØÊÕÈÎÎñ£©¡¿
+********************./CSV\TaskTable\TaskSplitWorldTable.csv********************
+column = Target1   ¡¾ÈÎÎñÄ¿±ê1£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z£»¾ßÌåÇë²é¿´ËµÃ÷ÎÄµµ£¬Â·¾¶£ºrodoc\²ß»®\ÅäÖÃËµÃ÷ÎÄµµ\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹«»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+********************./CSV\TaskTable\TaskTable.csv********************
+column = PreId   ¡¾Ç°ÖÃÈÎÎñID¡¿
+column = AcceptLimitProfession   ¡¾Ö°ÒµÏŞÖÆ£¨¸ù¾İÖ°Òµ»®·Ö£¬ÌîÈ¡Ö°ÒµID£¬¿ÉÌî¶à¸öÖĞ¼äÓÃ·ÖºÅ¸ô¿ª£»0±íÊ¾È«Ö°Òµ£©¡¿
+column = AcceptNpc   ¡¾½ÓÈ¡NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = FinishNpc   ¡¾½»¸¶NPC£¨NPCid=ËùÔÚ³¡¾°£©¡¿
+column = TargetSubTasks   ¡¾ÈÎÎñÈº×é£¨ÓÃÓÚÅäÖÃ×ÓÈÎÎñlist£¬Èç¹û´Ë´¦ÓĞÊı¾İ£¬ÔòºóÃæµÄ123¸öÄ¿±êÅäÖÃÎŞĞ§£©¡¿
+column = Target1   ¡¾ÈÎÎñÄ¿±ê1£ºÄ¿±êÀàĞÍ|Ä¿±ê²ÎÊı=²ÎÊıÊıÁ¿|Ñ°Â·³¡¾°id=X=Y=Z\r\n£¨1£¬¶Ô»°£»2£¬´ò¹Ö£»3£º²É¼¯£»4£¬ÊÕ¼¯£»5£¬Ñ°Â·£»6£ºÊ¹ÓÃµÀ¾ß£»7£ºÍê³É¸±±¾£»8£ºÍê³É²Ù×÷£»9£ºÅÄÕÕ£»10£º»î¶¯ÈÎÎñ£»11£º³É¾ÍÈÎÎñ£»12£º¹«»áÈÎÎñ£»13£ºÉç½»ÈÎÎñ£»14£º½Å±¾£»15£º´ò¹ÖÊÕ¼¯£»16¸¸×ÓÈÎÎñ£¬17½øÈë¸±±¾£¬18µ¥ÈËÅëâ¿£»19£¬Íê³ÉË«ÈËÅëâ¿¸±±¾£»20´î³Ë¹«¹²ÔØ¾ß£»21£¬Óë³¡¾°½øĞĞ½»»¥£»22£¬´î³Ëµ¥ÈËÔØ¾ß£©¡¿
+column = Target2   ¡¾ÈÎÎñÄ¿±ê2¡¿
+column = Target3   ¡¾ÈÎÎñÄ¿±ê3¡¿
+column = Target4   ¡¾ÈÎÎñÄ¿±ê4¡¿
+column = Target5   ¡¾ÈÎÎñÄ¿±ê5¡¿
+column = TaskTrigger   ¡¾³¡¾°´¥·¢Æ÷£ºÊ±»ú=Ê±»ú²ÎÊı=ÊÂ¼şÀàĞÍ=ÊÂ¼ş²ÎÊı=ÆäËû²ÎÊı1=ÆäËû²ÎÊı2=ÆäËû²ÎÊı3|¡­¡­£¨¾ßÌåÅäÖÃ·½Ê½Çë²é¿´¡°Comments_taskÅäÖÃ×Ö¶ÎËµÃ÷¡±sheet£©\r\n¡¿
 ********************./CSV\TechCenterTable\AllTaskTable.csv********************
 column = PreId   ¡¾Ç°ÖÃÈÎÎñID¡¿
 column = Chapter   ¡¾ËùÊôÕÂ½Ú£¨×¢Òâ£º´Ë×Ö¶ÎÔÚÈÈ¸üÊ±»áµ÷ÓÃ£¬±ØĞëÅäÖÃ£¬Ã¿ÕÂ×îºÃ¿ØÖÆÔÚ20¸öÈÎÎñÒÔÄÚ£¬¼õÉÙÏûºÄ£©¡¿
@@ -645,9 +903,8 @@ column = PosInfo   ¡¾³¡¾°IDÁĞ±í(|·Ö¸î¶à¸ö)¡¿
 column = NpcId   ¡¾NPCÖ÷¼ü¡¿
 column = SceneId1   ¡¾³¡¾°id1¡¿
 column = SceneId2   ¡¾³¡¾°id2¡¿
-column = SceneId3   ¡¾³¡¾°id3¡¿
-column = SceneId4   ¡¾³¡¾°id4¡¿
-column = SceneId5   ¡¾³¡¾°id5¡¿
 column = TaskAccept   ¡¾ÈÎÎñ½ÓÈ¡¹ØÁª¡¿
 column = TaskFinish   ¡¾ÈÎÎñ½»¸¶¹ØÁª¡¿
 column = TaskTarget2   ¡¾ÈÎÎñÄ¿±ê2¹ØÁª¡¿
+********************./CSV\TechCenterTable\SkillDataTable.csv********************
+column = SkillId   ¡¾

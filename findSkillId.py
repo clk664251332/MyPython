@@ -3,8 +3,8 @@ import pandas as pd
 import os
 
 CSV_PATH = "./CSV"
-Test = False
-TestFiles = ['./CSV/DungeonStandardAttrTable.csv']
+TEST = False
+TestFiles = ['./CSV/TaskLifeSkillUnlockTable.csv']
 Files = []
 ExcludeList = [
     "SkillTable.csv",
@@ -41,16 +41,18 @@ def OnGetValue(value):
             if int(j) < 5000:
                 continue
             try:
-                if(any(skill_ids.str.contains(j, regex = False))):
+                if(any(skill_ids.str.match(j))):
                     return True
+                else:
+                    continue
             except Exception as e:
-                #print("执行contains异常： "+"value= "+j+str(e))
+                print("执行contains异常： "+"value= "+j+str(e))
                 return False
     return False
 
 def main():
-    f = open("columnCount.txt","w")
-    if not Test:
+    f = open("newColumnCount.txt","w")
+    if not TEST:
         for root, dirs, files in os.walk(CSV_PATH, topdown = True):
             for name in files:
                 if name not in ExcludeList and name.endswith(".csv"):
@@ -62,7 +64,6 @@ def main():
     for file_path in Files:
         columns = []
         print('*'*15+"处理 " + file_path+'*'*15)
-        f.writelines('*'*20 + file_path + '*'*20+'\n')
         df = pd.read_csv(file_path)
         df = df.drop(df.columns[0], axis = 1)
         try:    
@@ -72,7 +73,8 @@ def main():
                     if ret:
                         if not column in columns:
                             columns.append(column)
-                        #f.writelines('column = '+column+"  value = "+value+'\n')
+            if len(columns) > 0:
+                f.writelines('*'*20 + file_path + '*'*20+'\n')
             for column in columns:
                 f.writelines('column = '+column+'   【'+ df[column][0]+'】\n')
         except Exception as e:
@@ -82,4 +84,13 @@ def main():
     f.close()
 
     os.system("pause")
+
+def test():
+    for file_path in TestFiles:
+        df = pd.read_csv(file_path)
+        df = df.drop(df.columns[0], axis = 1)
+        for column in df:
+            for value in df[column]:
+                ret = OnGetValue(value)
 main()
+#test()
