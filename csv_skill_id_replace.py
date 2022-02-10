@@ -84,6 +84,27 @@ def replace_match_id(value):
                 continue
         return PackToStr(lists)
 
+#类型=技能id=等级类型的字段解析
+def replace_card_attribute(value, args):
+    _type = args[0]
+    lists = UnpackToLists(value)
+    for i in range(len(lists)):
+        element = lists[i]
+        if element[0] == str(_type):
+            skill_id = element[1]
+            skill_level = element[2]
+            element[1] = pd.to_numeric(element[1])*100 + pd.to_numeric(skill_level)
+
+    return PackToStr(lists)
+
+#PresentTable的特殊处理
+def replace_present_table(value):
+    lists = UnpackToLists(value)
+    if lists[0][0] == '1':
+        lists[1][0] = pd.to_numeric(lists[1][0]) * 100 + 1
+        return PackToStr(lists)
+    return value
+
 def Todo(value):
     return value
 #============================替换函数 End============================
@@ -128,6 +149,8 @@ CSV_CONFIG = [
     ["TaskTable/TaskSplitBranchTable", ["Target1","Target2","Target3","Target4","Target5"], [replace_task]],
     ["TaskTable/TaskSplitAdventureTable", ["Target1","Target2","Target3","Target4","Target5"], [replace_task]],
     ["TaskTable/TaskSplitActivityTable", ["Target1","Target2","Target3","Target4","Target5"], [replace_task]],
+    ["TaskTable/AllTaskTable", ["Target1","Target2","Target3","Target4","Target5"], [replace_task]],
+    ["TechCenterTable/AllTaskTable", ["Target1","Target2","Target3","Target4","Target5"], [replace_task]],
     #----------------------------------task---end-------------------------------------------
     ["AutoAddSkilPointDetailTable", ["AddSkillQueue"], [replace_id_iv], [[0,1]]],
     ["FirstComboSkillTable", ["SkillID"], [replace_one_id]],
@@ -141,12 +164,15 @@ CSV_CONFIG = [
     ["TechCenterTable/SkillDataTable", ["SkillId"], [replace_one_id]],
     ["SkillMatchTable", ["Skill_Id_0","Skill_Id_1","Skill_Id_2","Skill_Id_3","Skill_Id_4"], [replace_one_id]],
     ["TdUnitTable", ["SummonCosts"], [replace_id_iv], [[3]]],
-    #["EquipTable", ["EntryAttributeOne","EntryAttributeTwo"], [Todo]],
-    #["EquipHoleTable", ["Property"], [Todo]],
-    #["GlobalTableFight", ["Value"], [replace_match_id]],
-    #["GlobalTableSystem", ["Value"], [replace_match_id]],
-    #["GuildActivityTable", ["Value"], [replace_match_id]],
+    ["GlobalTableFight", ["Value"], [replace_match_id]],
+    ["GlobalTableSystem", ["Value"], [replace_match_id]],
+    ["GuildActivityTable", ["Value"], [replace_match_id]],
+    ["EquipCardTable", ["CardAttributes"], [replace_card_attribute], [[4]]],
+    ["ProfessionPreviewTable", ["SkillClassPreview"], [replace_all]],
+    ["AutoAddSkillPointTable", ["ProDetailId"], [replace_all]],
+    ["PresentTable", ["BeHitRule"], [replace_present_table]],
 ]
+
 
 def StartProcess(configRow):
     if len(configRow) < 3:
