@@ -1,9 +1,10 @@
+from numpy import True_
 import pandas as pd
 import os
 
 CSV_PATH = "./CSV"
-
-#Files = ['./CSV/Test.csv']
+Test = False
+TestFiles = ['./CSV/DungeonStandardAttrTable.csv']
 Files = []
 ExcludeList = [
     "SkillTable.csv",
@@ -48,14 +49,18 @@ def OnGetValue(value):
     return False
 
 def main():
-    f = open("count.txt","w")
-    for root, dirs, files in os.walk(CSV_PATH, topdown = True):
-        for name in files:
-            if name not in ExcludeList and name.endswith(".csv"):
-                Files.append(os.path.join(root, name))
-
+    f = open("columnCount.txt","w")
+    if not Test:
+        for root, dirs, files in os.walk(CSV_PATH, topdown = True):
+            for name in files:
+                if name not in ExcludeList and name.endswith(".csv"):
+                    Files.append(os.path.join(root, name))
+    else:
+        for test in TestFiles:
+            Files.append(test)
     #遍历每一个文件
     for file_path in Files:
+        columns = []
         print('*'*15+"处理 " + file_path+'*'*15)
         f.writelines('*'*20 + file_path + '*'*20+'\n')
         df = pd.read_csv(file_path)
@@ -65,7 +70,11 @@ def main():
                 for value in df[column]:
                     ret = OnGetValue(value)
                     if ret:
-                        f.writelines('column = '+column+"  value = "+value+'\n')
+                        if not column in columns:
+                            columns.append(column)
+                        #f.writelines('column = '+column+"  value = "+value+'\n')
+            for column in columns:
+                f.writelines('column = '+column+'   【'+ df[column][0]+'】\n')
         except Exception as e:
             print("处理"+file_path+"出现问题："+str(e))
             continue
