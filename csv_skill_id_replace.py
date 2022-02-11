@@ -191,7 +191,11 @@ def StartProcess(configRow):
     columnsIndex = 0
     value = None
     params = None
-    data = pd.read_csv(os.path.join(CSV_PATH, tableName + ".csv"))#.dropna(axis='columns', how='all')
+    try:
+        data = pd.read_csv(os.path.join(CSV_PATH, tableName + ".csv"))#.dropna(axis='columns', how='all')
+    except Exception as e:
+        print("读取csv出错： "+ str(e))
+        return False
     rowCount = len(data)
     #收集目标列的索引
     for i in range(len(filedList)):
