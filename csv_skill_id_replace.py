@@ -5,34 +5,33 @@ import os
 CSV_PATH = "./CSV"
 CSV_NEW_PATH = "./NewCSV/"
 CREATE_NEW_FILE = False
-Skill_Ids = None
+SKILL_ID_COLUNM = None
 
 '''def VectorToTable(value):
     vector = value.split('|')
     return vector'''
 
-def UnpackToLists(value):
+def unpack_to_lists(value):
     vector = value.split('|')
     for i in range(len(vector)):
         sequence = vector[i].split('=')
         vector[i] = sequence
     return vector
 
-def PackToStr(value):
-    Str = ""
+def pack_to_str(value):
+    ret = ""
     for i in range(len(value)):
         sequence = value[i]
         for j in range(len(sequence)):
             if pd.isna(sequence[j]):
                 continue
-            Str = Str + str(sequence[j])
+            ret = ret + str(sequence[j])
             if not j == len(sequence)-1:
-                Str = Str + '='
+                ret = ret + '='
         if not i == len(value)-1:
-            Str = Str + '|'
+            ret = ret + '|'
 
-    return Str
-
+    return ret
 #============================替换函数 Start============================
 #普通替换，只替换一个技能id
 def replace_one_id(value):
@@ -40,54 +39,54 @@ def replace_one_id(value):
 
 #VectorSequence类型字段替换，解析的所有技能id都替换
 def replace_all(value):
-    lists = UnpackToLists(value)
+    lists = unpack_to_lists(value)
     for i in range(len(lists)):
         element = lists[i]
         for j in range(len(element)):
                 element[j] = pd.to_numeric(element[j]) * 100 + 1
-    return PackToStr(lists)
+    return pack_to_str(lists)
 
 #VectorSequence类型字段替换，包含技能id下标和等级下标的参数
 def replace_id_iv(value, args):
-    skillIdIndex = args[0]
-    skillLvIndex = args[1] if len(args)>1 else None
+    skill_id_index = args[0]
+    skill_lv_index = args[1] if len(args)>1 else None
     lv = None
 
-    lists = UnpackToLists(value)
+    lists = unpack_to_lists(value)
     for i in range(len(lists)):
         element = lists[i]
         for j in range(len(element)):
-            if j == skillIdIndex:
+            if j == skill_id_index:
                 #print("before= ", element[skillIdIndex])
-                lv = element[skillLvIndex] if not skillLvIndex == None and len(element) > skillLvIndex else 1
-                element[skillIdIndex] = pd.to_numeric(element[skillIdIndex])*100 + pd.to_numeric(lv)
+                lv = element[skill_lv_index] if not skill_lv_index == None and len(element) > skill_lv_index else 1
+                element[skill_id_index] = pd.to_numeric(element[skill_id_index])*100 + pd.to_numeric(lv)
                 #print("after= ", element[skillIdIndex])
-    return PackToStr(lists)
+    return pack_to_str(lists)
 
 #任务字段处理，目标类型|目标参数=参数数量|寻路场景id=X=Y=Z
 def replace_task(value):
-    lists = UnpackToLists(value)
+    lists = unpack_to_lists(value)
     if len(lists) > 1 and (lists[0] == 24 or lists[0] == 26):
         lists[1] = lists[1] * 100 + 1
-    return PackToStr(lists)
+    return pack_to_str(lists)
 
 #每个字符串与技能id一一匹配，如果匹配到则更改技能id（有风险，更改完需要再次确认下是否替换了应该替换的）
 def replace_match_id(value):
-    lists = UnpackToLists(value)
+    lists = unpack_to_lists(value)
     for i in range(len(lists)):
         element = lists[i]
         for j in range(len(element)):
             try:
-                if any((Skill_Ids.str.contains(element[j]))):
+                if any((SKILL_ID_COLUNM.str.contains(element[j]))):
                     element[j] = pd.to_numeric(element[j])*100 + 1
             except:
                 continue
-        return PackToStr(lists)
+        return pack_to_str(lists)
 
 #类型=技能id=等级类型的字段解析
 def replace_card_attribute(value, args):
     _type = args[0]
-    lists = UnpackToLists(value)
+    lists = unpack_to_lists(value)
     for i in range(len(lists)):
         element = lists[i]
         if element[0] == str(_type):
@@ -95,17 +94,17 @@ def replace_card_attribute(value, args):
             skill_level = element[2]
             element[1] = pd.to_numeric(element[1])*100 + pd.to_numeric(skill_level)
 
-    return PackToStr(lists)
+    return pack_to_str(lists)
 
 #PresentTable的特殊处理
 def replace_present_table(value):
-    lists = UnpackToLists(value)
+    lists = unpack_to_lists(value)
     if lists[0][0] == '1':
         lists[1][0] = pd.to_numeric(lists[1][0]) * 100 + 1
-        return PackToStr(lists)
+        return pack_to_str(lists)
     return value
 
-def Todo(value):
+def to_do(value):
     return value
 #============================替换函数 End============================
 
@@ -174,75 +173,76 @@ CSV_CONFIG = [
 ]
 
 
-def StartProcess(configRow):
-    if len(configRow) < 3:
+def start_process(config_row):
+    if len(config_row) < 3:
         print("error! configRow.length < 3") 
         return False
     
-    tableName = configRow[0]
-    filedList = configRow[1]
-    funcList = configRow[2]
-    paramList = None
-    if len(configRow)>3:
-        paramList = configRow[3]
+    table_name = config_row[0]
+    filed_list = config_row[1]
+    func_list = config_row[2]
+    param_list = None
+    if len(config_row)>3:
+        param_list = config_row[3]
 
-    columnsIndexList = []
+    columns_index_list = []
     func = None
-    columnsIndex = 0
+    columns_index = 0
     value = None
     params = None
     try:
-        data = pd.read_csv(os.path.join(CSV_PATH, tableName + ".csv"))#.dropna(axis='columns', how='all')
+        df = pd.read_csv(os.path.join(CSV_PATH, table_name + ".csv"))#.dropna(axis='columns', how='all')
     except Exception as e:
         print("读取csv出错： "+ str(e))
         return False
-    rowCount = len(data)
+    row_count = len(df)
     #收集目标列的索引
-    for i in range(len(filedList)):
+    for i in range(len(filed_list)):
         try:
-            index = data.columns.get_loc(filedList[i])
+            index = df.columns.get_loc(filed_list[i])
         except:
-            print('表：' + tableName + ' 没找不到字段' + filedList[i])
+            print('表：' + table_name + ' 没找不到字段' + filed_list[i])
             return False
         else:
-            columnsIndexList.append(index)
+            columns_index_list.append(index)
     
     #列和行的遍历
-    for i in range(len(columnsIndexList)):
-        columnsIndex = columnsIndexList[i]
-        if len(funcList)-1 >= i:
-            func = funcList[i]
-            if not paramList == None:
-                params = paramList[i]
-        for rowIndex in range(1,rowCount):
-            value = data.iloc[rowIndex, columnsIndex]
+    for i in range(len(columns_index_list)):
+        columns_index = columns_index_list[i]
+        if len(func_list)-1 >= i:
+            func = func_list[i]
+            if not param_list == None:
+                params = param_list[i]
+        for row_index in range(1,row_count):
+            value = df.iloc[row_index, columns_index]
             if not pd.isna(value) and not value == "0" and not value == "" and not value == " ":
                 result = func(value, params) if not params == None else func(value)
-                data.iloc[rowIndex, columnsIndex] = result
+                df.iloc[row_index, columns_index] = result
 
     #空列名还原为空
-    data = data.rename(columns=lambda x: "" if not x.find("Unnamed:") == -1 else x)
+    df = df.rename(columns=lambda x: "" if not x.find("Unnamed:") == -1 else x)
     #导出文件
     try:
         if CREATE_NEW_FILE == True:
-            targetFilePath = os.path.join(CSV_NEW_PATH, tableName + "_new" +".csv")
-            targetFolderPath = os.path.dirname(targetFilePath)
-            if not os.path.exists(targetFolderPath):
-                os.makedirs(targetFolderPath)
+            target_file_path = os.path.join(CSV_NEW_PATH, table_name + "_new" +".csv")
+            target_folder_path = os.path.dirname(target_file_path)
+            if not os.path.exists(target_folder_path):
+                os.makedirs(target_folder_path)
         else:
-            targetFilePath = os.path.join(CSV_PATH, tableName +".csv")
-        data.to_csv(targetFilePath, index=False, encoding="utf_8_sig")
+            target_file_path = os.path.join(CSV_PATH, table_name +".csv")
+        df.to_csv(target_file_path, index=False, encoding="utf_8_sig")
     except Exception as e:
-        print("导出失败：" + targetFilePath + "     原因：" + str(e))
+        print("导出失败：" + target_file_path + "     原因：" + str(e))
         return False
     else:
-        print("导出成功：" + targetFilePath)
+        print("导出成功：" + target_file_path)
 
 def main():
-    global Skill_Ids
-    Skill_Ids = pd.read_csv(os.path.join(CSV_PATH, "SkillTable.csv"))["Id"]
+    global SKILL_ID_COLUNM
+    SKILL_ID_COLUNM = pd.read_csv(os.path.join(CSV_PATH, "SkillTable.csv"))["Id"]
+    
     for i in range(len(CSV_CONFIG)):
-        result = StartProcess(CSV_CONFIG[i])
+        result = start_process(CSV_CONFIG[i])
         if result == False:
             continue
     os.system("pause")
