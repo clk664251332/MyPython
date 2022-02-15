@@ -1,5 +1,5 @@
-class("ConfirmScriptTools")
-
+--class("ConfirmScriptTools")
+ConfirmScriptTools = {}
 function ConfirmScriptTools:GetParam(key)
 	return self.data[key]
 end
@@ -22,14 +22,17 @@ ConfirmScriptTools.DATAS = {
 	[501401]=
 	{
 		funcname = "MonkSpiritSpheresCheck",
-		["SpheresCountCost"] = 100,
+        args =
+        {
+            ["SpheresCountCost"] = 100,
+        }
 	},
 }
 
---[[test = ConfirmScriptTools:GetConfig(501401)
+test = ConfirmScriptTools:GetConfig(501401)
 if test then
-	print(test:GetParam("SpheresCountCost"))
+	print(test:GetParam("SpheresCountCosts"))
 	print(test.funcname)
 else
 	print("找不到配置")
-end--]]
+end
