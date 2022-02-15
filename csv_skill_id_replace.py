@@ -37,9 +37,12 @@ def pack_to_str(value):
     return ret
 
 def get_effect_id(skill_id):
-    if skill_id not in SKILL_EFFECT_MAP:
-        print("出错，映射表中没有此id {0}对应的effectId".format(skill_id))
+    if skill_id == '':
         return skill_id
+    if skill_id not in SKILL_EFFECT_MAP:
+        raise Exception("映射表中没有{0}对应的effectId".format(skill_id))
+        #print("出错，映射表中没有此id {0}对应的effectId".format(skill_id))
+        #return skill_id
     return SKILL_EFFECT_MAP[skill_id]
 #============================替换函数 Start============================
 #普通替换，只替换一个技能id
@@ -59,6 +62,8 @@ def replace_all(value):
 
 #VectorSequence类型字段替换，包含技能id下标和等级下标的参数
 def replace_id_iv(value, args):
+    if value == '1000935403=1|1000935402=1|1000935401=1':
+        pass
     skill_id_index = args[0]
     skill_lv_index = args[1] if len(args)>1 else None
     lv = None
@@ -232,7 +237,11 @@ def start_process(config_row):
         for row_index in range(1,row_count):
             value = df.iloc[row_index, columns_index]
             if not pd.isna(value) and not value == "0" and not value == "" and not value == " ":
-                result = func(value, params) if not params == None else func(value)
+                try:
+                    result = func(value, params) if not params == None else func(value)
+                except Exception as e:
+                    print("处理表:{0}，字段名:{1}，index:{2}，值为:{3} 出错，原因为:{4}".format(table_name, df.columns.tolist()[columns_index], row_index+2, value, str(e)))
+                    result = value
                 df.iloc[row_index, columns_index] = result
 
     #空列名还原为空
@@ -277,13 +286,15 @@ def output_map_to_csv():
     out_dic = {'origion_id':skill_id_list, 'replaced_id':effect_id_list}
     map_df = pd.DataFrame.from_dict(out_dic)
     map_df.to_csv("./技能Id替换映射表.csv", index=False, encoding="utf_8_sig")
-    print(map_df)
+    #print(map_df)
 
 def main():
     global SKILL_ID_COLUNM
     skill_df = pd.read_csv(os.path.join(CSV_PATH, "SkillTable.csv")).drop([0])
     SKILL_ID_COLUNM = skill_df["Id"]
+    skill_pet_df = pd.read_csv(os.path.join(CSV_PATH, "SkillPetTable.csv")).drop([0])
     skill_df.apply(find_and_save, axis = 1)
+    skill_pet_df.apply(find_and_save, axis = 1)
     output_map_to_csv()
 
     for i in range(len(CSV_CONFIG)):
