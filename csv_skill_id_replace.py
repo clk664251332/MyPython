@@ -62,8 +62,6 @@ def replace_all(value):
 
 #VectorSequence类型字段替换，包含技能id下标和等级下标的参数
 def replace_id_iv(value, args):
-    if value == '1000935403=1|1000935402=1|1000935401=1':
-        pass
     skill_id_index = args[0]
     skill_lv_index = args[1] if len(args)>1 else None
     lv = None
