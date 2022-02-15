@@ -1,3 +1,5 @@
+#脚本作用，把各表引用到skillId的地方转换成skillEffectId
+from cmath import isnan
 from pickle import TRUE
 import pandas as pd
 import os
@@ -6,10 +8,11 @@ CSV_PATH = "./CSV"
 CSV_NEW_PATH = "./NewCSV/"
 CREATE_NEW_FILE = False
 SKILL_ID_COLUNM = None
+SKILL_EFFECT_MAP = {}
 
-'''def VectorToTable(value):
+def VectorToTable(value):
     vector = value.split('|')
-    return vector'''
+    return vector
 
 def unpack_to_lists(value):
     vector = value.split('|')
@@ -32,10 +35,17 @@ def pack_to_str(value):
             ret = ret + '|'
 
     return ret
+
+def get_effect_id(skill_id):
+    if skill_id not in SKILL_EFFECT_MAP:
+        print("出错，映射表中没有此id {0}对应的effectId".format(skill_id))
+        return skill_id
+    return SKILL_EFFECT_MAP[skill_id]
 #============================替换函数 Start============================
 #普通替换，只替换一个技能id
 def replace_one_id(value):
-    return pd.to_numeric(value) * 100 + 1
+    #return pd.to_numeric(value) * 100 + 1
+    return get_effect_id(value)
 
 #VectorSequence类型字段替换，解析的所有技能id都替换
 def replace_all(value):
@@ -43,7 +53,8 @@ def replace_all(value):
     for i in range(len(lists)):
         element = lists[i]
         for j in range(len(element)):
-                element[j] = pd.to_numeric(element[j]) * 100 + 1
+                #element[j] = pd.to_numeric(element[j]) * 100 + 1
+                element[j] = get_effect_id(element[j])
     return pack_to_str(lists)
 
 #VectorSequence类型字段替换，包含技能id下标和等级下标的参数
@@ -59,7 +70,8 @@ def replace_id_iv(value, args):
             if j == skill_id_index:
                 #print("before= ", element[skillIdIndex])
                 lv = element[skill_lv_index] if not skill_lv_index == None and len(element) > skill_lv_index else 1
-                element[skill_id_index] = pd.to_numeric(element[skill_id_index])*100 + pd.to_numeric(lv)
+                #element[skill_id_index] = pd.to_numeric(element[skill_id_index])*100 + pd.to_numeric(lv)
+                element[skill_id_index] = get_effect_id(element[skill_id_index])
                 #print("after= ", element[skillIdIndex])
     return pack_to_str(lists)
 
@@ -67,7 +79,8 @@ def replace_id_iv(value, args):
 def replace_task(value):
     lists = unpack_to_lists(value)
     if len(lists) > 1 and (lists[0] == 24 or lists[0] == 26):
-        lists[1] = lists[1] * 100 + 1
+        #lists[1] = lists[1] * 100 + 1
+        lists[1] = get_effect_id(lists[1])
     return pack_to_str(lists)
 
 #每个字符串与技能id一一匹配，如果匹配到则更改技能id（有风险，更改完需要再次确认下是否替换了应该替换的）
@@ -78,7 +91,8 @@ def replace_match_id(value):
         for j in range(len(element)):
             try:
                 if any((SKILL_ID_COLUNM.str.contains(element[j]))):
-                    element[j] = pd.to_numeric(element[j])*100 + 1
+                    #element[j] = pd.to_numeric(element[j])*100 + 1
+                    element[j] = get_effect_id(element[j])
             except:
                 continue
         return pack_to_str(lists)
@@ -92,7 +106,8 @@ def replace_card_attribute(value, args):
         if element[0] == str(_type):
             skill_id = element[1]
             skill_level = element[2]
-            element[1] = pd.to_numeric(element[1])*100 + pd.to_numeric(skill_level)
+            #element[1] = pd.to_numeric(element[1])*100 + pd.to_numeric(skill_level)
+            element[1] = get_effect_id(element[1])
 
     return pack_to_str(lists)
 
@@ -100,7 +115,8 @@ def replace_card_attribute(value, args):
 def replace_present_table(value):
     lists = unpack_to_lists(value)
     if lists[0][0] == '1':
-        lists[1][0] = pd.to_numeric(lists[1][0]) * 100 + 1
+        #lists[1][0] = pd.to_numeric(lists[1][0]) * 100 + 1
+        lists[1][0] = get_effect_id(lists[1][0])
         return pack_to_str(lists)
     return value
 
@@ -237,10 +253,39 @@ def start_process(config_row):
     else:
         print("导出成功：" + target_file_path)
 
+
+#获取EffectIDs字段的第一个数值
+def get_effect_ids_first(str):
+    return VectorToTable(str)
+
+#存储老skillId与对应skillEffectId的映射
+def find_and_save(value):
+    idStr = value["Id"]
+    effectIdStr = value["EffectIDs"]
+    if pd.isna(effectIdStr) or effectIdStr == '' or effectIdStr == " ":
+        effectId = idStr
+    else:
+        effectId = VectorToTable(effectIdStr)[0]
+
+    SKILL_EFFECT_MAP[idStr] = effectId
+    #print("skillId = {0} effectId = {1}".format(idStr, effectId))
+
+#将映射表导出为csv
+def output_map_to_csv():
+    skill_id_list = SKILL_EFFECT_MAP.keys()
+    effect_id_list = SKILL_EFFECT_MAP.values()
+    out_dic = {'origion_id':skill_id_list, 'replaced_id':effect_id_list}
+    map_df = pd.DataFrame.from_dict(out_dic)
+    map_df.to_csv("./技能Id替换映射表.csv", index=False, encoding="utf_8_sig")
+    print(map_df)
+
 def main():
     global SKILL_ID_COLUNM
-    SKILL_ID_COLUNM = pd.read_csv(os.path.join(CSV_PATH, "SkillTable.csv"))["Id"]
-    
+    skill_df = pd.read_csv(os.path.join(CSV_PATH, "SkillTable.csv")).drop([0])
+    SKILL_ID_COLUNM = skill_df["Id"]
+    skill_df.apply(find_and_save, axis = 1)
+    output_map_to_csv()
+
     for i in range(len(CSV_CONFIG)):
         result = start_process(CSV_CONFIG[i])
         if result == False:
