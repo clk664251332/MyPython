@@ -98,7 +98,7 @@ def replace_match_id(value):
                     element[j] = get_effect_id(element[j])
             except:
                 continue
-        return pack_to_str(lists)
+    return pack_to_str(lists)
 
 #类型=技能id=等级类型的字段解析
 def replace_card_attribute(value, args):
