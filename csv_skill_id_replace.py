@@ -189,6 +189,7 @@ CSV_CONFIG = [
     ["ProfessionPreviewTable", ["SkillClassPreview"], [replace_all]],
     ["AutoAddSkillPointTable", ["ProDetailId"], [replace_all]],
     ["PresentTable", ["BeHitRule"], [replace_present_table]],
+    ["SkillTable_new", ["PreSkillRequired", "InteruptSkill"], [replace_id_iv], [[0,1]]],
 ]
 
 
