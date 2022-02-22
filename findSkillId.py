@@ -1,3 +1,4 @@
+###脚本作用，找到所有csv表中引用到技能id的字段
 from numpy import True_
 import pandas as pd
 import os

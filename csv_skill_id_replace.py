@@ -1,4 +1,4 @@
-#脚本作用，把各表引用到skillId的地方转换成skillEffectId
+###脚本作用，把各表引用到skillId的地方转换成skillEffectId
 from cmath import isnan
 from pickle import TRUE
 import pandas as pd

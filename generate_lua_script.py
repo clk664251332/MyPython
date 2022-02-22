@@ -1,3 +1,4 @@
+###脚本作用：根据csv表的ConfirmScript字段生成一份lua配置
 import pandas as pd
 import os
 

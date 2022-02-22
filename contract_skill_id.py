@@ -1,4 +1,4 @@
-#生成一份原技能id与缩短后技能id的映射
+###生成一份原技能id与缩短后技能id的映射
 from telnetlib import theNULL
 import pandas as pd
 import os
