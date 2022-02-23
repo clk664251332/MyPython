@@ -26,22 +26,22 @@ def walk_through(value):
     if not pd.isna(effect_ids):
         effect_id_list = VectorToTable(effect_ids)
         for effect_id in effect_id_list:
-            check1, check2 = 0, 0
-            ret = 0
+            check_error1, check_error2 = False, False
+            ret_skill_id = 0
             try:
-                ret = skill_effect_df.loc[effect_id, "SkillID"]
+                ret_skill_id = skill_effect_df.loc[effect_id, "SkillID"]
             except:
-                check1 = 1
+                check_error1 = True
             try:
                 passive_skill_effect_df.loc[effect_id, "SkillLevel"]
             except:
-                check2 = 1
-            if check1 + check2 == 2:
-                f.writelines("effect表+passive_efefct都找不到id= {0} 对应skill表Id= {1}\n".format(effect_id, skill_id))
+                check_error2 = True
+            if check_error1 and check_error2 == True:
+                f.writelines("effect表和passive_efefct都找不到id= {0} 对应skill表Id= {1}\n".format(effect_id, skill_id))
                 continue
             
-            if check1 == 0:
-                if ret != skill_id:
+            if check_error1 == 0:
+                if ret_skill_id != skill_id:
                     f.writelines("发现Id对不上的错误，skill_id= {0}, effect_id= {1}\n".format(skill_id, effect_id))
 
 f = open("./error.txt","w")
