@@ -40,7 +40,7 @@ def walk_through(value):
                 f.writelines("effect表和passive_efefct都找不到id= {0} 对应skill表Id= {1}\n".format(effect_id, skill_id))
                 continue
             
-            if check_error1 == 0:
+            if check_error1 == False:
                 if ret_skill_id != skill_id:
                     f.writelines("发现Id对不上的错误，skill_id= {0}, effect_id= {1}\n".format(skill_id, effect_id))
 
