@@ -1,4 +1,5 @@
-#旧的effect表和skill表有些id没有双向关联起来，该脚本找到这些配错的id
+##旧的effect表和skill表有些id没有双向关联起来，该脚本找到这些配错的id
+##增加功能：现有SkillTable的GroupId字段替换成正确的
 import pandas as pd
 import os
 

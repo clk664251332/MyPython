@@ -1,4 +1,4 @@
-###把当前技能id的原id字段添加进去，新字段名字叫SkillGroupId
+###八SkillEffectTable的SkillID字段转移到新的SkillTable表中，新字段名字叫SkillGroupId
 import pandas as pd
 import os
 
