@@ -209,7 +209,7 @@ fairy land 仙境
 turn the tap off
 关上水龙头
 
-award辨析
+award和reward辨析
 award：比赛奖励
 reward：指对品德高尚的人的奖励，He earned the reward for his honesty. 
 prize 奖品
@@ -573,7 +573,8 @@ basically
 you betcha 
 那还用说，当然
 
-mug 杯子（马克杯）
+mug 
+杯子（马克杯）
 
 mineral water 
 矿泉水
@@ -2123,8 +2124,8 @@ deceive
 欺骗，误导  
 deception 欺骗，骗局   (格式同receive reception接待处 )
 
-fraud [frɔːd] 诈
-骗罪，骗子
+fraud [frɔːd] 
+诈骗罪，骗子
 
 melt
  融化、熔化、消散(文学性)	
@@ -2176,8 +2177,8 @@ pant
 气喘吁吁
 pants 裤子
 
-clank (金属)
-发出咣当声
+clank 
+(金属)发出咣当声
 
 personality 
 性格，个性
@@ -2310,8 +2311,8 @@ She felt dizzy and nauseous.
 dehydrated 
 脱水的
 
-throw up 呕吐
-= vomit (正式) = puke(非正式)
+throw up 
+呕吐= vomit (正式) = puke(非正式)
 
 pounding
 砰砰响、重击
@@ -2411,8 +2412,8 @@ We spend a fortune on cigretees every month.
 Let's just say 
 就这么说吧
 
-incorrigible [ɪnˈkɔːrɪdʒəbl] 不
-可救药的
+incorrigible [ɪnˈkɔːrɪdʒəbl] 
+不可救药的
 
 pride and joy 
 引以为豪的(孩子) 
@@ -3623,7 +3624,8 @@ longevity [lɔːnˈdʒevəti]
 composite materials
  复合材料
 
-rip (sb) off 宰人
+rip (sb) off 
+宰人
 
 slack off 
 偷懒、懈怠
@@ -3871,8 +3873,8 @@ revoke
 撤销、废除  
 The government revoked her licence\ The police revoke her dirver lience
 
-direc
-t 直接的、指向、指挥、导演
+direct 
+直接的、指向、指挥、导演
 
 disposition 
 性情  
@@ -4572,7 +4574,8 @@ hail [heɪl]
 冰雹、招呼 
 hail a taxi 叫出租车
 
-flavor 口味
+flavor 
+口味
 
 beverage 
 饮品、饮料[书面]
@@ -4728,7 +4731,8 @@ differentiate
 conservative estimate [kənˈsɜːrvətɪv] 
 保守的估计
 
-airbag 安全气囊
+airbag 
+安全气囊
 
 It come with...  
 它有。。。(介绍用)
@@ -5052,8 +5056,9 @@ expelled
  被开除  
 be expelled form school
 
-It was a great blow to her when her mother died. 
- 巨大的打击
+blow
+刮、吹、打击
+It was a great blow to her when her mother died. 她母亲去世对她是个巨大的打击
 
 armrest
  扶手
@@ -5408,7 +5413,7 @@ facial expression
 easier said than done 
 说来容易做起来难
 
-premiered 
+premiere
  (电影)首映
 
 setback
@@ -5434,7 +5439,8 @@ seamlessly
 无缝地
  ensure your foundation blends with your skin seamlessly.
 
-in light of 鉴于
+in light of 
+鉴于
 
 integral [ˈɪntɪɡrəl] 
 不可缺少的、积分
@@ -5818,7 +5824,7 @@ exterminate
 go back from... 
  从。。。回来
 
-booklets
+booklet
  小册子
 
 or rather 
@@ -5848,7 +5854,7 @@ knowledge base
  It helps to increase your knowledge base and this is a scientifically-proven fact
 
 scientifically-proven fact  
-科学证明的事实、
+科学证明的事实
 
 deceptive 
 欺骗性的  
@@ -5862,20 +5868,21 @@ more than anything
 更重要的是
 
 identity
- (n) 身份、认同  
+身份、认同  
  identity card 身份证
  gender/social/national identity 性别/社会/国家 认同 
  sense of identity 认同感
 
 identify
- (v) 确认、认同
+确认、认同
   police/scientist/research have identified ...  
 We need to identify the actual problem.  
 
 identical
- (adj) 完全相同的
+ 完全相同的
 
-hone 磨炼
+hone 
+磨炼
  hone your language skills
 
 take sth seriously 
@@ -6061,7 +6068,6 @@ She showed no inclination to go. 她没有表现出要走的意向。
 elaborate
  复杂精美的、详细阐述 
  We will elaborate on this in the next section. 我们将在下一节对此进行详细说明。
-
 He is known for his elaborate costumes. 
 他以其繁丽的服装著称。
 
@@ -6180,9 +6186,7 @@ hang in there
 stumble 
 绊倒、踉跄  
  He stumbled and almost fell. 他绊了一下，差点儿摔倒。
-
-stumble upon/across/on 
-意外发现、意外遇到 
+stumble upon/across/on 意外发现、意外遇到 
 
 step away from...   
 离...远点
@@ -6390,7 +6394,8 @@ assessment
 评估
  risk assessment 风险评估
 
-nonsense 胡说！
+nonsense 
+胡说
 
 That's the spirit.
  这就对了，勇气可嘉（对对方的态度表示赞许）
@@ -6478,7 +6483,8 @@ predator
 捕食者  
 predator were a threat to the herd(畜群)
 
-roll call 点名
+roll call 
+点名
  I should get to roll call. 我得去点名了。
 
 false advertising
@@ -6625,8 +6631,8 @@ satisfactory 令人满意的
 grade 
 成绩、年级
 
-size12 
-12码（注意size在前，尺码数字在后）
+size
+size12表示12码（注意size在前，尺码数字在后）
 
 loaf
 可做面包的量词 “一条”
@@ -6678,8 +6684,6 @@ pouring
 倒(水)、下大雨
 It's pouring outside. 外面下着瓢泼大雨。
 
-It's actually becoming more expensive than back home.
-
 slump
  暴跌、不景气、瘫倒 
  Net profits slumped by 41% 净利润暴跌了41%  
@@ -6697,13 +6701,15 @@ tend
 除了“倾向”，还有“照看、护理”的意思
  Please go outside and tend the horse.
 
-growl [ɡraʊl] 低吼、咆哮 
+growl [ɡraʊl] 
+低吼、咆哮 
  His stomach started to growl with hunger. 他的肚子已开始饿得咕咕叫了。
 
 gulp 
 大口吞下（也可以模仿吞下去的声音）
 
-rot 腐烂 
+rot 
+腐烂 
  rotten 腐烂的 
  rotten idea 馊主意 
  rotten monkey 臭猴子
@@ -6836,7 +6842,8 @@ alleviate [əˈliːvieɪt]
 减轻、缓解(不适)   
  alleviate depression and anxiety as well as anger. 
 
-inflict 遭受  
+inflict 
+遭受  
 I don't want to inflict anymore pain on myself. 
 
 in a little while
@@ -7020,7 +7027,8 @@ She clutched frantically at Emily's arm.
 snort  
 轻蔑的发出哼声
 
-roast 烤
+roast 
+烤
   roast duck 烤鸭
 
 every once in a while 
@@ -7075,9 +7083,10 @@ forefront
 前沿
  They have been at the forefront of the campaign for political change. 他们一直处于政治变革运动的前沿。
 
-breed-bred 
+breed
 养殖、繁殖、滋生（犯罪、腐败）
 breed crimes\corrupt
+过去式：bred 
 
 mentor [ˈmentɔːr] 
 导师
@@ -7237,7 +7246,7 @@ farm out
 Scores of U.S. companies farm out software development. 许多美国公司外包软件开发。 
 assign work or service to an outsider.
 
-outsource、
+outsource
 [正式]外包，subcontract   也有外包的意思
 
 proactive 
@@ -7309,7 +7318,8 @@ fit in
 post-it 
 便利贴
 
-guzzle 狂饮  
+guzzle 
+狂饮  
 gas guzzler 油老虎  
 xxx guzller 指消耗很多xxx的东西
 
@@ -7439,7 +7449,8 @@ cheat sheet
 chalk [tʃɔːk] 
 粉笔
 
-ask for it / trouble 自找苦吃
+ask for it
+自找苦吃
  Your boyfriend broke up with you? Well, you kinda asked for it. You never made time for him.
 
 certify 
@@ -7705,7 +7716,9 @@ spill
 freeway 
 高速公路
 
-stop by 顺便去...  I decide to stop by the market./ stop by the hospital
+stop by 
+顺便去...  
+I decide to stop by the market./ stop by the hospital
 
 checkout stand 
 收银台、结账处 
@@ -7778,7 +7791,8 @@ lobster
 crab 
 螃蟹
 
-funny 除了“好笑”的，还有“不适的”的意思
+funny 
+除了“好笑”的，还有“不适的”的意思
 My stomach felt funny. 我的胃感觉不对劲。
 
 to be waited on 
@@ -7840,7 +7854,9 @@ final offer
 最终报价 
 $1500 is my final offer.
 
-*You drive a hard bargain! OK, that's the deal.  你真会讨价还价！好吧，就这么定了。
+drive a hard bargain
+极力讨价还价
+You drive a hard bargain! OK, that's the deal.  你真会讨价还价！好吧，就这么定了。
 
 hammer out 
 制定出(锤成) 
