@@ -13,8 +13,8 @@ import urllib
 import urllib.request
 from bs4 import BeautifulSoup
 
-SOURCE_FILE = "vocabulary_test.txt"
-TARGET_FILE = "vocabulary_test_output.txt"
+SOURCE_FILE = "vocabulary.txt"
+TARGET_FILE = "vocabulary_output.txt"
 LOG_FILE = "vocabulary_log.txt"
 PATTERN = r"\[[^\u4e00-\u9fa5]*?\]"
 PHONETIC_PATTERN = r"\[.*\]"
@@ -80,15 +80,13 @@ def GetPhoneticSymbol(word):
 #对读取的每一行进行处理
 def ProcessLine(line):
     global g_line_count
-    if line == '\n':
+    line = Strip(line)
+    if line == '':
         if g_line_count != 0:
             line = ProcessBlankLine()
-        else:
-            line = ''
         g_line_count = 0
     else:
         g_line_count = g_line_count + 1 #行数+1
-        line = Strip(line)
 
     if g_line_count == 0:
         pass

@@ -1,0 +1,2263 @@
+(0.0%)正在处理 toast
+(0.1%)正在处理 Cheers
+(0.1%)正在处理 book the ticket
+(0.1%)正在处理 departure date
+(0.2%)正在处理 return date
+(0.2%)正在处理 package tour
+(0.2%)正在处理 sightseeing tour
+(0.3%)正在处理 I don't particularly like
+(0.3%)正在处理 I'd rather
+(0.4%)正在处理 terrific fabulous
+(0.4%)正在处理 It says
+(0.4%)正在处理 eccentric
+(0.5%)正在处理 expiry date
+(0.5%)正在处理 more or less
+(0.5%)正在处理 feast
+(0.6%)正在处理 flap
+(0.6%)正在处理 informal
+(0.7%)正在处理 electronic device
+(0.7%)正在处理 jog
+(0.7%)正在处理 It sucks
+(0.8%)正在处理 some time ago
+(0.8%)正在处理 out of the ordinary
+(0.9%)正在处理 continent
+(0.9%)正在处理 and things like that
+(0.9%)正在处理 interchangeable
+(1.0%)正在处理 extravagant
+(1.0%)正在处理 advocate
+(1.0%)正在处理 grocery
+(1.1%)正在处理 Not necessarily
+(1.1%)正在处理 We will see.
+(1.1%)正在处理 I'll get it.
+(1.2%)正在处理 确定语气词
+(1.3%)正在处理 contradictory
+(1.4%)正在处理 ultraviolet
+(1.4%)正在处理 devastating
+(1.4%)正在处理 destructive
+(1.5%)正在处理 deadly
+(1.5%)正在处理 fatal
+(1.5%)正在处理 flooding
+(1.6%)正在处理 demon
+(1.6%)正在处理 side by side
+(1.7%)正在处理 quality service
+(1.7%)正在处理 to the point of
+(1.7%)正在处理 equivalent to
+(1.8%)正在处理 straightforward
+(1.8%)正在处理 significant
+(1.9%)正在处理 come and go
+(1.9%)正在处理 achieve
+(1.9%)正在处理 let's say
+(2.0%)正在处理 complaint
+(2.0%)正在处理 off the top of my head
+(2.1%)正在处理 towel
+(2.1%)正在处理 wardrobe
+(2.1%)正在处理 hanger
+(2.2%)正在处理 prior to
+(2.2%)正在处理 eve
+(2.3%)正在处理 for instance
+(2.3%)正在处理 as with
+(2.3%)正在处理 impertinent
+(2.4%)正在处理 pertinent
+(2.4%)正在处理 improper
+(2.5%)正在处理 for good
+(2.5%)正在处理 tale
+(2.6%)正在处理 turn the tap off
+(2.6%)正在处理 award和reward辨析
+(2.7%)正在处理 luggage
+(2.7%)正在处理 retrieve
+(2.8%)正在处理 following day
+(2.8%)正在处理 in the meantime
+(2.8%)正在处理 underwear
+(2.9%)正在处理 pajamas
+(2.9%)正在处理 sweatpants
+(3.0%)正在处理 festive mood
+(3.0%)正在处理 parade
+(3.0%)正在处理 it's on the house
+(3.1%)正在处理 present
+(3.1%)正在处理 president
+(3.1%)正在处理 somehow
+(3.2%)正在处理 lose weight
+(3.2%)正在处理 consistent
+(3.2%)正在处理 What's that word?
+(3.3%)正在处理 Good point
+(3.3%)正在处理 rough
+(3.4%)正在处理 file a lawsuit against sb
+(3.4%)正在处理 secretary
+(3.4%)正在处理 punctual
+(3.5%)正在处理 make sense of
+(3.5%)正在处理 along the way
+(3.6%)正在处理 in our everyday lives
+(3.6%)正在处理 particular
+(3.6%)正在处理 ever since
+(3.7%)正在处理 compliment
+(3.7%)正在处理 go on webside
+(3.8%)正在处理 anxiety
+(3.8%)正在处理 overcast
+(3.9%)正在处理 carton
+(3.9%)正在处理 fragile
+(4.0%)正在处理 sanitary
+(4.0%)正在处理 impress
+(4.1%)正在处理 assertive
+(4.1%)正在处理 routinely
+(4.1%)正在处理 hang out
+(4.2%)正在处理 hang in there
+(4.2%)正在处理 hang on
+(4.2%)正在处理 on trial
+(4.3%)正在处理 staff
+(4.3%)正在处理 faculty
+(4.4%)正在处理 representative
+(4.4%)正在处理 sector
+(4.5%)正在处理 contemporary
+(4.5%)正在处理 reference point
+(4.6%)正在处理 grant
+(4.6%)正在处理 judgment
+(4.6%)正在处理 stir
+(4.7%)正在处理 争吵相关
+(4.8%)正在处理 somewhat
+(4.9%)正在处理 perception
+(4.9%)正在处理 conception
+(5.0%)正在处理 eliminate
+(5.0%)正在处理 bowl
+(5.0%)正在处理 fee
+(5.1%)正在处理 analyst
+(5.1%)正在处理 jury
+(5.2%)正在处理 novel
+(5.2%)正在处理 trail
+(5.2%)正在处理 humanitarian aid
+(5.3%)正在处理 conservative
+(5.3%)正在处理 conversation
+(5.3%)正在处理 firm evidence
+(5.4%)正在处理 airline
+(5.4%)正在处理 versus
+(5.5%)正在处理 in the teeth of
+(5.5%)正在处理 initiate
+(5.6%)正在处理 innovate
+(5.6%)正在处理 refugee
+(5.7%)正在处理 slum
+(5.7%)正在处理 consultant
+(5.7%)正在处理 manufacturer
+(5.8%)正在处理 consistent with
+(5.8%)正在处理 passage
+(5.9%)正在处理 coward
+(5.9%)正在处理 timid
+(5.9%)正在处理 melody
+(6.0%)正在处理 rhythm
+(6.0%)正在处理 pay the bill
+(6.0%)正在处理 attorney
+(6.1%)正在处理 nip it in the bud
+(6.1%)正在处理 threshold
+(6.2%)正在处理 make a fuss
+(6.2%)正在处理 extent
+(6.3%)正在处理 coupon
+(6.3%)正在处理 premium
+(6.3%)正在处理 ran off
+(6.4%)正在处理 so called
+(6.4%)正在处理 intelligence
+(6.4%)正在处理 cluster
+(6.5%)正在处理 clutch
+(6.5%)正在处理 grab a coffee
+(6.6%)正在处理 figuratively
+(6.6%)正在处理 symbolically
+(6.7%)正在处理 imply
+(6.7%)正在处理 impair
+(6.8%)正在处理 board辨析
+(6.8%)正在处理 fictional
+(6.9%)正在处理 frustrated
+(6.9%)正在处理 trunk
+(7.0%)正在处理 receipt
+(7.0%)正在处理 essentially
+(7.0%)正在处理 basically
+(7.1%)正在处理 you betcha
+(7.1%)正在处理 mug
+(7.2%)正在处理 mineral water
+(7.2%)正在处理 proceed
+(7.3%)正在处理 how are things
+(7.3%)正在处理 mushroom
+(7.3%)正在处理 steak
+(7.4%)正在处理 symptoms
+(7.4%)正在处理 gargle
+(7.5%)正在处理 rub
+(7.5%)正在处理 resemble
+(7.5%)正在处理 intuitive
+(7.6%)正在处理 iterative
+(7.6%)正在处理 composition等辨析
+(7.8%)正在处理 as always
+(7.8%)正在处理 it really helps
+(7.8%)正在处理 go over
+(7.9%)正在处理 graceful
+(7.9%)正在处理 praise
+(8.0%)正在处理 punctuation
+(8.0%)正在处理 landlord
+(8.0%)正在处理 tenant
+(8.1%)正在处理 renovate
+(8.1%)正在处理 lease
+(8.2%)正在处理 rent
+(8.2%)正在处理 entrance
+(8.2%)正在处理 public utility
+(8.3%)正在处理 smoke-free
+(8.3%)正在处理 basement
+(8.3%)正在处理 set up
+(8.4%)正在处理 表示附和单词
+(8.5%)正在处理 look up
+(8.5%)正在处理 interchangeable
+(8.6%)正在处理 make up
+(8.6%)正在处理 come across
+(8.7%)正在处理 set aside
+(8.7%)正在处理 This is worth my time
+(8.7%)正在处理 narrate
+(8.8%)正在处理 语法相关单词
+(9.4%)正在处理 get ahead
+(9.4%)正在处理 aim for
+(9.5%)正在处理 fall through
+(9.5%)正在处理 burn out
+(9.6%)正在处理 plot
+(9.7%)正在处理 jet lag
+(9.7%)正在处理 sleep-deprived
+(9.7%)正在处理 recall
+(9.8%)正在处理 flicker
+(9.8%)正在处理 ideally
+(9.9%)正在处理 boost
+(9.9%)正在处理 intermediate
+(9.9%)正在处理 adapt to
+(10.0%)正在处理 well-adapted
+(10.0%)正在处理 day off
+(10.1%)正在处理 show off
+(10.1%)正在处理 Me neither
+(10.1%)正在处理 cotton
+(10.2%)正在处理 immensely
+(10.2%)正在处理 I am not into
+(10.3%)正在处理 reflex
+(10.3%)正在处理 acquaintances
+(10.4%)正在处理 neutral
+(10.4%)正在处理 help you out
+(10.5%)正在处理 under the weather
+(10.5%)正在处理 meditating
+(10.5%)正在处理 pick up
+(10.6%)正在处理 split up
+(10.6%)正在处理 contrast
+(10.7%)正在处理 contradictory
+(10.7%)正在处理 dedicate
+(10.8%)正在处理 bruise
+(10.8%)正在处理 wellbeing
+<div class="baav">
+<span class="pronounce">
+<a class="sp dictvoice voice-js log-js" data-4log="dict.basic.ec.voice" data-rel="wellbeing" href="#" title="发音"></a>
+</span>
+</div>，没有提取出音标
+(10.8%)正在处理 tolerant
+(10.9%)正在处理 cross it out
+(10.9%)正在处理 subtle
+(11.0%)正在处理 subtle nuances
+(11.0%)正在处理 what do you call this
+(11.0%)正在处理 psychological
+(11.1%)正在处理 coordinate
+(11.1%)正在处理 dessert
+(11.2%)正在处理 outfit
+(11.2%)正在处理 aesthetic
+(11.2%)正在处理 穿衣单词
+(11.4%)正在处理 We made a deal, didn't we
+(11.4%)正在处理 "No" means no.
+(11.4%)正在处理 I'll get you something next time.
+(11.5%)正在处理 take after
+(11.5%)正在处理 yay
+(11.6%)正在处理 on the off chance
+(11.6%)正在处理 表示“笑”的单词
+(11.8%)正在处理 表示“抓”的单词
+(12.0%)正在处理 connotation
+(12.0%)正在处理 intently
+(12.0%)正在处理 overtime
+(12.1%)正在处理 I will be right there
+(12.1%)正在处理 strike up
+(12.2%)正在处理 have a blast
+(12.2%)正在处理 emulate
+(12.3%)正在处理 imitate
+(12.3%)正在处理 serendipity
+(12.3%)正在处理 intrinsic
+(12.4%)正在处理 practical
+(12.4%)正在处理 chore
+(12.5%)正在处理 expenditure
+(12.5%)正在处理 thorough
+(12.6%)正在处理 look into
+(12.6%)正在处理 over\through词组：
+(12.7%)正在处理 elementary
+(12.7%)正在处理 tuition
+(12.8%)正在处理 go down
+(12.8%)正在处理 what's the rush
+(12.9%)正在处理 injustice
+(12.9%)正在处理 outrage
+(13.0%)正在处理 irresponsibility
+(13.0%)正在处理 cheeky
+(13.0%)正在处理 nuance
+(13.1%)正在处理 taboo
+(13.1%)正在处理 fury
+(13.2%)正在处理 crowdfunding
+<div class="baav">
+<span class="pronounce">
+<a class="sp dictvoice voice-js log-js" data-4log="dict.basic.ec.voice" data-rel="crowdfunding" href="#" title="发音"></a>
+</span>
+</div>，没有提取出音标
+(13.2%)正在处理 raise money
+(13.2%)正在处理 fuzzy
+(13.3%)正在处理 incentive
+(13.3%)正在处理 incentivize
+(13.4%)正在处理 take revenge
+(13.4%)正在处理 childish
+(13.5%)正在处理 bonus
+(13.5%)正在处理 pout
+(13.5%)正在处理 talk back to
+(13.6%)正在处理 revolve around
+(13.6%)正在处理 oversee
+(13.6%)正在处理 implement
+(13.7%)正在处理 underestimate
+(13.7%)正在处理 back then
+(13.8%)正在处理 roll out of bed
+(13.8%)正在处理 figurativelly
+figurativelly 没有查到音标
+(13.8%)正在处理 slam
+(13.9%)正在处理 start off
+(13.9%)正在处理 blow my mind
+(14.0%)正在处理 impound
+(14.0%)正在处理 That's not necessarily true.
+(14.1%)正在处理 You got a point here.
+(14.1%)正在处理 kiss up to
+(14.1%)正在处理 reluctant
+(14.2%)正在处理 booked solid
+(14.2%)正在处理 in the mood for
+(14.2%)正在处理 draft
+(14.3%)正在处理 stuffed
+(14.3%)正在处理 cut out
+(14.4%)正在处理 pick sb up
+(14.4%)正在处理 absence
+(14.4%)正在处理 set out to do something.
+(14.5%)正在处理 set out
+(14.5%)正在处理 stimulate
+(14.6%)正在处理 turmoil
+(14.6%)正在处理 appetite
+(14.7%)正在处理 make it
+(14.7%)正在处理 try on
+(14.7%)正在处理 deposit
+(14.8%)正在处理 transaction
+(14.8%)正在处理 overdraft
+(14.9%)正在处理 handy
+(14.9%)正在处理 debit card
+(14.9%)正在处理 I'll get you to
+(15.0%)正在处理 go down in history
+(15.0%)正在处理 pay off
+(15.1%)正在处理 bottom line
+(15.1%)正在处理 get hold of
+(15.1%)正在处理 stand sb up
+(15.2%)正在处理 heading
+(15.2%)正在处理 have no idea
+(15.3%)正在处理 I'm just browsing.
+(15.3%)正在处理 sleep on it.
+(15.4%)正在处理 stand in one's way
+(15.4%)正在处理 get them outta there
+(15.4%)正在处理 hand over
+(15.5%)正在处理 I've been meaning to
+(15.5%)正在处理 sponsor
+(15.6%)正在处理 patron
+(15.6%)正在处理 invitation letter
+(15.6%)正在处理 barely even
+(15.7%)正在处理 It sure is...
+(15.7%)正在处理 pull yourself together
+(15.8%)正在处理 hook up
+(15.8%)正在处理 hold still
+(15.8%)正在处理 obligate
+(15.9%)正在处理 outline
+(15.9%)正在处理 overall
+(16.0%)正在处理 coordination
+(16.1%)正在处理 technically
+(16.1%)正在处理 comparatively
+(16.2%)正在处理 be subject to
+(16.2%)正在处理 overwhelming
+(16.2%)正在处理 specifically
+(16.3%)正在处理 make an order
+(16.3%)正在处理 scalper
+(16.4%)正在处理 prestigious
+(16.4%)正在处理 Don't just leave me here.
+(16.5%)正在处理 leave me alone.
+(16.5%)正在处理 academy award
+(16.5%)正在处理 bitter
+(16.6%)正在处理 pass out
+(16.6%)正在处理 pandemic
+(16.6%)正在处理 up-and-coming
+(16.7%)正在处理 specify
+(16.7%)正在处理 practically
+(16.8%)正在处理 keep in mind
+(16.8%)正在处理 comply with regulation
+(16.8%)正在处理 tricky
+(16.9%)正在处理 spouses
+(16.9%)正在处理 doable
+(16.9%)正在处理 retail store
+(17.0%)正在处理 speculate
+(17.0%)正在处理 shop around
+(17.1%)正在处理 pricy
+(17.1%)正在处理 compelling
+(17.2%)正在处理 sheer
+(17.2%)正在处理 at the moment
+(17.2%)正在处理 turn to
+(17.3%)正在处理 seasoned
+(17.3%)正在处理 before long
+(17.4%)正在处理 demoralizing
+(17.4%)正在处理 lost
+(17.5%)正在处理 I've awalys wanted to...
+(17.5%)正在处理 due date
+(17.5%)正在处理 in the middle of nowhere
+(17.6%)正在处理 in order
+(17.6%)正在处理 frustrating
+(17.7%)正在处理 crew
+(17.7%)正在处理 screw up
+(17.7%)正在处理 map out
+(17.8%)正在处理 get by
+(17.8%)正在处理 malfunction
+(17.8%)正在处理 practical joke
+(17.9%)正在处理 patch
+(17.9%)正在处理 refrain
+(18.0%)正在处理 lavatory
+(18.0%)正在处理 comprehensive
+(18.1%)正在处理 comprehension
+(18.1%)正在处理 in terms of
+(18.2%)正在处理 resonate
+(18.2%)正在处理 demonstrate
+(18.3%)正在处理 tie up
+(18.3%)正在处理 fall for it
+(18.3%)正在处理 interpersonal
+(18.4%)正在处理 tempting
+(18.4%)正在处理 make progress
+(18.5%)正在处理 intuitive
+(18.5%)正在处理 immersion
+(18.6%)正在处理 momentarily
+(18.6%)正在处理 cheer-leading squad
+(18.6%)正在处理 controversy
+(18.7%)正在处理 expertise
+(18.7%)正在处理 acumen
+(18.8%)正在处理 brink
+(18.8%)正在处理 kick off
+(18.9%)正在处理 foul
+(18.9%)正在处理 referee
+(18.9%)正在处理 penalty
+(19.0%)正在处理 by a mile
+(19.0%)正在处理 groundbreaking
+(19.1%)正在处理 undisputed
+(19.1%)正在处理 irrefutable
+(19.2%)正在处理 oblivious
+(19.2%)正在处理 extensive
+(19.3%)正在处理 conclusive
+(19.3%)正在处理 definitive
+(19.4%)正在处理 flawed
+(19.4%)正在处理 profit and loss
+(19.4%)正在处理 pros and cons
+(19.5%)正在处理 pathetic
+(19.5%)正在处理 picky
+(19.6%)正在处理 yolk
+(19.6%)正在处理 feel like doing
+(19.7%)正在处理 mortifying
+(19.7%)正在处理 infinite 等词语辨析
+(19.8%)正在处理 come over
+(19.9%)正在处理 This sucks
+(19.9%)正在处理 dip
+(19.9%)正在处理 special
+(20.0%)正在处理 preoccupied
+(20.0%)正在处理 resent
+(20.0%)正在处理 beat around the bush
+(20.1%)正在处理 equivocate
+(20.1%)正在处理 laid off
+(20.2%)正在处理 engagement
+(20.2%)正在处理 positively
+(20.2%)正在处理 famished
+(20.3%)正在处理 get it togather
+(20.3%)正在处理 表示“傻子”的英语
+(20.4%)正在处理 swell
+(20.4%)正在处理 break free
+(20.5%)正在处理 appalling
+(20.5%)正在处理 drastic
+(20.5%)正在处理 hostility
+(20.6%)正在处理 fire into
+(20.6%)正在处理 a crowd of
+(20.7%)正在处理 circumstance
+(20.7%)正在处理 get worked up
+(20.7%)正在处理 over nothing
+(20.8%)正在处理 tackle
+(20.8%)正在处理 trim
+(20.9%)正在处理 luxury
+(20.9%)正在处理 sideburns
+(20.9%)正在处理 withdraw
+(21.0%)正在处理 pound key
+(21.0%)正在处理 gram
+(21.1%)正在处理 pharmacy
+(21.1%)正在处理 prescription
+(21.2%)正在处理 overdose
+(21.2%)正在处理 take medicine.
+(21.3%)正在处理 prescribe
+(21.3%)正在处理 pass time
+(21.3%)正在处理 what do you think this is？
+(21.4%)正在处理 national anthem
+(21.4%)正在处理 light and airy
+(21.5%)正在处理 square footage
+(21.5%)正在处理 四则运算英语
+(21.6%)正在处理 household appliances
+(21.6%)正在处理 wig
+(21.7%)正在处理 sustain
+(21.7%)正在处理 nature
+(21.8%)正在处理 OK，Here is the thing.
+(21.8%)正在处理 I can't take it anymore
+(21.8%)正在处理 guts
+(21.9%)正在处理 courageous
+(21.9%)正在处理 give (sb) a shot
+(22.0%)正在处理 smash
+(22.0%)正在处理 check
+(22.1%)正在处理 continent
+(22.1%)正在处理 absurd
+(22.1%)正在处理 How can I do
+(22.2%)正在处理 next to nothing
+(22.2%)正在处理 cost an arm and a leg
+(22.3%)正在处理 renowned
+(22.3%)正在处理 vow
+(22.4%)正在处理 approach
+(22.4%)正在处理 whereabouts
+(22.5%)正在处理 come clean
+(22.5%)正在处理 down
+(22.6%)正在处理 sponsor
+(22.6%)正在处理 a ton of
+(22.7%)正在处理 break down
+(22.7%)正在处理 dramatically
+(22.8%)正在处理 First off
+(22.8%)正在处理 pillar
+(22.8%)正在处理 表迷人的单词
+(23.0%)正在处理 fascinated
+(23.0%)正在处理 ironically
+(23.0%)正在处理 back then
+(23.1%)正在处理 thrill
+(23.1%)正在处理 square
+(23.2%)正在处理 repetitive
+(23.2%)正在处理 stalking
+(23.3%)正在处理 exploit
+(23.3%)正在处理 beloved
+(23.3%)正在处理 discriminate
+(23.4%)正在处理 indiscriminate
+(23.4%)正在处理 premise
+(23.4%)正在处理 undergo
+(23.5%)正在处理 cast
+(23.5%)正在处理 rockey start
+(23.6%)正在处理 term
+(23.6%)正在处理 anguish
+(23.7%)正在处理 Who are you to
+(23.7%)正在处理 capacity
+(23.8%)正在处理 intelligence
+(23.8%)正在处理 qualify
+(23.9%)正在处理 undertake
+(23.9%)正在处理 nevertheless
+(24.0%)正在处理 What does that mean
+(24.0%)正在处理 rogue
+(24.0%)正在处理 debris
+(24.1%)正在处理 identical
+(24.1%)正在处理 announcer
+(24.2%)正在处理 deficiency
+(24.2%)正在处理 foul breath
+(24.3%)正在处理 zone out
+(24.3%)正在处理 unscientific
+(24.3%)正在处理 notion
+(24.4%)正在处理 scatter
+(24.5%)正在处理 mixed bag
+(24.5%)正在处理 flatter
+(24.6%)正在处理 hover
+(24.6%)正在处理 gust
+(24.7%)正在处理 sleet
+(24.7%)正在处理 daytime
+(24.7%)正在处理 obnoxious
+(24.8%)正在处理 impression
+(24.8%)正在处理 fable
+(24.9%)正在处理 depict
+(24.9%)正在处理 portray
+(25.0%)正在处理 accuse
+(25.0%)正在处理 plagiarise
+(25.1%)正在处理 folk
+(25.2%)正在处理 enchanting
+(25.2%)正在处理 grim
+(25.3%)正在处理 nosy
+(25.3%)正在处理 don't get me wrong
+(25.3%)正在处理 sure thing
+(25.4%)正在处理 raise
+(25.4%)正在处理 coincidence
+(25.5%)正在处理 creek
+(25.5%)正在处理 sun set
+(25.6%)正在处理 groan
+(25.6%)正在处理 head into
+(25.6%)正在处理 rope
+(25.7%)正在处理 poke
+(25.7%)正在处理 How come...
+(25.8%)正在处理 at&t
+(25.8%)正在处理 invade
+(25.9%)正在处理 slander
+(26.0%)正在处理 eternal
+(26.0%)正在处理 greed
+(26.1%)正在处理 I think otherwise
+(26.1%)正在处理 originality
+(26.1%)正在处理 rightfully
+(26.2%)正在处理 pursuit
+(26.2%)正在处理 deceive
+(26.3%)正在处理 fraud
+(26.3%)正在处理 melt
+(26.4%)正在处理 I beg to differ
+(26.4%)正在处理 hypothesis
+(26.4%)正在处理 monger
+(26.5%)正在处理 duplicitous
+(26.5%)正在处理 put forth
+(26.6%)正在处理 concede
+(26.6%)正在处理 You're full of it.
+(26.7%)正在处理 truthful
+(26.7%)正在处理 ask for leave
+(26.8%)正在处理 blow away
+(26.8%)正在处理 take on board
+(26.8%)正在处理 think through
+(26.9%)正在处理 pant
+(26.9%)正在处理 clank
+(27.0%)正在处理 personality
+(27.0%)正在处理 compatible
+(27.1%)正在处理 what's the catch?
+(27.1%)正在处理 special promotion
+(27.1%)正在处理 attend
+(27.2%)正在处理 attendance
+(27.2%)正在处理 resign
+(27.3%)正在处理 recruit
+(27.3%)正在处理 runny
+(27.4%)正在处理 edible
+(27.4%)正在处理 rubbery
+(27.4%)正在处理 a sliver of
+(27.5%)正在处理 make a big deal
+(27.5%)正在处理 shell out
+(27.6%)正在处理 gory
+(27.6%)正在处理 shoulder the responsibility
+(27.6%)正在处理 for crying out loud
+(27.7%)正在处理 applicable
+(27.7%)正在处理 concise
+(27.8%)正在处理 compulsory
+(27.8%)正在处理 caterpillar
+(27.9%)正在处理 homebody
+(27.9%)正在处理 catch up
+(28.0%)正在处理 major
+(28.0%)正在处理 tuition
+(28.1%)正在处理 credit
+(28.1%)正在处理 calendar
+(28.1%)正在处理 slander
+(28.2%)正在处理 slender
+(28.2%)正在处理 plumber
+(28.2%)正在处理 rust
+(28.3%)正在处理 drain
+(28.3%)正在处理 flush down
+(28.4%)正在处理 running late
+(28.4%)正在处理 tell me about it.
+(28.5%)正在处理 nauseous
+(28.5%)正在处理 dizzy
+(28.5%)正在处理 dehydrated
+(28.6%)正在处理 throw up
+(28.6%)正在处理 pounding
+(28.7%)正在处理 tantamount
+(28.7%)正在处理 procreate
+(28.8%)正在处理 procrastinate
+(28.8%)正在处理 rationalize
+(28.9%)正在处理 pass the buck
+(28.9%)正在处理 in over your head
+(28.9%)正在处理 forthright
+(29.0%)正在处理 devoted
+(29.0%)正在处理 talk over
+(29.1%)正在处理 at the drop of a hat
+(29.1%)正在处理 dwell
+(29.2%)正在处理 mainsion
+mainsion 没有查到音标
+(29.2%)正在处理 spooky
+(29.3%)正在处理 creepy
+(29.3%)正在处理 ultra
+(29.4%)正在处理 scaredy-cat
+(29.4%)正在处理 goose
+(29.5%)正在处理 prosperity
+(29.5%)正在处理 solemn
+(29.6%)正在处理 basis
+(29.6%)正在处理 slack
+(29.7%)正在处理 check out
+(29.7%)正在处理 fortune
+(29.8%)正在处理 Let's just say
+(29.8%)正在处理 incorrigible
+(29.9%)正在处理 pride and joy
+(29.9%)正在处理 go through with
+(30.0%)正在处理 yearn
+(30.0%)正在处理 foster
+(30.1%)正在处理 demonstrate
+(30.1%)正在处理 mainly
+(30.1%)正在处理 pump iron
+(30.2%)正在处理 take sth apart
+(30.2%)正在处理 spew
+(30.3%)正在处理 spray
+(30.3%)正在处理 and so is ...
+(30.3%)正在处理 mount
+(30.4%)正在处理 grouchy
+(30.5%)正在处理 brush sb off
+(30.5%)正在处理 get off the phone
+(30.6%)正在处理 at times
+(30.6%)正在处理 foul-mouthed
+(30.7%)正在处理 on edge
+(30.7%)正在处理 You are something else.
+(30.7%)正在处理 nerve-wracking
+(30.8%)正在处理 neat freak
+(30.8%)正在处理 intentional
+(30.9%)正在处理 rally
+(30.9%)正在处理 throw in
+(31.0%)正在处理 detect
+(31.0%)正在处理 mock
+(31.1%)正在处理 admittedly
+(31.1%)正在处理 scrap
+(31.2%)正在处理 sorely
+(31.2%)正在处理 disposal
+(31.3%)正在处理 immense
+(31.3%)正在处理 bodyguard
+(31.4%)正在处理 intake
+(31.4%)正在处理 sniff
+(31.5%)正在处理 engaging
+(31.5%)正在处理 radically
+(31.5%)正在处理 anonymous
+(31.6%)正在处理 strip
+(31.6%)正在处理 striped
+(31.7%)正在处理 capital punishment
+(31.7%)正在处理 penalty
+(31.8%)正在处理 that's all for
+(31.8%)正在处理 tough
+(31.9%)正在处理 prison
+(31.9%)正在处理 lock up
+(32.0%)正在处理 sentence
+(32.0%)正在处理 juvenile
+(32.1%)正在处理 crime
+(32.1%)正在处理 prisoner
+(32.2%)正在处理 miscarriage
+(32.3%)正在处理 convicted
+(32.3%)正在处理 conviction
+(32.4%)正在处理 fabricate
+(32.4%)正在处理 deter
+(32.5%)正在处理 divert
+(32.5%)正在处理 reckon
+(32.6%)正在处理 dictator
+(32.6%)正在处理 sanction
+(32.7%)正在处理 impose
+(32.7%)正在处理 compulsory
+(32.8%)正在处理 compose
+(32.8%)正在处理 conscience
+(32.9%)正在处理 conscious
+(33.0%)正在处理 chickenpox
+(33.0%)正在处理 contagious
+(33.0%)正在处理 blow something out of proportion
+(33.1%)正在处理 allergy
+(33.2%)正在处理 synthetic
+(33.2%)正在处理 vulnerable
+(33.2%)正在处理 poach
+(33.3%)正在处理 at the mercy of
+(33.3%)正在处理 mistreat
+(33.4%)正在处理 unbearable
+(33.4%)正在处理 do my part
+(33.4%)正在处理 debatable topic
+(33.5%)正在处理 hypocrisy
+(33.6%)正在处理 superstition
+(33.6%)正在处理 in touch with
+(33.7%)正在处理 drop out of school
+(33.7%)正在处理 siblings
+(33.7%)正在处理 frown
+(33.8%)正在处理 waterproof
+(33.8%)正在处理 stand on tiptoe
+(33.9%)正在处理 acquaint
+(33.9%)正在处理 peep
+(34.0%)正在处理 be caught red-handed
+(34.0%)正在处理 paranoid
+(34.0%)正在处理 telemarketer
+(34.1%)正在处理 renew
+(34.1%)正在处理 make way for
+(34.2%)正在处理 decent
+(34.2%)正在处理 sneaky
+(34.2%)正在处理 put up with
+(34.3%)正在处理 come up with
+(34.3%)正在处理 without any further ado
+(34.4%)正在处理 up to
+(34.4%)正在处理 same here
+(34.5%)正在处理 be sick and tired of...
+(34.5%)正在处理 whine
+(34.5%)正在处理 make enemies with
+(34.6%)正在处理 organism
+(34.6%)正在处理 conundrum
+(34.7%)正在处理 pile
+(34.7%)正在处理 up to my neck
+(34.8%)正在处理 have sb's hands full
+(34.8%)正在处理 hectic
+(34.8%)正在处理 nonsense
+(34.9%)正在处理 to turn on its head
+(34.9%)正在处理 full of holes.
+(35.0%)正在处理 propose
+(35.0%)正在处理 compl_单词辨析
+(35.1%)正在处理 homesick
+(35.2%)正在处理 slurp
+(35.2%)正在处理 have a cup of coffee.
+(35.2%)正在处理 shoot the breath.
+(35.3%)正在处理 straw
+(35.3%)正在处理 cut it out！
+(35.4%)正在处理 You've got to be kidding me!
+(35.4%)正在处理 come in handy
+(35.5%)正在处理 fare
+(35.5%)正在处理 nostalgia
+(35.6%)正在处理 bummed out
+(35.6%)正在处理 grasp
+(35.7%)正在处理 help out
+(35.7%)正在处理 pinpoint
+(35.8%)正在处理 fresh start
+(35.8%)正在处理 go over
+(35.9%)正在处理 eternity
+(35.9%)正在处理 rational explanation
+(36.0%)正在处理 grow
+(36.0%)正在处理 Hey buddy
+(36.0%)正在处理 moisture
+(36.1%)正在处理 reluctant
+(36.1%)正在处理 critter
+(36.2%)正在处理 outskirt
+(36.2%)正在处理 all of a sudden
+(36.3%)正在处理 obsession
+(36.3%)正在处理 crave
+(36.4%)正在处理 chubby
+(36.4%)正在处理 insinuate
+(36.5%)正在处理 pirate
+(36.5%)正在处理 pre-existing
+(36.6%)正在处理 qualify for
+(36.6%)正在处理 blow off
+(36.7%)正在处理 be hooked on
+(36.7%)正在处理 grave
+(36.8%)正在处理 deceased
+(36.8%)正在处理 veterans
+(36.9%)正在处理 armistice
+(36.9%)正在处理 call a truce
+(37.0%)正在处理 allies
+(37.0%)正在处理 signed a peace treaty
+(37.0%)正在处理 commemorate
+(37.1%)正在处理 flunk
+(37.1%)正在处理 self-critical
+(37.2%)正在处理 for sure
+(37.2%)正在处理 lousy
+(37.3%)正在处理 poor
+(37.3%)正在处理 duel
+(37.4%)正在处理 I'll be there
+(37.4%)正在处理 and stuff
+(37.4%)正在处理 if I ever failed you.
+(37.5%)正在处理 jeopardize
+(37.5%)正在处理 well-being
+(37.6%)正在处理 planned and organized.
+(37.6%)正在处理 heartfelt
+(37.7%)正在处理 jargon
+(37.7%)正在处理 social security
+(37.8%)正在处理 deduct
+(37.8%)正在处理 piggy bank
+(37.9%)正在处理 ceramic
+(37.9%)正在处理 put away
+(37.9%)正在处理 plan out
+(38.0%)正在处理 compulsive
+(38.0%)正在处理 alleged
+(38.1%)正在处理 Sneak Peek
+(38.1%)正在处理 jeopardize
+(38.2%)正在处理 humiliate
+(38.2%)正在处理 roller coaster
+(38.3%)正在处理 commemorate
+(38.3%)正在处理 sip
+(38.3%)正在处理 rear
+(38.4%)正在处理 looks to me like ...
+(38.4%)正在处理 accessories
+(38.5%)正在处理 startle
+(38.5%)正在处理 spill
+(38.6%)正在处理 promising
+(38.6%)正在处理 Not necessarily
+(38.7%)正在处理 vendor
+(38.7%)正在处理 utilize
+(38.8%)正在处理 way too
+(38.8%)正在处理 a handful of
+(38.9%)正在处理 frankly speaking
+(38.9%)正在处理 allowance
+(38.9%)正在处理 allocate
+(39.0%)正在处理 receipt
+(39.0%)正在处理 authentically
+(39.1%)正在处理 pissed off
+(39.1%)正在处理 thrilled
+(39.2%)正在处理 devastated
+(39.2%)正在处理 devastating
+(39.2%)正在处理 devastate
+(39.3%)正在处理 miserable
+(39.3%)正在处理 filthy
+(39.4%)正在处理 spotless
+(39.4%)正在处理 hilarious
+(39.5%)正在处理 petrified
+(39.5%)正在处理 hideous
+(39.6%)正在处理 swamped
+(39.6%)正在处理 adorable
+(39.7%)正在处理 brilliant
+(39.7%)正在处理 fascinating
+(39.8%)正在处理 crucial
+(39.8%)正在处理 freezing
+(39.9%)正在处理 gigantic
+(39.9%)正在处理 cautious
+(40.0%)正在处理 stinky
+(40.0%)正在处理 provide for
+(40.1%)正在处理 resolve
+(40.1%)正在处理 head to
+(40.2%)正在处理 process of
+(40.2%)正在处理 knock yourself out
+(40.3%)正在处理 all set
+(40.3%)正在处理 vibrant
+(40.3%)正在处理 leave out
+(40.4%)正在处理 caress
+(40.4%)正在处理 flashy
+(40.5%)正在处理 yap on
+(40.5%)正在处理 blabber
+(40.6%)正在处理 threaten
+(40.6%)正在处理 mittens
+(40.6%)正在处理 earmuffs
+(40.7%)正在处理 turn over a new leaf
+(40.7%)正在处理 wipe the slate clean
+(40.8%)正在处理 pinch pennies
+(40.8%)正在处理 metaphor
+(40.8%)正在处理 Then comes the hard part
+(40.9%)正在处理 hassle
+(40.9%)正在处理 carbohydrate
+(41.0%)正在处理 protein
+(41.0%)正在处理 Don't cout on it.
+(41.0%)正在处理 a set of
+(41.1%)正在处理 suburb
+(41.1%)正在处理 bungalow
+(41.2%)正在处理 lawn
+(41.2%)正在处理 minimal
+(41.3%)正在处理 grill
+(41.3%)正在处理 quaint
+(41.4%)正在处理 shutter
+(41.4%)正在处理 picket fence
+(41.4%)正在处理 pale yellow
+(41.5%)正在处理 rugs
+(41.5%)正在处理 fireplace
+(41.5%)正在处理 cupboard
+(41.6%)正在处理 homey
+(41.6%)正在处理 eco-friendly
+(41.7%)正在处理 solar panels
+(41.7%)正在处理 dearest
+(41.7%)正在处理 pesticides
+(41.8%)正在处理 fish pond
+(41.8%)正在处理 journey
+(41.8%)正在处理 journal
+(41.9%)正在处理 make no sense
+(41.9%)正在处理 sarcasm (n)
+(42.0%)正在处理 I though to myself
+(42.0%)正在处理 shuttle bus
+(42.1%)正在处理 turn it over to
+(42.1%)正在处理 blessed
+(42.1%)正在处理 There are a lot of time where...
+(42.2%)正在处理 Other than that
+(42.2%)正在处理 back to the point
+(42.3%)正在处理 make good on the promise
+(42.3%)正在处理 leeway
+(42.4%)正在处理 approach life
+(42.4%)正在处理 life-live辨析
+(42.6%)正在处理 bleak
+(42.6%)正在处理 that being said
+(42.7%)正在处理 That's pretty much it.
+(42.7%)正在处理 I want to keep a pet dog.
+(42.8%)正在处理 anticipate
+(42.8%)正在处理 genuinely
+(42.9%)正在处理 You definitely check it out.
+(42.9%)正在处理 be obsessed with
+(43.0%)正在处理 on your terms
+(43.0%)正在处理 fruition
+(43.1%)正在处理 pull off
+(43.1%)正在处理 recur
+(43.2%)正在处理 recurring
+(43.2%)正在处理 miscellaneous
+(43.3%)正在处理 crack on
+(43.3%)正在处理 flirt
+(43.4%)正在处理 pedophilia
+(43.4%)正在处理 next up
+(43.4%)正在处理 gripping
+(43.5%)正在处理 deem
+(43.5%)正在处理 highten
+highten 没有查到音标
+(43.6%)正在处理 catch on
+(43.7%)正在处理 low key
+(43.7%)正在处理 go after
+(43.8%)正在处理 mindset
+(43.8%)正在处理 snuff out
+(43.9%)正在处理 be around
+(44.0%)正在处理 come off
+(44.0%)正在处理 approachable
+(44.0%)正在处理 encompass
+(44.1%)正在处理 spontaneously
+(44.1%)正在处理 on the spur-of-the-moment
+(44.2%)正在处理 altercation
+(44.2%)正在处理 tailor
+(44.2%)正在处理 cardiac arrest
+(44.3%)正在处理 procedure
+(44.3%)正在处理 lay flat on your back
+(44.4%)正在处理 revolt
+(44.4%)正在处理 chronic
+(44.4%)正在处理 major
+(44.5%)正在处理 evacuation
+(44.5%)正在处理 dissuade
+(44.6%)正在处理 red tape
+(44.6%)正在处理 tarrif
+tarrif 没有查到音标
+(44.7%)正在处理 clasy
+clasy 没有查到音标
+(44.7%)正在处理 what was it like...
+(44.7%)正在处理 longevity
+(44.8%)正在处理 composite materials
+(44.8%)正在处理 rip (sb) off
+(44.8%)正在处理 slack off
+(44.9%)正在处理 day-to-day
+(44.9%)正在处理 it's just the way things are
+(45.0%)正在处理 ritual
+(45.0%)正在处理 overkill
+(45.0%)正在处理 make the most of time
+(45.1%)正在处理 exert
+(45.1%)正在处理 drift off to sleep
+(45.2%)正在处理 in a row
+(45.2%)正在处理 answer the phone
+(45.3%)正在处理 mantra
+(45.3%)正在处理 chill out
+(45.3%)正在处理 reflect
+(45.4%)正在处理 pretty much
+(45.4%)正在处理 set forward the watch/clock
+(45.5%)正在处理 natural disasters
+(45.5%)正在处理 unprecedented
+(45.6%)正在处理 meteorology
+(45.6%)正在处理 avalanche
+(45.7%)正在处理 drought
+(45.7%)正在处理 closure
+(45.8%)正在处理 hurricane
+(45.8%)正在处理 stay tuned
+(45.9%)正在处理 hydro power
+(45.9%)正在处理 supper
+(46.0%)正在处理 crispy
+(46.0%)正在处理 soy sauce
+(46.1%)正在处理 onion
+(46.1%)正在处理 garlic
+(46.1%)正在处理 ginger
+(46.2%)正在处理 pepper
+(46.2%)正在处理 sour
+(46.3%)正在处理 disgrace
+(46.3%)正在处理 attendant
+(46.4%)正在处理 gasoline
+(46.4%)正在处理 acronym
+(46.4%)正在处理 pulse
+(46.5%)正在处理 anytime soon
+(46.5%)正在处理 fracture
+(46.6%)正在处理 all you ever do
+(46.6%)正在处理 scenic route
+(46.7%)正在处理 jury
+(46.7%)正在处理 prosecution
+(46.7%)正在处理 defendant
+(46.8%)正在处理 testimony
+(46.8%)正在处理 verdict
+(46.9%)正在处理 close the deal
+(46.9%)正在处理 distributor
+(46.9%)正在处理 manufacturer
+(47.0%)正在处理 exemplify
+(47.0%)正在处理 spring
+(47.1%)正在处理 trait
+(47.1%)正在处理 tariff
+(47.2%)正在处理 cut corners
+(47.2%)正在处理 hand down
+(47.2%)正在处理 later get back to you
+(47.3%)正在处理 scam
+(47.3%)正在处理 exceed
+(47.4%)正在处理 cart
+(47.4%)正在处理 plunge
+(47.5%)正在处理 bull market
+(47.5%)正在处理 nerve-racking
+(47.6%)正在处理 in-laws
+(47.6%)正在处理 thanks for having me
+(47.7%)正在处理 last will and testament
+(47.7%)正在处理 reside in
+(47.7%)正在处理 sound
+(47.8%)正在处理 instrument
+(47.8%)正在处理 revoke
+(47.9%)正在处理 direct
+(47.9%)正在处理 disposition
+(48.0%)正在处理 ceiling
+(48.0%)正在处理 spouse
+(48.0%)正在处理 estate
+(48.1%)正在处理 residue
+(48.1%)正在处理 heir
+(48.2%)正在处理 relatives
+(48.2%)正在处理 descent
+(48.3%)正在处理 be cremated
+(48.3%)正在处理 as follows
+(48.3%)正在处理 burial plot
+(48.4%)正在处理 sort out
+(48.4%)正在处理 reckless
+(48.4%)正在处理 clumsy
+(48.5%)正在处理 outspoken
+(48.5%)正在处理 magnanimous
+(48.6%)正在处理 introverted
+(48.6%)正在处理 eloquent
+(48.6%)正在处理 daring
+(48.7%)正在处理 cured
+(48.7%)正在处理 sausage
+(48.8%)正在处理 olive
+(48.8%)正在处理 cucumber
+(48.8%)正在处理 pickle
+(48.9%)正在处理 skimmed milk
+(48.9%)正在处理 fat
+(49.0%)正在处理 Get a move on
+(49.0%)正在处理 Nerver mind that.
+(49.0%)正在处理 way more
+(49.1%)正在处理 have is that...
+(49.1%)正在处理 decline
+(49.2%)正在处理 downward trend
+(49.2%)正在处理 stem from
+(49.3%)正在处理 feed themself
+(49.3%)正在处理 make ends meet
+(49.4%)正在处理 needy
+(49.4%)正在处理 finalize
+(49.5%)正在处理 pitch in
+(49.5%)正在处理 fall on hard time
+(49.5%)正在处理 acrimonious
+(49.6%)正在处理 get down to business
+(49.6%)正在处理 proposal
+(49.7%)正在处理 business proposal
+(49.7%)正在处理 custody
+(49.8%)正在处理 antique
+(49.8%)正在处理 gramophone
+(49.9%)正在处理 drag out
+(49.9%)正在处理 adorable
+(49.9%)正在处理 alley
+(50.0%)正在处理 reconcile
+(50.0%)正在处理 quintessential
+(50.1%)正在处理 fierce
+(50.1%)正在处理 consciously or subconsciously
+(50.2%)正在处理 detrimental
+(50.2%)正在处理 scheme
+(50.3%)正在处理 live in the boonies
+(50.3%)正在处理 refit
+(50.3%)正在处理 renovate
+(50.4%)正在处理 hybrid vehicle
+(50.4%)正在处理 feasible
+(50.5%)正在处理 hippies
+(50.5%)正在处理 carpool
+(50.5%)正在处理 barrel
+(50.6%)正在处理 bucket
+(50.6%)正在处理 water the plants
+(50.7%)正在处理 bio-degradable plastic
+(50.7%)正在处理 dispose
+(50.7%)正在处理 disposable
+(50.8%)正在处理 emit
+(50.8%)正在处理 global climate change
+(50.9%)正在处理 energy efficient
+(50.9%)正在处理 light bulb
+(50.9%)正在处理 ecosystem
+(51.0%)正在处理 sustainable development
+(51.0%)正在处理 beard
+(51.1%)正在处理 burglar
+(51.1%)正在处理 park bench
+(51.1%)正在处理 snoop
+(51.2%)正在处理 pass on
+(51.2%)正在处理 for goodness' sake
+(51.3%)正在处理 solicit
+(51.3%)正在处理 catalog
+(51.4%)正在处理 No need to sweat it.
+(51.4%)正在处理 hall
+(51.5%)正在处理 venue
+(51.5%)正在处理 officiate
+(51.6%)正在处理 counsel
+(51.6%)正在处理 no-brainer
+(51.6%)正在处理 tone it down a bit
+(51.7%)正在处理 sting
+(51.7%)正在处理 by the time we leave
+(51.8%)正在处理 here and there
+(51.8%)正在处理 sole
+(51.9%)正在处理 各种鞋子单词
+(52.0%)正在处理 fabric
+(52.0%)正在处理 fertilizer
+(52.1%)正在处理 rake
+(52.1%)正在处理 shovel
+(52.2%)正在处理 hoe
+(52.2%)正在处理 scissor
+(52.2%)正在处理 till the soil
+(52.3%)正在处理 sow seeds
+(52.3%)正在处理 on the contrary
+(52.3%)正在处理 What have you been up to
+(52.4%)正在处理 refreshment
+(52.4%)正在处理 curriculum
+(52.5%)正在处理 extracurricular
+(52.5%)正在处理 appreciate
+(52.5%)正在处理 split-second
+(52.6%)正在处理 swallow
+(52.6%)正在处理 swollen
+(52.7%)正在处理 antibiotic
+(52.7%)正在处理 sedative
+(52.7%)正在处理 make time
+(52.8%)正在处理 insomnia
+(52.8%)正在处理 melatonin
+(52.9%)正在处理 dreadful
+(52.9%)正在处理 apply to one's situation
+(52.9%)正在处理 transient
+(53.0%)正在处理 do the trick
+(53.0%)正在处理 wilderness
+(53.1%)正在处理 periodical
+(53.1%)正在处理 quarterly
+(53.1%)正在处理 head straight for...
+(53.2%)正在处理 conditioner
+(53.2%)正在处理 rinse... out
+(53.3%)正在处理 manage to
+(53.3%)正在处理 afterwards
+(53.4%)正在处理 brew
+(53.4%)正在处理 every now and then
+(53.5%)正在处理 That's more like it
+(53.5%)正在处理 walk
+(53.6%)正在处理 fulfilling
+(53.6%)正在处理 infuse
+(53.6%)正在处理 circulation
+(53.7%)正在处理 pledge
+(53.7%)正在处理 humble
+(53.8%)正在处理 arrogant
+(53.8%)正在处理 not much of a ...
+(53.8%)正在处理 address
+(53.9%)正在处理 narrative
+(53.9%)正在处理 I'm a sucker for ...
+(54.0%)正在处理 seizing the opportunities
+(54.0%)正在处理 monument
+(54.1%)正在处理 enormous
+(54.1%)正在处理 stump  ( si dang pu)
+(54.2%)正在处理 relic
+(54.2%)正在处理 column
+(54.2%)正在处理 in a row
+(54.3%)正在处理 refuge
+(54.3%)正在处理 pursue
+(54.4%)正在处理 protagonist
+(54.4%)正在处理 tunnel
+(54.5%)正在处理 hype
+(54.5%)正在处理 accessory
+(54.5%)正在处理 outrageous
+(54.6%)正在处理 crayon
+(54.6%)正在处理 restless
+(54.6%)正在处理 go all out
+(54.7%)正在处理 embryo
+(54.7%)正在处理 remuneration
+(54.8%)正在处理 per annum
+(54.8%)正在处理 overview
+(54.8%)正在处理 housing allowance
+(54.9%)正在处理 kick off
+(54.9%)正在处理 trophy
+(54.9%)正在处理 eliminate
+(55.0%)正在处理 quarterfinal
+(55.0%)正在处理 semifinal
+(55.1%)正在处理 final
+(55.1%)正在处理 sissy
+(55.1%)正在处理 You are grounded
+(55.2%)正在处理 curfew
+(55.2%)正在处理 put one's foot down
+(55.3%)正在处理 workforce
+(55.3%)正在处理 vacancy
+(55.3%)正在处理 comprise
+(55.4%)正在处理 revolver
+(55.4%)正在处理 abide
+(55.5%)正在处理 head over to
+(55.5%)正在处理 cheek
+(55.6%)正在处理 chin
+(55.6%)正在处理 mole
+(55.6%)正在处理 bushy
+(55.7%)正在处理 eyebrow
+(55.7%)正在处理 eyelash
+(55.8%)正在处理 pointy
+(55.8%)正在处理 freckle
+(55.8%)正在处理 dimple
+(55.9%)正在处理 oval
+(55.9%)正在处理 spring to mind
+(56.0%)正在处理 shortlist
+(56.0%)正在处理 converse
+(56.1%)正在处理 an array of
+(56.1%)正在处理 press against
+(56.2%)正在处理 floss
+(56.2%)正在处理 anesthetic
+(56.3%)正在处理 aesthetic
+(56.3%)正在处理 brace
+(56.4%)正在处理 embrace
+(56.4%)正在处理 pest control
+(56.4%)正在处理 drizzle
+(56.5%)正在处理 hail
+(56.5%)正在处理 flavor
+(56.6%)正在处理 beverage
+(56.6%)正在处理 overdue
+(56.7%)正在处理 undermine
+(56.7%)正在处理 preferable
+(56.8%)正在处理 You really look sharp today
+(56.8%)正在处理 lame
+(56.8%)正在处理 seep
+(56.9%)正在处理 torture
+(56.9%)正在处理 chamber
+(57.0%)正在处理 touch on
+(57.0%)正在处理 marketing campaign
+(57.0%)正在处理 rival
+(57.1%)正在处理 in leaps and bounds
+(57.2%)正在处理 down to
+(57.2%)正在处理 going from strength to strength
+(57.3%)正在处理 nanny
+(57.3%)正在处理 Are you up for some ...
+(57.3%)正在处理 This way ...
+(57.4%)正在处理 refer
+(57.4%)正在处理 now and then
+(57.5%)正在处理 run some errands
+(57.5%)正在处理 juggle
+(57.6%)正在处理 convention
+(57.6%)正在处理 conventional
+(57.7%)正在处理 bogus
+(57.7%)正在处理 cut-throat
+(57.7%)正在处理 untapped
+(57.8%)正在处理 tap into
+(57.8%)正在处理 market share
+(57.9%)正在处理 drop in the ocean
+(57.9%)正在处理 reap
+(58.0%)正在处理 compare and contrast
+(58.0%)正在处理 stove
+(58.0%)正在处理 oven
+(58.1%)正在处理 blender
+(58.1%)正在处理 toaster
+(58.2%)正在处理 surcharge
+(58.2%)正在处理 in a little depth
+(58.3%)正在处理 a cut above the rest
+(58.3%)正在处理 performance
+(58.3%)正在处理 bear in mind
+(58.4%)正在处理 differentiate
+(58.4%)正在处理 conservative estimate
+(58.5%)正在处理 airbag
+(58.5%)正在处理 It come with...
+(58.6%)正在处理 You have a choice of either ... or ...
+(58.6%)正在处理 down-payment
+(58.6%)正在处理 hood
+(58.7%)正在处理 cutting-edge
+(58.7%)正在处理 state-of-the-art
+网络获取单词state-of-the-art音标失败，原因为HTTP Error 403: Forbidden
+(58.8%)正在处理 enviable
+(58.8%)正在处理 breathtaking
+(58.8%)正在处理 workmanship
+(58.9%)正在处理 foremost
+(58.9%)正在处理 value for money
+(59.0%)正在处理 hands down
+(59.0%)正在处理 sleep tight
+(59.1%)正在处理 toss and turn
+(59.1%)正在处理 hit the hay
+(59.2%)正在处理 snooze
+(59.2%)正在处理 drop something off
+(59.2%)正在处理 head to
+(59.3%)正在处理 accidentally
+(59.4%)正在处理 here is the deal
+(59.4%)正在处理 parking lot
+(59.4%)正在处理 cliche
+(59.5%)正在处理 rough patch
+(59.5%)正在处理 sulk
+(59.6%)正在处理 soak
+(59.6%)正在处理 It's not worth my time.
+(59.7%)正在处理 broad overview
+(59.7%)正在处理 conceptual understanding
+(59.7%)正在处理 fundamental concepts
+(59.8%)正在处理 vibrate
+(59.8%)正在处理 validation
+(59.9%)正在处理 podium
+(59.9%)正在处理 equally as
+(59.9%)正在处理 nominated
+(60.0%)正在处理 anonymous
+(60.0%)正在处理 raging
+(60.1%)正在处理 narcissism
+(60.1%)正在处理 How does that make you feel
+(60.2%)正在处理 impractical
+(60.2%)正在处理 get myself together
+(60.2%)正在处理 costume
+(60.3%)正在处理 rehearsal
+(60.3%)正在处理 trace amount
+(60.3%)正在处理 identical
+(60.4%)正在处理 nap time
+(60.4%)正在处理 millennial
+(60.5%)正在处理 optimal
+(60.5%)正在处理 for free
+(60.6%)正在处理 lately
+(60.6%)正在处理 one hour or even less.
+(60.7%)正在处理 be proficient in
+(60.7%)正在处理 chitchat
+(60.7%)正在处理 flawless
+(60.8%)正在处理 mindful
+(60.8%)正在处理 outcast
+(60.9%)正在处理 meditation
+(60.9%)正在处理 siege
+(60.9%)正在处理 sketch
+(61.0%)正在处理 profound
+(61.0%)正在处理 Valentine's Day
+(61.1%)正在处理 underlying
+(61.1%)正在处理 carry on
+(61.1%)正在处理 revise
+(61.2%)正在处理 entertain myself
+(61.2%)正在处理 supplemental
+(61.3%)正在处理 outlet
+(61.3%)正在处理 captive
+(61.3%)正在处理 slit
+(61.4%)正在处理 progressively
+(61.4%)正在处理 dandruff
+(61.5%)正在处理 which one would you prefer
+(61.5%)正在处理 preface
+(61.5%)正在处理 itch
+(61.6%)正在处理 subsequent
+(61.6%)正在处理 descend
+(61.7%)正在处理 excavate
+(61.7%)正在处理 meet standard
+(61.8%)正在处理 go viral
+(61.8%)正在处理 drill
+(61.9%)正在处理 saw
+(61.9%)正在处理 grind
+(62.0%)正在处理 grain
+(62.0%)正在处理 stack
+(62.1%)正在处理 salvage
+(62.1%)正在处理 juridical ideas
+(62.1%)正在处理 jurisdiction
+(62.2%)正在处理 prosecute
+(62.2%)正在处理 grievance
+(62.3%)正在处理 superior
+(62.3%)正在处理 gold foil
+(62.4%)正在处理 start over
+(62.4%)正在处理 internship
+(62.4%)正在处理 expelled
+(62.5%)正在处理 blow
+(62.5%)正在处理 armrest
+(62.6%)正在处理 stiff
+(62.6%)正在处理 oversight
+(62.7%)正在处理 thrift
+(62.7%)正在处理 I‘m bleeding.
+(62.7%)正在处理 rip
+(62.8%)正在处理 sort through
+(62.8%)正在处理 wear
+(62.9%)正在处理 daunting
+(62.9%)正在处理 main goal
+(63.0%)正在处理 rift
+(63.0%)正在处理 tragic
+(63.1%)正在处理 miserable
+(63.1%)正在处理 grief
+(63.1%)正在处理 what do we got?
+(63.2%)正在处理 cello
+(63.2%)正在处理 pimple
+(63.2%)正在处理 How convenient?
+(63.3%)正在处理 Are you free?
+(63.3%)正在处理 tamper with
+(63.4%)正在处理 endlessly
+(63.4%)正在处理 I don't think I can make it.
+(63.4%)正在处理 mellow
+(63.5%)正在处理 suffocated
+(63.5%)正在处理 excessively
+(63.6%)正在处理 It wasn't until...
+(63.6%)正在处理 rebellious
+(63.7%)正在处理 prominent
+(63.7%)正在处理 fuel
+(63.8%)正在处理 dismiss
+(63.8%)正在处理 dreaded
+(63.8%)正在处理 into
+(63.9%)正在处理 nippy
+(63.9%)正在处理 allegation
+(64.0%)正在处理 imperative
+(64.0%)正在处理 proficient
+(64.0%)正在处理 myth
+(64.1%)正在处理 scalp
+(64.1%)正在处理 savage
+(64.2%)正在处理 feud  with
+(64.2%)正在处理 aggravate
+(64.2%)正在处理 presentation
+(64.3%)正在处理 rational
+(64.3%)正在处理 irrational
+(64.4%)正在处理 voyage
+(64.4%)正在处理 zip code
+(64.4%)正在处理 cultivate
+(64.5%)正在处理 escalate
+(64.5%)正在处理 evacuate
+(64.6%)正在处理 overbearing
+(64.6%)正在处理 stand your ground
+(64.7%)正在处理 tall order
+(64.7%)正在处理 presentable
+(64.7%)正在处理 trip
+(64.8%)正在处理 decadent
+(64.8%)正在处理 immoral
+(64.9%)正在处理 in the first place
+(64.9%)正在处理 immediate supervisor
+(65.0%)正在处理 out of the blue
+(65.0%)正在处理 Different strokes for different folks
+(65.1%)正在处理 表示无聊的单词
+(65.1%)正在处理 nasty
+(65.2%)正在处理 either way
+(65.2%)正在处理 nosedive
+(65.3%)正在处理 intentional
+(65.3%)正在处理 homicide
+(65.3%)正在处理 nurture
+(65.4%)正在处理 regulate
+(65.4%)正在处理 stronghold
+(65.5%)正在处理 tropical
+(65.5%)正在处理 draw to
+(65.6%)正在处理 start from scratch
+(65.6%)正在处理 criterion
+(65.7%)正在处理 saliva
+(65.7%)正在处理 moderate
+(65.8%)正在处理 sports stadium
+(65.8%)正在处理 recall
+(65.9%)正在处理 serene
+(65.9%)正在处理 tender
+(66.0%)正在处理 close-minded
+<div class="baav">
+<span class="pronounce">
+<a class="sp dictvoice voice-js log-js" data-4log="dict.basic.ec.voice" data-rel="close-minded" href="#" title="发音"></a>
+</span>
+</div>，没有提取出音标
+(66.0%)正在处理 authenticity
+(66.1%)正在处理 grips with
+(66.1%)正在处理 substantial
+(66.2%)正在处理 meadow
+(66.2%)正在处理 scare the hell out of me
+(66.3%)正在处理 contract
+(66.3%)正在处理 contest
+(66.3%)正在处理 substitute
+(66.4%)正在处理 carve
+(66.4%)正在处理 squat
+(66.5%)正在处理 barefoot
+(66.5%)正在处理 intimidating
+(66.6%)正在处理 embark
+(66.6%)正在处理 better off
+(66.7%)正在处理 land a job
+(66.7%)正在处理 arsenal
+(66.8%)正在处理 foundation
+(66.8%)正在处理 facial expression
+(66.9%)正在处理 easier said than done
+(66.9%)正在处理 premiere
+(66.9%)正在处理 setback
+(67.0%)正在处理 note
+(67.0%)正在处理 venture to do sth.
+(67.1%)正在处理 arithmetic
+(67.1%)正在处理 at sb's disposal
+(67.2%)正在处理 seamlessly
+(67.2%)正在处理 in light of
+(67.3%)正在处理 integral
+(67.3%)正在处理 argumentative writing
+(67.4%)正在处理 reasoning
+(67.4%)正在处理 shape or form
+(67.5%)正在处理 bear with me
+(67.5%)正在处理 I've got used to it.
+(67.5%)正在处理 neutral  (new)
+(67.6%)正在处理 neural  (ner)
+(67.6%)正在处理 subside
+(67.7%)正在处理 understandably
+(67.7%)正在处理 perform behavior
+(67.8%)正在处理 perform well
+(67.8%)正在处理 fallible
+(67.9%)正在处理 intrusive
+(67.9%)正在处理 exponentially
+(68.0%)正在处理 realm
+(68.0%)正在处理 vent
+(68.1%)正在处理 photocopy
+(68.1%)正在处理 furnace
+(68.1%)正在处理 构成相关的单词
+(68.2%)正在处理 come down to
+(68.3%)正在处理 molecule
+(68.3%)正在处理 commiserate
+(68.4%)正在处理 exclusive
+(68.4%)正在处理 vulnerable
+(68.5%)正在处理 scramble
+(68.5%)正在处理 settle
+(68.6%)正在处理 track down
+(68.6%)正在处理 notify
+(68.7%)正在处理 disclose
+(68.7%)正在处理 come under fire form...
+(68.8%)正在处理 grace period
+(68.8%)正在处理 in most cases
+(68.8%)正在处理 intrude
+(68.9%)正在处理 very nature
+(69.0%)正在处理 scandal
+(69.0%)正在处理 of the year
+(69.1%)正在处理 malicious
+(69.1%)正在处理 malware
+(69.2%)正在处理 implication
+(69.2%)正在处理 intercept
+(69.2%)正在处理 infect
+(69.3%)正在处理 encrypted
+(69.3%)正在处理 opt out of
+(69.4%)正在处理 simply put
+(69.4%)正在处理 criteria
+(69.5%)正在处理 compromise
+(69.5%)正在处理 comprehend
+(69.5%)正在处理 comprehensive
+(69.6%)正在处理 ransom
+(69.6%)正在处理 hostage
+(69.6%)正在处理 drone
+(69.7%)正在处理 speculate
+(69.7%)正在处理 wouldn't it be
+(69.8%)正在处理 isn't it?
+(69.8%)正在处理 You just won't xxx?
+(69.9%)正在处理 kindergarten
+(69.9%)正在处理 表“收入“的单词
+(70.0%)正在处理 journalist
+(70.1%)正在处理 voluntary
+(70.1%)正在处理 cost-effective
+(70.1%)正在处理 tyre
+(70.2%)正在处理 clogged
+(70.3%)正在处理 sth helps.
+(70.3%)正在处理 for the life of me
+(70.3%)正在处理 explicit
+(70.4%)正在处理 talk incoherently
+(70.4%)正在处理 sculpture
+(70.5%)正在处理 among others
+(70.5%)正在处理 graded reader
+(70.5%)正在处理 vague
+(70.6%)正在处理 down to earth
+(70.6%)正在处理 frown upon
+(70.7%)正在处理 pick up
+(70.7%)正在处理 mutually beneficial
+(70.7%)正在处理 schedule
+(70.8%)正在处理 patriotic
+(70.8%)正在处理 precede
+(70.9%)正在处理 by comparison
+(70.9%)正在处理 at best
+(71.0%)正在处理 adequate
+(71.0%)正在处理 a while back
+(71.1%)正在处理 premature
+(71.1%)正在处理 ruminate
+(71.2%)正在处理 proficiency
+(71.2%)正在处理 tender age
+(71.3%)正在处理 sufferer
+(71.3%)正在处理 disintegrate
+(71.4%)正在处理 terror
+(71.4%)正在处理 entertain
+(71.5%)正在处理 ungrateful
+(71.5%)正在处理 as though
+(71.6%)正在处理 resolute
+(71.6%)正在处理 konw better than to
+(71.6%)正在处理 I’m leaving for work.
+(71.7%)正在处理 fussy
+(71.7%)正在处理 rubber bands
+(71.8%)正在处理 Fire away
+(71.8%)正在处理 I'll get it.
+(71.9%)正在处理 laymen
+(71.9%)正在处理 exterminate
+(71.9%)正在处理 go back from...
+(72.0%)正在处理 booklet
+(72.0%)正在处理 or rather
+(72.1%)正在处理 pop up
+(72.1%)正在处理 amend
+(72.1%)正在处理 summarize
+(72.2%)正在处理 entry
+(72.2%)正在处理 ramble
+(72.3%)正在处理 knowledge base
+(72.3%)正在处理 scientifically-proven fact
+(72.4%)正在处理 deceptive
+(72.4%)正在处理 blow one's mind
+(72.5%)正在处理 more than anything
+(72.5%)正在处理 identity
+(72.6%)正在处理 identify
+(72.6%)正在处理 identical
+(72.7%)正在处理 hone
+(72.7%)正在处理 take sth seriously
+(72.8%)正在处理 take up
+(72.8%)正在处理 motto
+(72.9%)正在处理 incorporate
+(72.9%)正在处理 corporate
+(73.0%)正在处理 cupboard
+(73.0%)正在处理 come upon
+(73.1%)正在处理 scold
+(73.1%)正在处理 the general public
+(73.1%)正在处理 general
+(73.3%)正在处理 feel like doing
+(73.3%)正在处理 cereal
+(73.3%)正在处理 tablet
+(73.4%)正在处理 artificial
+(73.4%)正在处理 authentic
+(73.4%)正在处理 aesthetic
+(73.5%)正在处理 synthetic
+(73.5%)正在处理 stock up
+(73.6%)正在处理 amount to
+(73.6%)正在处理 carbonated beverage
+(73.7%)正在处理 refer to as
+(73.7%)正在处理 regarding
+(73.7%)正在处理 crystal clear
+(73.8%)正在处理 gutter
+(73.8%)正在处理 imaginative
+(73.9%)正在处理 reach out to
+(73.9%)正在处理 unveil
+(73.9%)正在处理 hammer home
+(74.0%)正在处理 reunion
+(74.0%)正在处理 likewise
+(74.1%)正在处理 trendy
+(74.1%)正在处理 poke
+(74.2%)正在处理 parlor
+(74.3%)正在处理 sterilized
+(74.3%)正在处理 lend a hand
+(74.4%)正在处理 crop up
+(74.4%)正在处理 bracelet
+(74.5%)正在处理 platinum
+(74.5%)正在处理 appetizer
+(74.6%)正在处理 smart casual
+(74.6%)正在处理 scenic
+(74.7%)正在处理 What do you do for a living?
+(74.7%)正在处理 volume
+(74.8%)正在处理 flyer
+(74.8%)正在处理 wrap up
+(74.8%)正在处理 outset
+(74.9%)正在处理 inclination
+(75.0%)正在处理 elaborate
+(75.0%)正在处理 keen
+(75.1%)正在处理 pressed
+(75.2%)正在处理 defective
+(75.2%)正在处理 flicker
+(75.3%)正在处理 psycho
+(75.3%)正在处理 vampire
+(75.3%)正在处理 werewolf
+(75.4%)正在处理 entice
+(75.4%)正在处理 fad
+(75.5%)正在处理 phobia
+(75.6%)正在处理 weirdo
+(75.6%)正在处理 neat freak
+(75.6%)正在处理 pigsty
+(75.7%)正在处理 stain
+(75.7%)正在处理 counter top
+(75.8%)正在处理 Are you out of your mind?
+(75.8%)正在处理 I' m outta here
+(75.8%)正在处理 spoon
+(75.9%)正在处理 scoop
+(75.9%)正在处理 utensil
+(76.0%)正在处理 curry
+(76.0%)正在处理 fluffy
+(76.0%)正在处理 sharp
+(76.1%)正在处理 irritate
+(76.1%)正在处理 up to date
+(76.2%)正在处理 licence plate
+(76.2%)正在处理 respiration
+(76.3%)正在处理 grape
+(76.4%)正在处理 hang in there
+(76.4%)正在处理 stumble
+(76.5%)正在处理 step away from...
+(76.5%)正在处理 walk sb to
+(76.6%)正在处理 for the record
+(76.6%)正在处理 if anything
+(76.7%)正在处理 give it a shot
+(76.7%)正在处理 warm up to
+(76.7%)正在处理 disturbing
+(76.8%)正在处理 fried
+(76.8%)正在处理 get your butt to
+(76.9%)正在处理 elasticity
+(76.9%)正在处理 forget it
+(77.0%)正在处理 expedition
+(77.0%)正在处理 annex
+(77.1%)正在处理 noble
+(77.1%)正在处理 misinterpret
+(77.2%)正在处理 compass
+(77.2%)正在处理 compassion
+(77.3%)正在处理 confrontational
+(77.3%)正在处理 condense
+(77.4%)正在处理 deck
+(77.4%)正在处理 chest
+(77.5%)正在处理 finalize
+(77.5%)正在处理 embassy
+(77.5%)正在处理 quotation
+(77.6%)正在处理 To whom it may concern
+(77.6%)正在处理 back up a second
+(77.6%)正在处理 due
+(77.7%)正在处理 play it safe
+(77.7%)正在处理 kind regards
+(77.8%)正在处理 confirm the deal
+(77.8%)正在处理 fingers crossed
+(77.9%)正在处理 high-end
+(77.9%)正在处理 division
+(78.0%)正在处理 correspond
+(78.0%)正在处理 scenario
+(78.1%)正在处理 paycheck
+(78.1%)正在处理 Have you got a sec
+(78.2%)正在处理 you bet
+(78.2%)正在处理 first off
+(78.3%)正在处理 gross pay
+(78.3%)正在处理 net pay
+(78.4%)正在处理 income tax
+(78.4%)正在处理 eligible
+(78.5%)正在处理 pull up a chair
+(78.5%)正在处理 quarantine
+(78.6%)正在处理 chuck
+(78.6%)正在处理 running nose
+(78.7%)正在处理 soaked
+(78.7%)正在处理 lunch break
+(78.8%)正在处理 bring up
+(78.8%)正在处理 i'm in a hurry
+(78.8%)正在处理 career ladder
+(78.9%)正在处理 does wonder
+(78.9%)正在处理 Admission Test
+(79.0%)正在处理 assessment
+(79.0%)正在处理 nonsense
+(79.1%)正在处理 That's the spirit.
+(79.1%)正在处理 graduate
+(79.2%)正在处理 take this test and pass it
+(79.2%)正在处理 equation
+(79.3%)正在处理 analogy
+(79.3%)正在处理 ginger
+(79.4%)正在处理 inadequate
+(79.4%)正在处理 proper
+(79.5%)正在处理 I'm stuffed.
+(79.5%)正在处理 take a food class
+(79.5%)正在处理 take effect
+(79.6%)正在处理 is this seat taken?
+(79.7%)正在处理 you can say that again
+(79.7%)正在处理 that's for sure
+(79.8%)正在处理 first come first served
+(79.8%)正在处理 put someone up
+(79.9%)正在处理 flights were grounded
+(79.9%)正在处理 cower
+(79.9%)正在处理 cozy
+(80.0%)正在处理 stamp/stomp foot
+(80.0%)正在处理 prey
+(80.1%)正在处理 predator
+(80.1%)正在处理 roll call
+(80.2%)正在处理 false advertising
+(80.2%)正在处理 persecution
+(80.3%)正在处理 subordinate
+(80.3%)正在处理 establishment
+(80.4%)正在处理 impede
+(80.4%)正在处理 warrant
+(80.4%)正在处理 shifty
+(80.5%)正在处理 brand new
+(80.5%)正在处理 corner
+(80.6%)正在处理 rescind
+(80.6%)正在处理 implore
+(80.7%)正在处理 clench fist
+(80.7%)正在处理 yank
+(80.7%)正在处理 gasp
+(80.8%)正在处理 pluck
+(80.8%)正在处理 lit up
+(80.9%)正在处理 nod
+(81.0%)正在处理 hurl
+(81.0%)正在处理 lid
+(81.1%)正在处理 behave yourself
+(81.1%)正在处理 soar
+(81.1%)正在处理 shore
+(81.2%)正在处理 hold out
+(81.2%)正在处理 palm
+(81.3%)正在处理 moss
+(81.3%)正在处理 hurry out
+(81.4%)正在处理 marvelous
+(81.4%)正在处理 priest
+(81.5%)正在处理 robe
+(81.5%)正在处理 gaze
+(81.6%)正在处理 crumble
+(81.6%)正在处理 clang
+(81.7%)正在处理 tumble
+(81.7%)正在处理 pat
+(81.8%)正在处理 fall to knees
+(81.8%)正在处理 belly
+(81.9%)正在处理 satisfied
+(81.9%)正在处理 grade
+(82.0%)正在处理 size
+(82.0%)正在处理 loaf
+(82.0%)正在处理 redeem
+(82.1%)正在处理 use up
+(82.1%)正在处理 sobbing
+(82.2%)正在处理 red potion
+(82.2%)正在处理 mourn
+(82.3%)正在处理 maritime
+(82.3%)正在处理 ambush
+(82.4%)正在处理 fortune telling
+(82.4%)正在处理 psychic
+(82.4%)正在处理 just for kicks
+(82.5%)正在处理 postpone
+(82.5%)正在处理 jump in
+(82.6%)正在处理 pouring
+(82.6%)正在处理 slump
+(82.7%)正在处理 whip
+(82.7%)正在处理 scowl
+(82.8%)正在处理 tend
+(82.8%)正在处理 growl
+(82.9%)正在处理 gulp
+(82.9%)正在处理 rot
+(83.0%)正在处理 anatomy
+(83.0%)正在处理 vessel
+(83.1%)正在处理 organs
+(83.1%)正在处理 intestine
+(83.1%)正在处理 kidney
+(83.2%)正在处理 liver
+(83.2%)正在处理 bladder
+(83.2%)正在处理 see-saw
+(83.3%)正在处理 hyper
+(83.3%)正在处理 treadmill
+(83.4%)正在处理 chimney
+(83.4%)正在处理 leftover
+(83.5%)正在处理 dice
+(83.5%)正在处理 bacteria
+(83.6%)正在处理 germ
+(83.6%)正在处理 refrigerate
+(83.7%)正在处理 apron
+(83.7%)正在处理 degree centigrade
+(83.8%)正在处理 batter
+(83.8%)正在处理 consistency
+(83.8%)正在处理 nursery rhyme
+(83.9%)正在处理 utility bill
+(83.9%)正在处理 classy
+(84.0%)正在处理 suite
+(84.0%)正在处理 get on someone's case
+(84.1%)正在处理 notoriously
+(84.1%)正在处理 remedy
+(84.2%)正在处理 cheque
+(84.2%)正在处理 facial
+(84.2%)正在处理 manicure
+(84.3%)正在处理 pedicure
+(84.3%)正在处理 beauty spa
+(84.3%)正在处理 moisturizer
+(84.4%)正在处理 doomed
+(84.4%)正在处理 dew
+(84.5%)正在处理 acupuncture
+(84.5%)正在处理 alleviate
+(84.6%)正在处理 inflict
+(84.6%)正在处理 in a little while
+(84.6%)正在处理 restore
+(84.7%)正在处理 brother in law
+(84.7%)正在处理 vaccine
+(84.8%)正在处理 eradicate
+(84.8%)正在处理 marble
+(84.9%)正在处理 interior
+(84.9%)正在处理 commute
+(85.0%)正在处理 collateral
+(85.0%)正在处理 persuade
+(85.1%)正在处理 nickel
+(85.1%)正在处理 dime
+(85.2%)正在处理 quarter
+(85.2%)正在处理 penny
+(85.2%)正在处理 spare change
+(85.3%)正在处理 wire money
+(85.3%)正在处理 con artist
+(85.4%)正在处理 urban legend
+(85.4%)正在处理 gullible
+(85.4%)正在处理 get tricked
+(85.5%)正在处理 drugged
+(85.5%)正在处理 subliminal
+(85.6%)正在处理 satanic
+(85.6%)正在处理 far-fetched
+(85.6%)正在处理 buy me dinner
+(85.7%)正在处理 cholesterol
+(85.7%)正在处理 mood swing
+(85.8%)正在处理 ecstatic
+(85.8%)正在处理 not in the mood
+(85.8%)正在处理 Let's agree to disagree.
+(85.9%)正在处理 man up
+(85.9%)正在处理 you have a point
+(86.0%)正在处理 consequence
+(86.0%)正在处理 wage
+(86.1%)正在处理 going rate
+(86.1%)正在处理 gateway
+(86.2%)正在处理 feverish
+(86.2%)正在处理 mix up
+(86.3%)正在处理 jarring
+(86.3%)正在处理 glossary
+(86.3%)正在处理 in droves
+(86.4%)正在处理 companion
+(86.4%)正在处理 orchard
+(86.5%)正在处理 a puff of wind
+(86.5%)正在处理 fang
+(86.6%)正在处理 peek
+(86.6%)正在处理 sb's eyes blaze with fury
+(86.6%)正在处理 puddle
+(86.7%)正在处理 hood
+(86.7%)正在处理 cliff
+(86.8%)正在处理 frantic
+(86.8%)正在处理 snort
+(86.8%)正在处理 roast
+(86.9%)正在处理 every once in a while
+(86.9%)正在处理 sleep in
+(87.0%)正在处理 puny
+(87.0%)正在处理 get sidetracked by
+(87.1%)正在处理 contingency
+(87.1%)正在处理 invoice
+(87.2%)正在处理 glide
+(87.2%)正在处理 grazers
+(87.2%)正在处理 tactic
+(87.3%)正在处理 later on
+(87.3%)正在处理 pigeon
+(87.4%)正在处理 kinetic
+(87.4%)正在处理 invariably
+(87.5%)正在处理 forefront
+(87.5%)正在处理 breed
+(87.6%)正在处理 mentor
+(87.6%)正在处理 perceive
+(87.7%)正在处理 sketchy
+(87.7%)正在处理 loose
+(87.8%)正在处理 off the top of one's head
+(87.8%)正在处理 all goes back to
+(87.9%)正在处理 bedtime
+(87.9%)正在处理 weed
+(88.0%)正在处理 amount to
+(88.0%)正在处理 binge eating
+(88.1%)正在处理 sober
+(88.1%)正在处理 hangover
+(88.1%)正在处理 impulsive
+(88.2%)正在处理 nail
+(88.2%)正在处理 nail down
+(88.3%)正在处理 demanding
+(88.3%)正在处理 burnout
+(88.4%)正在处理 dilemma
+(88.4%)正在处理 turning point
+(88.4%)正在处理 oral speaking
+(88.5%)正在处理 banquet
+(88.5%)正在处理 dress code
+(88.6%)正在处理 disorient
+(88.6%)正在处理 reach for
+(88.7%)正在处理 confusional
+<div class="baav">
+<span class="pronounce">
+<a class="sp dictvoice voice-js log-js" data-4log="dict.basic.ec.voice" data-rel="confusional" href="#" title="发音"></a>
+</span>
+</div>，没有提取出音标
+(88.7%)正在处理 known as
+(88.8%)正在处理 alienate
+(88.8%)正在处理 condition
+(88.9%)正在处理 in the process of
+(88.9%)正在处理 respondent
+(89.0%)正在处理 episode
+(89.0%)正在处理 busted
+(89.0%)正在处理 hold sth hostage
+(89.1%)正在处理 reclaim
+(89.2%)正在处理 span
+(89.2%)正在处理 prioritize
+(89.3%)正在处理 point-blank
+(89.4%)正在处理 errand
+(89.4%)正在处理 brush aside
+(89.5%)正在处理 freelancer
+(89.5%)正在处理 farm out
+(89.5%)正在处理 outsource
+(89.6%)正在处理 proactive
+(89.6%)正在处理 kitten
+(89.7%)正在处理 distraction
+(89.7%)正在处理 bitterness
+(89.8%)正在处理 offer to do sth.
+(89.8%)正在处理 ahead of the game
+(89.9%)正在处理 rich in rewards
+(89.9%)正在处理 paralyze
+(90.0%)正在处理 moving company
+(90.0%)正在处理 counterpoint
+(90.0%)正在处理 tranquil
+(90.1%)正在处理 only so much
+(90.2%)正在处理 cleaner
+(90.2%)正在处理 hit
+(90.2%)正在处理 congestion
+(90.3%)正在处理 bumper
+(90.4%)正在处理 fit in
+(90.4%)正在处理 post-it
+<div class="baav">
+<span class="pronounce">
+<a class="sp dictvoice voice-js log-js" data-4log="dict.basic.ec.voice" data-rel="post-it" href="#" title="发音"></a>
+</span>
+</div>，没有提取出音标
+(90.4%)正在处理 guzzle
+(90.5%)正在处理 wrestle
+(90.5%)正在处理 spiral
+(90.6%)正在处理 foodie
+(90.6%)正在处理 name
+(90.7%)正在处理 wear makeup
+(90.7%)正在处理 ice hockey
+(90.8%)正在处理 perky
+(90.8%)正在处理 perk up
+(90.9%)正在处理 throughout the day
+(90.9%)正在处理 sluggish
+(91.0%)正在处理 on a consistent basis
+(91.0%)正在处理 the kind of
+(91.1%)正在处理 tissue
+(91.2%)正在处理 purge
+(91.2%)正在处理 inhibit
+(91.3%)正在处理 tweak
+(91.3%)正在处理 cumulate
+(91.4%)正在处理 dictated by
+(91.5%)正在处理 play on/with my phone.
+(91.5%)正在处理 sedentary
+(91.5%)正在处理 Use it to your advantage
+(91.6%)正在处理 physician
+(91.6%)正在处理 reasonable amount of ...
+(91.7%)正在处理 mortal
+(91.7%)正在处理 immortal
+(91.7%)正在处理 mortality
+(91.8%)正在处理 siren
+(91.8%)正在处理 physical and psychological
+(91.9%)正在处理 mighty
+(91.9%)正在处理 causation
+(92.0%)正在处理 cheat sheet
+(92.0%)正在处理 chalk
+(92.1%)正在处理 ask for it
+(92.1%)正在处理 certify
+(92.2%)正在处理 certification
+(92.2%)正在处理 render
+(92.3%)正在处理 identify specific time
+(92.3%)正在处理 bite-sized
+(92.3%)正在处理 basketball hoop
+(92.4%)正在处理 diligent
+(92.4%)正在处理 ketchup
+(92.5%)正在处理 vinegar
+(92.5%)正在处理 genesis
+(92.6%)正在处理 jam on the brakes
+(92.6%)正在处理 take the lead
+(92.6%)正在处理 peel
+(92.7%)正在处理 Let me take it one step further
+(92.7%)正在处理 field research
+(92.8%)正在处理 northern hemisphere
+(92.8%)正在处理 i mean it
+(92.9%)正在处理 provision
+(92.9%)正在处理 bear
+(93.0%)正在处理 object to
+(93.0%)正在处理 with flying colors
+(93.1%)正在处理 I take it that...
+(93.1%)正在处理 last resort
+(93.2%)正在处理 spellbinding
+(93.2%)正在处理 or so
+(93.2%)正在处理 roll
+(93.3%)正在处理 sachet
+(93.3%)正在处理 immaculate
+(93.4%)正在处理 ice rink
+(93.4%)正在处理 creep
+(93.5%)正在处理 reflect
+(93.5%)正在处理 hold accountable for
+(93.6%)正在处理 midday
+(93.6%)正在处理 drowsy
+(93.7%)正在处理 get into \ on \ off the bus
+(93.7%)正在处理 get down to
+(93.7%)正在处理 get back home
+(93.8%)正在处理 pedestrian
+(93.8%)正在处理 sprinkle
+(93.9%)正在处理 flail
+(93.9%)正在处理 for the sake of
+(94.0%)正在处理 joint
+(94.0%)正在处理 harmonious
+(94.1%)正在处理 advent
+(94.1%)正在处理 lather up
+(94.2%)正在处理 razor
+(94.2%)正在处理 faucet
+(94.2%)正在处理 knob
+(94.3%)正在处理 sink
+(94.3%)正在处理 drain
+(94.4%)正在处理 round
+(94.4%)正在处理 square
+(94.4%)正在处理 and so forth ...
+(94.5%)正在处理 swish
+(94.5%)正在处理 gargle
+(94.6%)正在处理 cabinet
+(94.6%)正在处理 cupboard
+(94.6%)正在处理 thermos
+(94.7%)正在处理 briefcase
+(94.7%)正在处理 head toward
+(94.7%)正在处理 stick shift
+(94.8%)正在处理 vending machine
+(94.8%)正在处理 vender
+(94.9%)正在处理 memorandum
+(94.9%)正在处理 in charge of
+(95.0%)正在处理 headquarters
+(95.0%)正在处理 stand in line
+(95.1%)正在处理 kick back
+(95.1%)正在处理 stall
+(95.1%)正在处理 ski
+(95.2%)正在处理 snugly
+(95.2%)正在处理 goggles
+(95.3%)正在处理 spill
+(95.3%)正在处理 freeway
+(95.4%)正在处理 stop by
+(95.4%)正在处理 checkout stand
+(95.5%)正在处理 cashier
+(95.5%)正在处理 trunk
+(95.5%)正在处理 lane
+(95.6%)正在处理 get out
+(95.6%)正在处理 mat
+(95.7%)正在处理 couch
+(95.7%)正在处理 chill out
+(95.8%)正在处理 thumb through
+(95.8%)正在处理 recycling bin
+(95.8%)正在处理 nod off
+(95.9%)正在处理 I'm so beat
+(95.9%)正在处理 shoot the breeze
+(96.0%)正在处理 muggy
+(96.0%)正在处理 cast about
+(96.1%)正在处理 cosmetics
+(96.1%)正在处理 medication
+(96.2%)正在处理 signature
+(96.2%)正在处理 lobster
+(96.2%)正在处理 crab
+(96.3%)正在处理 funny
+(96.3%)正在处理 to be waited on
+(96.4%)正在处理 foot the bill
+(96.4%)正在处理 envelope
+(96.5%)正在处理 clueless
+(96.5%)正在处理 sticky situation
+(96.6%)正在处理 tactful
+(96.6%)正在处理 pick your brain
+(96.7%)正在处理 drawback
+(96.7%)正在处理 affection
+(96.8%)正在处理 abiding
+(96.8%)正在处理 monarchy
+(96.9%)正在处理 swing by
+(96.9%)正在处理 age
+(97.0%)正在处理 in ages
+(97.0%)正在处理 final offer
+(97.1%)正在处理 drive a hard bargain
+(97.1%)正在处理 hammer out
+(97.2%)正在处理 keynote
+(97.2%)正在处理 groundbreaking
+(97.3%)正在处理 soul-searching
+(97.3%)正在处理 cocky
+(97.4%)正在处理 meek
+(97.4%)正在处理 submissive
+(97.4%)正在处理 sound advice
+(97.5%)正在处理 rerun
+(97.5%)正在处理 walk all over sb
+(97.6%)正在处理 take credit for sth
+(97.6%)正在处理 have nerve to do sth.
+(97.6%)正在处理 fallout
+(97.7%)正在处理 hear me out
+(97.7%)正在处理 exquisite
+(97.8%)正在处理 mingle
+(97.8%)正在处理 indifferent
+(97.9%)正在处理 snuggle
+(97.9%)正在处理 contestant
+(97.9%)正在处理 vibrate  vibration
+(98.0%)正在处理 tip of tongue
+(98.0%)正在处理 omit
+(98.1%)正在处理 performance appraisal
+(98.1%)正在处理 hyperbolic
+(98.1%)正在处理 cubicle
+(98.2%)正在处理 comfort room
+(98.2%)正在处理 doorknob
+(98.2%)正在处理 maintenance
+(98.3%)正在处理 resort to
+(98.3%)正在处理 rustle
+(98.4%)正在处理 whimper
+(98.4%)正在处理 instinct
+(98.5%)正在处理 rehearse
+(98.5%)正在处理 vogue
+(98.6%)正在处理 complexion
+(98.6%)正在处理 glamorous
+(98.7%)正在处理 glow
+(98.7%)正在处理 imperfection
+(98.8%)正在处理 audition
+(98.8%)正在处理 ledge
+(98.8%)正在处理 pick on sb
+(98.9%)正在处理 trauma
+(98.9%)正在处理 cope with
+(99.0%)正在处理 nonetheless
+(99.0%)正在处理 artery
+(99.0%)正在处理 selfie
+(99.1%)正在处理 quote-unquote
+<div class="baav">
+<span class="pronounce">
+<a class="sp dictvoice voice-js log-js" data-4log="dict.basic.ec.voice" data-rel="quote-unquote" href="#" title="发音"></a>
+</span>
+</div>，没有提取出音标
+(99.1%)正在处理 harass
+(99.2%)正在处理 vulgar
+(99.2%)正在处理 censor
+(99.3%)正在处理 freshman
+(99.3%)正在处理 ventilation
+(99.4%)正在处理 oath of office
+(99.4%)正在处理 skyscraper
+(99.4%)正在处理 linger
+(99.5%)正在处理 pay tribute to
+(99.5%)正在处理 admire
+(99.6%)正在处理 born of
+(99.6%)正在处理 fork
+(99.7%)正在处理 skinny
+(99.7%)正在处理 bold
+(99.8%)正在处理 to top it off
+(99.8%)正在处理 blow off
+(99.9%)正在处理 layover
+(99.9%)正在处理 ignorant
+(99.9%)正在处理 feasible
+(100.0%)正在处理 blunt
+
+处理完毕，共计数量 2225
