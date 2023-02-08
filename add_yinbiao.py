@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 #SOURCE_FILE = "text.txt"
 SOURCE_FILE = "选中的笔记.txt"
-TARGET_FILE = "需要增加的音标.txt"
+TARGET_FILE = "选中的笔记_增加音标.txt"
 
 PHONETIC_PATTERN = r"\[.*\]"
 KANJI_PATTERN = r"[\u4e00-\u9fa5]+"

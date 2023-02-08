@@ -1,23 +1,23 @@
 toast	[toʊst]	吐司、敬酒	A toast to your date. 为你的约会敬酒	
 Cheers	[tʃɪrz]	干杯		
-book the ticket		订票		
+book the ticket	[bʊk ðə ˈtɪkɪt]	订票		
 departure date		启程日期		
 return date		返回日期		
-package tour		跟团游		
+package tour	[ˈpækɪdʒ tʊr]	跟团游		
 sightseeing tour		观光游		
 "I don't particularly like"		我不是特别喜欢		
 "I'd rather"		我更、我宁愿		
 terrific fabulous		极好的		
-It says		指着书上的句子说		
+It says	[ɪt sez]	指着书上的句子说		
 eccentric	[ɪkˈsentrɪk]	古怪的(人)		
-expiry date		有效期		
+expiry date	[ɪkˈspaɪəri deɪt]	有效期		
 more or less		或多或少		
 feast	[fiːst]	盛宴		
 flap	[flæp]	拍打		
 informal	[ɪnˈfɔːrm(ə)l]	非正式的		
 electronic device		电子设备		
 jog	[dʒɑːɡ]	慢跑	Shall we go for a jog in the park?	
-It sucks		很烂、很差劲		
+It sucks	[ɪt sʌks]	很烂、很差劲		
 some time ago		不久前		
 out of the ordinary		非同寻常		
 continent	[ˈkɑːntɪnənt]	大陆、大洲		
@@ -38,10 +38,10 @@ deadly	[ˈdedli]	致命的
 fatal	[ˈfeɪt(ə)l]	致命的		
 flooding	[ˈflʌdɪŋ]	洪水		
 demon	[ˈdiːmən]	魔鬼，恶魔		
-side by side		并肩并排		
+side by side	[saɪd baɪ saɪd]	并肩并排		
 quality service		优质服务		
 to the point of		达到...的程度	He was abrupt to the point of rudeness. 他唐突到了无礼的地步。	
-equivalent to		相当于		
+equivalent to	[ɪˈkwɪvələnt tu]	相当于		
 straightforward	[ˌstreɪtˈfɔːrwərd]	直截了当的		
 significant	[sɪɡˈnɪfɪkənt]	重要的，显著的	There remained one significant problem. There are no significant differences between the two groups of students.	
 come and go		花去花落、来来往往		
@@ -55,7 +55,7 @@ hanger	[ˈhæŋər]	衣架
 prior to		在...之前	Prior to 200 B.C 在公元前200年以前	
 eve	[iːv]	前夕，前一天	christmas eve 圣诞节前夕，平安夜	
 for instance		例如		
-as with		就像...一样（这里有举例的含义）	As with many technological revolutions, you are unlikely to be aware of it. 正如很多技术革命一样...	
+as with	[æz wɪð]	就像...一样（这里有举例的含义）	As with many technological revolutions, you are unlikely to be aware of it. 正如很多技术革命一样...	
 impertinent	[ɪmˈpɜːrt(ə)nənt]	不礼貌的		
 pertinent	[ˈpɜːrt(ə)nənt]	相关的[正式]	She had asked some pertinent questions.	
 improper	[ɪmˈprɑːpər]	不恰当的		
@@ -66,20 +66,20 @@ award和reward辨析		award：比赛奖励	reward：指对品德高尚的人的�
 luggage	[ˈlʌɡɪdʒ]	行李		
 retrieve	[rɪˈtriːv]	找回		
 following day		第二天	I had to wait until the following day to retrieve it.	
-in the meantime		在此期间		
+in the meantime	[ɪn ðə ˈmiːntaɪm]	在此期间		
 underwear	[ˈʌndərwer]	内衣		
 pajamas	[pəˈdʒæməz]	睡衣 per jia ma s		
 sweatpants	[ˈswetpænts]	运动裤		
-festive mood		节日气氛		
+festive mood	[ˈfestɪv muːd]	节日气氛		
 parade	[pəˈreɪd]	游行		
 "it's on the house"		本店请客		
 present	[ˈprez(ə)nt]	当前的；在场的、出席的；礼物；颁发；展现、展示		
 president	[ˈprezɪdənt]	总统		
 somehow	[ˈsʌmhaʊ]	不知怎么的、“怎么说呢？这么说吧”		
-lose weight		减肥		
+lose weight	[luːz weɪt]	减肥		
 consistent	[kənˈsɪstənt]	前后一致的，始终如一的（英语中评价人，是褒义词，往往和“靠得住”并列评价）		
 "What's that word?"		那个词怎么说来着？		
-Good point		说得好！		
+Good point	[ɡʊd pɔɪnt]	说得好！		
 rough	[rʌf]	粗糙的	The towel you gave to me is rough	
 file a lawsuit against sb		对某人提起诉讼		
 secretary	[ˈsekrəteri]	秘书，部长，大臣		
@@ -99,7 +99,7 @@ sanitary	[ˈsænəteri]	卫生的，公共厕所
 impress	[ɪmˈpres]	使钦佩	"What impressed him most was their speed. 最令他钦佩的是他们的速度。 impression 印象 What's your impression of China? have great admitation for sb. 钦佩某人"	
 assertive	[əˈsɜːrtɪv]	坚定自信的		
 routinely	[ruːˈtiːnli]	通常地，和usually类似	Mothers routinely lay babies on their backs to sleep.	
-hang out		闲逛(玩)		
+hang out	[ˈhæŋ aʊt]	闲逛(玩)		
 hang in there		坚持下，撑一会，忍一下		
 hang on		稍等		
 on trial		受审	He is currently on trial for drunk driving.	
@@ -108,7 +108,7 @@ faculty	[ˈfæk(ə)lti]	全体教员，学院	faculty of law 法学院 faculty o
 representative	[ˌreprɪˈzentətɪv]	有代表性的	typical 典型的	
 sector	[ˈsektər]	部门，扇形		
 contemporary	[kənˈtempəreri]	当代的、现代的 （con-共同 temp-时间）		
-reference point		参考点		
+reference point	[ˈrefrəns pɔɪnt]	参考点		
 grant	[ɡrænt]	补助金，承认，授予(赐予)		
 judgment	[ˈdʒʌdʒmənt]	看法，判断力，判决		
 stir	[stɜːr]	搅拌	stir up 煽动，掀起，激起 cause a stir 引起轰动 stir up trouble/problem/anger	
@@ -136,22 +136,22 @@ refugee	[ˌrefjuˈdʒiː]	难民
 slum	[slʌm]	贫民窟		
 consultant	[kənˈsʌltənt]	顾问		
 manufacturer	[ˌmænjuˈfæktʃərər]	制造商，生产商		
-consistent with		与。。一致		
+consistent with	[kənˈsɪstənt wɪð]	与。。一致		
 passage	[ˈpæsɪdʒ]	文章，走廊，通路，		
 coward	[ˈkaʊərd]	懦夫		
 timid	[ˈtɪmɪd]	胆小的		
 melody	[ˈmelədi]	旋律		
 rhythm	[ˈrɪðəm]	节奏		
-pay the bill		付账		
+pay the bill	[peɪ ðə bɪl]	付账		
 attorney	[əˈtɜːrni]	律师	lawye更口语化	
-nip it in the bud		防患于未然（消灭在萌芽）		
+nip it in the bud	[nɪp ɪt ɪn ðə bʌd]	防患于未然（消灭在萌芽）		
 threshold	[ˈθreʃhoʊld]	门口、门槛，阈值	The threshold for regulation is high.	
-make a fuss		大惊小怪，吵吵闹闹		
+make a fuss	[meɪk ə fʌs]	大惊小怪，吵吵闹闹		
 extent	[ɪkˈstent]	程度		
 coupon	[ˈkuːpɑːn]	优惠券		
 premium	[ˈpriːmiəm]	高端的、附加费		
-run off		逃跑	The thief has run off.	
-so called		所谓的		
+run off	[ˈrʌn ɒf]	逃跑	The thief has run off.	
+so called	[ˌsəʊ ˈkɔːld]	所谓的		
 intelligence	[ɪnˈtelɪdʒəns]	智力，情报		
 cluster	[ˈklʌstər]	群	a cluster of	
 clutch	[klʌtʃ]	紧握，抓牢，离合		
@@ -169,7 +169,7 @@ essentially	[ɪˈsenʃəli]	本质上
 basically	[ˈbeɪsɪkli]	基本上		
 you betcha		那还用说，当然		
 mug	[mʌɡ]	杯子（马克杯）		
-mineral water		矿泉水		
+mineral water	[ˈmɪnərəl wɔːtə(r)]	矿泉水		
 proceed	[proʊˈsiːd]	继续做，接着（pro-前 + -ceed-行走）	He proceeded to tell me of my birth 他接着给我讲了我的出生。 Please proceed immediately to gate 2 请立刻前往2号登机口 Passengers for Rome should proceed to Gate 32 for boarding	
 how are things		最近怎么样		
 mushroom	[ˈmʌʃrʊm]	蘑菇		
@@ -181,9 +181,9 @@ resemble	[rɪˈzemb(ə)l]	类似	They resemble real people.他们像真人一样
 intuitive	[ɪnˈtuːɪtɪv]	直觉的，直观的	counterintuitive 违反直觉的	
 iterative	[ˈɪtəreɪtɪvˌˈɪtərətɪv]	重复的	iteration 迭代	
 composition等辨析		如下	composition：组成，作品，作文 conversation：对话 convention：习俗，惯例 comprehension：理解 complain：投诉，抱怨 competitive：竞争的	
-as always		一如既往		
+as always	[æz ˈɔːlweɪz]	一如既往		
 it really helps		这真的很有帮助		
-go over		过一遍（复习）	We are going to go over everything at the end of the video.	
+go over	[ɡoʊ ˈoʊvər]	过一遍（复习）	We are going to go over everything at the end of the video.	
 graceful	[ˈɡreɪsf(ə)l]	优雅的，优美的		
 praise	[preɪz]	称赞	praise sb for sth	
 punctuation	[ˌpʌŋktʃuˈeɪʃ(ə)n]	标点符号		
@@ -193,34 +193,34 @@ renovate	[ˈrenəveɪt]	翻修，翻新
 lease	[liːs]	租约，租		
 rent	[rent]	租金，租		
 entrance	[ˈentrəns]	"入口 (发音类似于""鹌鹑si"")"		
-public utility		公共事业，如水、气、电、网等		
+public utility	[ˌpʌblɪk juːˈtɪləti]	公共事业，如水、气、电、网等		
 smoke-free	[ˌsmoʊk ˈfriː]	无烟，禁烟的		
 basement	[ˈbeɪsmənt]	地下室		
-set up		建立、安排	I have set up a meeting for friday.	
+set up	[set ʌp]	建立、安排	I have set up a meeting for friday.	
 表示附和单词		如下	definitely：肯定的 exactly：正是如此 absolutely：绝对的 precisely（口语中用得少） right：是的	
 look up		查阅(从字典、电话簿、档案、网站等)，拜访	look up the words in dictionary.	
-make up		编造、化妆、组成、弥补	make up a sentence 造句	
+make up	[ˈmeɪk ʌp]	编造、化妆、组成、弥补	make up a sentence 造句	
 come across		碰到、偶遇		
-set aside		留出	set aside 2 minutes everyday to have a simple conversation with yourself. 每天留两分钟时间跟自己来个简单的对话	
+set aside	[set əˈsaɪd]	留出	set aside 2 minutes everyday to have a simple conversation with yourself. 每天留两分钟时间跟自己来个简单的对话	
 This is worth my time		值得我花时间		
 narrate	[ˈnæreɪt]	叙述，解说	"As you're doing it, in your head, narrate in English. 在做的同时，在脑海中用英语来叙述。"	
 语法相关单词		如下	"letters 字母 words 单词 sentence 句子 paragraph 段落 vocabulary 词汇 pronunciation 发音 intonation 声调 syllable 音节 vowel 元音 schwa 中央元音 diphthong 双元音 noun 名词 verb 动词 adjective 形容词 adverb 副词 preposition 介词 conjunction 连词 participle 分词 interjection 感叹词 phrase 短语 phrasal verb 动词短语 subjective 主语 objective 宾语 complement 补语 clause 从句 fluent 流利的 natural 自然的c synonyms 同义词 qualifier 修饰语(限定词)、预选赛 slang 俚语（相当于流行用语，会有新的也会过时） idiom 习语（相当于汉语中的成语，谚语） collocation 词语搭配 colloquial 口语的，非正式的 paraphrase 释义 metaphor 比喻 figurative 比喻的【analogy 类比】 plural form 复数形式 affix 词缀 punctuation 标点符号 comma 逗号 apostrophe 撇号 ' tongue twister 绕口令 compound 复合的 （com-共同 + pound(-pon-)放置） complex 复杂的 abbreviate to 缩写成 abbreviation 缩写形式 The abbreviation for Kansas is KS. international phonetic alphabet 国际音标字母表 phonetic（音标的、语音的）phonetic symbol 音标"	
-get ahead		获得成功	Its not easy to get ahead in the film industry,	
+get ahead	[ɡet əˈhed]	获得成功	Its not easy to get ahead in the film industry,	
 aim for		以...为目标	We are aiming for 30% cost reduction by next quater.	
-fall through		落空	We are supposed to go on vacation but out plans fell through.	
+fall through	[fɔːl θruː]	落空	We are supposed to go on vacation but out plans fell through.	
 burn out		精疲力尽	You should take a vacation before you burn out.	
 plot	[plɑːt]	阴谋，情节	main plot 主要情节 plot twist 情节转折	
-jet lag		时差		
+jet lag	[ˈdʒet læɡ]	时差		
 sleep-deprived	[sliːp dɪˈpraɪvd]	睡眠不足的		
 recall	[rɪˈkɔːl]	回想	speaking of that，I recall... 说到这儿，我回想起...	
 flicker	[ˈflɪkər]	闪烁		
 ideally	[aɪˈdiːəli]	理想情况下(常用)		
 boost	[buːst]	提升，促进，增加(信心)		
 intermediate	[ˌɪntərˈmiːdiət]	中级的，中等的		
-adapt to		适应	be adapted for 适合的 = suitable This news is adapted for english learners. 这些新闻适合英语学习者。	
+adapt to	[əˈdæpt tu]	适应	be adapted for 适合的 = suitable This news is adapted for english learners. 这些新闻适合英语学习者。	
 well-adapted	[wel əˈdæptɪd]	适应性强的		
-day off		休息日		
-show off		炫耀		
+day off	[ˌdeɪ ˈɒf]	休息日		
+show off	[ʃəʊ ɒf]	炫耀		
 Me neither		我也不 = Neither did I		
 cotton	[ˈkɑːt(ə)n]	棉，棉的		
 immensely	[ɪˈmensli]	极其的	词源：im= 无 mens=测量-> 无法测量的 I enjoyed this film immensely.	
@@ -231,8 +231,8 @@ neutral	[ˈnuːtrəl]	中立的、中性的
 help you out		帮忙脱离困境	加out有帮助解决困难的意思	
 under the weather		表示不舒服，起源于航海的水手	"I'm a little under the weather today. = I fell a little sick today"	
 meditating	[ˈmedɪteɪtɪŋ]	冥想		
-pick up		捡起		
-split up		分开，分手	"She's split up with her boyfriend."	
+pick up	[pɪk ʌp]	捡起		
+split up	[splɪt ʌp]	分开，分手	"She's split up with her boyfriend."	
 contrast	[ˈkɑːntræst]	对比		
 dedicate	[ˈdedɪkeɪt]	致力于	"It's up to you to decide how much time you dedicate to learing English every single day. This channel is dedicated to helping you feel confident speakign English in public."	
 bruise	[bruːz]	瘀伤		
@@ -260,7 +260,7 @@ connotation	[ˌkɑːnəˈteɪʃ(ə)n]	涵义
 intently	[ɪnˈtentli]	聚精会神		
 overtime	[ˈoʊvərtaɪm]	加班		
 I will be right there		我马上就到	I will be right down. 我马上就下来 I will be right out. 我马上就出来	
-strike up		建立起（对话，友谊）	strike up conversation strike up friendship	
+strike up	[straɪk ʌp]	建立起（对话，友谊）	strike up conversation strike up friendship	
 have a blast		玩得很开心		
 emulate	[ˈemjuleɪt]	效仿		
 imitate	[ˈɪmɪteɪt]	模仿		
@@ -270,7 +270,7 @@ practical	[ˈpræktɪk(ə)l]	实际的	practically 几乎的，实际的
 chore	[tʃɔːr]	杂物，琐事		
 expenditure	[ɪkˈspendɪtʃər]	花销，支出	revenue 收入	
 thorough	[ˈθɜːroʊ]	彻底的，全面的		
-look into		调查、研究	A working party has been set up to look into the problem. 已成立一个工作小组来调查这个问题。	
+look into	[lʊk ˈɪntə]	调查、研究	A working party has been set up to look into the problem. 已成立一个工作小组来调查这个问题。	
 over\through词组：		如下：	go over：（过一遍）往往是第二次，纠错等 go through：（过一遍）往往是第一次，为了找某些信息 look over：查看 look through：（对象往往是书）浏览	
 elementary	[ˌelɪˈmentri]	基础的，简单的		
 tuition	[tuˈɪʃ(ə)n]	学费		
@@ -284,15 +284,15 @@ nuance	[ˈnuːɑːns]	细微差别
 taboo	[təˈbuː]	禁忌的		
 fury	[ˈfjʊri]	暴怒	辨析：furry 毛茸茸的、fur 皮毛	
 crowdfunding		众筹		
-raise money		筹钱		
+raise money	[reɪz ˈmʌni]	筹钱		
 fuzzy	[ˈfʌzi]	模糊的、毛绒的		
 incentive	[ɪnˈsentɪv]	动力，激励的	incentive mechanism 激励机制	
 incentivize	[ɪnˈsentɪvaɪz]	可理解为“促使”	...which incentivizes other investors to lend to riskier entities...	
-take revenge		报复、报仇	get back at sb 向某人报仇	
+take revenge	[teɪk rɪˈvendʒ]	报复、报仇	get back at sb 向某人报仇	
 childish	[ˈtʃaɪldɪʃ]	幼稚的		
 bonus	[ˈboʊnəs]	奖金		
 pout	[paʊt]	撅嘴(生气)		
-talk back to		顶嘴		
+talk back to	[tɔːk bæk tu]	顶嘴		
 revolve around		围绕。。旋转		
 oversee	[ˌoʊvərˈsiː]	监督		
 implement	[ˈɪmplɪment]	执行，实施	I impliment policies and procedures nationwide.	
@@ -306,31 +306,31 @@ blow my mind		扰乱思绪，使我惊讶
 impound	[ɪmˈpaʊnd]	扣押，扣留		
 "That's not necessarily true."		那不完全正确呢		
 You got a point here.		你说得对		
-kiss up to		拍马屁		
+kiss up to	[kɪs ʌp tu]	拍马屁		
 reluctant	[rɪˈlʌktənt]	不情愿的		
 booked solid		预定满了		
 in the mood for		有心情做。。。		
 draft	[drɑːft]	草稿，起草	draft plan 草案	
 stuffed	[stʌft]	塞满了的(吃饱的)		
-cut out		戒除		
+cut out	[ˈkʌt aʊt]	戒除		
 pick sb up		(开车)接某人		
 absence	[ˈæbsəns]	缺席，缺勤		
 set out to do something.		开始努力做某事	He has achieved what he set out to do 3 years ago.	
-set out		还有“列出”的意思	"I'm setting out the exact things in steps."	
+set out	[set aʊt]	还有“列出”的意思	"I'm setting out the exact things in steps."	
 stimulate	[ˈstɪmjuleɪt]	刺激，激励		
 turmoil	[ˈtɜːrmɔɪl]	混乱、骚动		
 appetite	[ˈæpɪtaɪt]	食欲		
-make it		做到，到达	"I can't make it tomorrow. 我明天到不了 I couldn't make it to the meeting,"	
+make it	[meɪk ɪt]	做到，到达	"I can't make it tomorrow. 我明天到不了 I couldn't make it to the meeting,"	
 try on		试穿		
 deposit	[dɪˈpɑːzɪt]	存款、押金		
 transaction	[trænˈzækʃ(ə)n]	交易		
 overdraft	[ˈoʊvərdræft]	透支		
 handy	[ˈhændi]	有用的		
-debit card		借记卡(银行卡)		
+debit card	[ˈdebɪt kɑːd]	借记卡(银行卡)		
 "I'll get you to"		我想让你	"I'll get you to fill out this paperwork."	
 go down in history		载入史册		
-pay off		还清		
-bottom line		底线，最重要的事情		
+pay off	[ˈpeɪ ɒf]	还清		
+bottom line	[ˌbɒtəm ˈlaɪn]	底线，最重要的事情		
 get hold of		找到或者联系某人 = find or contact someone	"I've been trying to get hold of you for hours! 我找了你好几个小时了"	
 stand sb up		放某人鸽子		
 heading	[ˈhedɪŋ]	前往 = go towards a specified direction or place	Can you forecast where the economy is heading? Where are we heading 我们去哪	
@@ -339,7 +339,7 @@ have no idea		不知道	do you have any idea = do you know
 sleep on it.		再考虑一下		
 "stand in one's way"		阻碍，妨碍		
 get them outta there		让他们离开这里 = get them out of there		
-hand over		移交	hand something over to someone 把..交给..负责	
+hand over	['hænd,əuvə(r)]	移交	hand something over to someone 把..交给..负责	
 "I've been meaning to"		我一直想做。。。		
 sponsor	[ˈspɑːnsər]	赞助		
 patron	[ˈpeɪtrən]	资助人		
@@ -347,7 +347,7 @@ invitation letter		邀请函
 barely even		甚至不能	I barely even get out of bed.	
 It sure is...		真是... （表强调）	Boy, it sure is hot. 好家伙，这天儿可真热。	
 pull yourself together		振作起来		
-hook up		连接（电子设备与电源）	He brought it down, hooked it up, and we got the generator going. 他把它放倒，连接好，然后我们让发电机开始运转。	
+hook up	[hʊk ʌp]	连接（电子设备与电源）	He brought it down, hooked it up, and we got the generator going. 他把它放倒，连接好，然后我们让发电机开始运转。	
 hold still		静止不动		
 obligate	[ˈɑːblɪˌɡeɪt]	迫使	obligate sb to do 迫使..去做..	
 outline	[ˈaʊtlaɪn]	概述	I‘ll outline this plan.	
@@ -355,7 +355,7 @@ overall	[ˌoʊvərˈɔːl]	总的	overall efficiency 总效率 overall budget �
 coordination	[koʊˌɔːrdɪˈneɪʃ(ə)n]	协调	improve the coordination and cooperation(合作)	
 technically	[ˈteknɪkli]	严格来说		
 comparatively	[kəmˈpærətɪvli]	比较来说		
-be subject to		取决于，受制于		
+be subject to	[bi ˈsʌbdʒɪkt tu]	取决于，受制于		
 overwhelming	[ˌoʊvərˈwelmɪŋ]	难以应对的		
 specifically	[spəˈsɪfɪkli]	特意的（怀有目的性），明确的	I specifically tell you ... Ues these word specifically in daily conversation.	
 make an order		下订单		
@@ -365,12 +365,12 @@ prestigious	[preˈstiːdʒəs]	有名望的	Harverd University is one of the mos
 leave me alone.		别管我		
 academy award		奥斯卡金像奖		
 bitter	[ˈbɪtər]	苦的		
-pass out		昏过去 = faint = loss consciousness		
+pass out	[pæs aʊt]	昏过去 = faint = loss consciousness		
 pandemic	[pænˈdemɪk]	瘟疫		
 up-and-coming	[ˌʌp ən ˈkʌmɪŋ]	有前途的		
 specify	[ˈspesɪfaɪ]	指定		
 practically	[ˈpræktɪkli]	实际上，几乎		
-keep in mind		记住		
+keep in mind	[kiːp ɪn maɪnd]	记住		
 comply with regulation		遵从规定		
 tricky	[ˈtrɪki]	棘手		
 spouses	[ˈspaʊsɪz]	配偶		
@@ -388,16 +388,16 @@ before long		不久之后
 demoralizing	[dɪˈmɔːrəlaɪzɪŋ]	令人泄气的		
 lost	[lɔːst]	还有“困惑的”的意思	I feel very lost,	
 "I've awalys wanted to..."		我一直都想。。。		
-due date		到期日		
+due date	[ˈdjuː deɪt]	到期日		
 in the middle of nowhere		在偏僻的地方		
 in order		井然有序	Everything seems to be in order.	
 frustrating	[ˈfrʌstreɪtɪŋ]	令人沮丧的		
 crew	[kruː]	全体组员		
-screw up		弄糟，搞砸		
-map out		制定（计划）		
-get by		勉强过活		
+screw up	[ˈskruː ʌp]	弄糟，搞砸		
+map out	[mæp aʊt]	制定（计划）		
+get by	[ɡet baɪ]	勉强过活		
 malfunction	[ˌmælˈfʌŋkʃ(ə)n]	故障		
-practical joke		恶作剧		
+practical joke	[ˌpræktɪkl ˈdʒəʊk]	恶作剧		
 patch	[pætʃ]	一小片/块，补丁	a small patch of，blad path on the top of his head	
 refrain	[rɪˈfreɪn]	避免	refrain from doing sth	
 lavatory	[ˈlævətɔːri]	厕所	英文解释：only have toilet and sink，common in boats, trains, airplanes, never in you house	
@@ -406,7 +406,7 @@ comprehension	[ˌkɑːmprɪˈhenʃ(ə)n]	理解
 in terms of		可以理解为 就...来说、从..角度看，可起到延后解释的作用	Our goods compete in terms of quality, reliability. This is a significant investment in terms of time and energy.	
 resonate	[ˈrezəneɪt]	共振，共鸣，对某人有重要性	"It doesn't resonate with me.（词源来自：resound） craft emotionally resonate with yout customer. 与你的客户建立情感上的共鸣"	
 demonstrate	[ˈdemənstreɪt]	证明、展示		
-tie up		捆绑、平局	The first game ended in a tie. 第一场比赛以平局结束。	
+tie up	[ˈtaɪ ʌp]	捆绑、平局	The first game ended in a tie. 第一场比赛以平局结束。	
 fall for it		上当		
 interpersonal	[ˌɪntərˈpɜːrsən(ə)l]	人际的	interpersonal relation / skills	
 tempting	[ˈtemptɪŋ]	诱人的		
@@ -418,7 +418,7 @@ controversy	[ˈkɑːntrəvɜːrsi]	争议	controversial 有争议的
 expertise	[ˌekspɜːrˈtiːz]	专长，专业技能		
 acumen	[ˈækjəmən]	敏锐	business acumen 商业头脑 political acumen 政治敏锐性	
 brink	[brɪŋk]	边缘=on the critaical point	on the brink of 在。。的边缘(抽象事物，edge是实体的边缘)	
-kick off		足球开球，开始(事件，比赛等)		
+kick off	[ˈkɪk ɒf]	足球开球，开始(事件，比赛等)		
 foul	[faʊl]	脏臭的，粗俗的，犯规		
 referee	[ˌrefəˈriː]	裁判 可缩写为ref		
 penalty	[ˈpenəlti]	处罚，罚球		
@@ -436,7 +436,7 @@ pros and cons		利与弊
 pathetic	[pəˈθetɪk]	可怜的，差劲的		
 picky	[ˈpɪki]	挑剔的		
 yolk	[joʊk]	蛋黄	egg-white 蛋白 scrambled eggs 炒鸡蛋	
-feel like doing		想要做某事		
+feel like doing	[fiːl laɪk ˈduːɪŋ]	想要做某事		
 mortifying	[ˈmɔːrtɪfaɪɪŋ]	无地自容的 extremely embarassing It was a truly mortifying and disgusting experience.这是一次讨厌丢人的经历。		
 infinite 等词语辨析		如下	finite 有限的 infinite 无限的，无穷的 infinitive 不定式 definitive 终极的 definite 确切的，无疑的 definitely 肯定的	
 come over		过来	"She said she'd like to come over"	
@@ -445,7 +445,7 @@ dip	[dɪp]	蘸
 special	[ˈspeʃ(ə)l]	还有“特价商品”的意思		
 preoccupied	[priˈɑːkjupaɪd]	全神贯注的、心事重重的		
 resent	[rɪˈzent]	憎恨		
-beat around the bush		说话拐弯抹角		
+beat around the bush	[biːt əˈraʊnd ðə bʊʃ]	说话拐弯抹角		
 equivocate	[ɪˈkwɪvəkeɪt]	含糊其辞		
 laid off		下岗	get laid off 被解雇	
 engagement	[ɪnˈɡeɪdʒmənt]	婚约		
@@ -454,7 +454,7 @@ famished	[ˈfæmɪʃt]	饿坏了的	"When's lunch? I'm famished!"
 get it togather		振作起来 = control your emotions		
 表示“傻子”的英语		如下	傻子：moron、dumb ass、idiot、fool 愚蠢的：foolish、stupid	
 swell	[swel]	肿胀	swollen 肿胀的	
-break free		摆脱		
+break free	[breɪk friː]	摆脱		
 appalling	[əˈpɔːlɪŋ]	骇人听闻的		
 drastic	[ˈdræstɪk]	极端的，剧烈的	drastic measures极端措施	
 hostility	[hɑːˈstɪləti]	敌意		
@@ -468,7 +468,7 @@ trim	[trɪm]	修剪（植物，头发）、整齐的、苗条的
 luxury	[ˈlʌkʃəri]	奢侈品	luxurious 奢侈的	
 sideburns	[ˈsaɪdˌbɜːrnz]	鬓角		
 withdraw	[wɪðˈdrɔː]	提/取(钱)、撤退		
-pound key		井号键		
+pound key	[paʊnd kiː]	井号键		
 gram	[ɡræm]	克	kilogram 千克 milligram 毫克	
 pharmacy	[ˈfɑːrməsi]	药店		
 prescription	[prɪˈskrɪpʃ(ə)n]	处方	otc(over the counter) drug 非处方药	
@@ -477,7 +477,7 @@ take medicine.		服药 ，不用eat
 prescribe	[prɪˈskraɪb]	规定	prescribe medicine 开药	
 pass time		打发时间		
 what do you think this is?		你把这当成什么了？		
-national anthem		国歌		
+national anthem	[ˌnæʃnəl ˈænθəm]	国歌		
 light and airy		明亮又通风		
 square footage		直译：平方英尺，意思就是“面积”		
 四则运算英语		如下	加(add)：1 plus 1 equals 2 减(subtract)：2 minus 1 equals 1 乘(times)：3 times 4 equals 12 / multiply 3 by 4 equals 12 / 3 multiplied by 4 equals 12 除(divide)：4 divided by 2 equals 2	
@@ -494,16 +494,16 @@ smash	[smæʃ]	打碎	smash the window / dream
 check	[tʃek]	还有“托运”的意思，	check my luggage /bag /suitcase 与之相反是自己拿，carry-on luggage	
 absurd	[əbˈsɜːrd]	荒谬的		
 How can I do		我该怎么办 = How am I supposed to do		
-next to nothing		几乎没有	cost next to nothing 跟不要钱一样 know next to nothing 几乎几无所知	
+next to nothing	[nekst tu ˈnʌθɪŋ]	几乎没有	cost next to nothing 跟不要钱一样 know next to nothing 几乎几无所知	
 cost an arm and a leg		非常昂贵		
 renowned	[rɪˈnaʊnd]	闻名的	world renowned	
 vow	[vaʊ]	发誓		
 approach	[əˈproʊtʃ]	走近、达到、方式	My boss approached me this morning to talk about an improtant pay rise. He took a very scientific approach to management. 他采取了一种非常科学的管理方法	
 whereabouts	[ˈwerəbaʊts]	下落	Some are now free, but the whereabouts of others is unknow.	
-come clean		全盘交代		
+come clean	[kʌm kliːn]	全盘交代		
 down	[daʊn]	有“沿着”的意思	Go down the road till you reach the traffic lights.	
 a ton of		大量的		
-break down		有细细说来的意思	"Let's break down the differences between ... and ..."	
+break down	[breɪk daʊn]	有细细说来的意思	"Let's break down the differences between ... and ..."	
 dramatically	[drəˈmætɪkli]	戏剧性的、夸张的、剧烈的	The cost of living has increased dramatically. Their quality of life improved dramatically when they moved to France	
 First off		首先		
 pillar	[ˈpɪlər]	柱子		
@@ -535,12 +535,12 @@ debris	[dəˈbriː]	残骸、碎片
 identical	[aɪˈdentɪk(ə)l]	完全相同	identify、identification 识别、确认	
 announcer	[əˈnaʊnsər]	播音员		
 deficiency	[dɪˈfɪʃ(ə)nsi]	缺乏	iron deficiency 缺铁 mental deficiency 智力缺陷	
-foul breath		口臭	Your breath smells.	
+foul breath	[faʊl breθ]	口臭	Your breath smells.	
 zone out		昏昏沉沉，开小差		
 unscientific	[ˌʌnˌsaɪənˈtɪfɪk]	不科学的		
 notion	[ˈnoʊʃ(ə)n]	想法	idea 主意	
 scatter	[ˈskætər]	播、撒、使分散	scattered 分散的 He picked up the scattered toys. At the first gunshot, the crowd scattered.	
-mixed bag		大杂烩		
+mixed bag	[ˌmɪkst ˈbæɡ]	大杂烩		
 flatter	[ˈflætər]	奉承，讨好	flattering 讨人喜欢的	
 hover	[ˈhʌvər]	盘旋，徘徊	hover around 徘徊在某个水平 The exchage rage hoverd around 7 yuan to the dollar.	
 gust	[ɡʌst]	阵风	a gust of wind	
@@ -558,13 +558,13 @@ enchanting	[ɪnˈtʃæntɪŋ]	迷人的
 grim	[ɡrɪm]	严酷的、令人沮丧的	The outlook is pretty grim. 前景令人甚感忧虑。	
 nosy	[ˈnoʊzi]	爱管闲事的	Excuse me if I am being a bit nosy but, how old are you?	
 "don't get me wrong"		不要误会\误解		
-sure thing		当然 = of course		
+sure thing	[ʃʊr θɪŋ]	当然 = of course		
 raise	[reɪz]	还有“抚养”的意思	He was born and raised in Cananda.	
 coincidence	[koʊˈɪnsɪdəns]	巧合	What a coincidence！ 真巧啊！	
 creek	[kriːk]	小溪		
-sun set		日落	The sun is about to set. 太阳就要落山了	
+sun set	[sʌn set]	日落	The sun is about to set. 太阳就要落山了	
 groan	[ɡroʊn]	呻吟、抱怨		
-head into		走向 = move towards		
+head into	[hed ˈɪntu]	走向 = move towards		
 rope	[roʊp]	绳索	rope ladder 绳梯	
 poke	[poʊk]	戳(进)、探出(脑袋)	She poked her head out of the tree house window.	
 How come...		怎么...	How come you are not at work today? 你今天怎么没上班呢？	
@@ -591,7 +591,7 @@ truthful	[ˈtruːθfl]	诚实的
 ask for leave		请假	ask for sick leave 请病假	
 blow away		吹走，留下深刻印象	I was completely blown away by your stragegy outline.	
 take on board		采纳，听取（建议）		
-think through		充分考虑		
+think through	[θɪŋk θruː]	充分考虑		
 pant	[pænt]	气喘吁吁	pants 裤子	
 clank	[klæŋk]	(金属)发出咣当声		
 personality	[ˌpɜːrsəˈnæləti]	性格，个性		
@@ -607,7 +607,7 @@ edible	[ˈedəb(ə)l]	可食用的
 rubbery	[ˈrʌbəri]	嚼不动的	rubber 橡胶	
 a sliver of		一小片，一丝 = a little slice of	A silver of light showed under the door.	
 make a big deal		小题大做		
-shell out		付(一大笔)钱，破费		
+shell out	[ʃel aʊt]	付(一大笔)钱，破费		
 gory	[ˈɡɔːri]	血淋淋的	gory detail 血淋淋的细节	
 shoulder the responsibility		承担责任		
 for crying out loud		真是岂有此理！		
@@ -616,7 +616,7 @@ concise	[kənˈsaɪs]	简洁的	concise and precise 简洁明确的
 compulsory	[kəmˈpʌlsəri]	强制的	compulsory course 必修课 compulsory education 义务教育	
 caterpillar	[ˈkætərpɪlər]	毛毛虫		
 homebody	[ˈhoʊmbɑːdi]	宅男/女		
-catch up		赶上	catch up on some chores 赶做一些家务活	
+catch up	[ˈkætʃ ʌp]	赶上	catch up on some chores 赶做一些家务活	
 major	[ˈmeɪdʒər]	主修	minor 辅修	
 credit	[ˈkredɪt]	学分		
 calendar	[ˈkælɪndər]	日历		
@@ -626,7 +626,7 @@ rust	[rʌst]	铁锈，生锈	rusty 生锈的
 drain	[dreɪn]	下水道，排水管，排出(v)		
 flush down		冲下去	flush down the toilet	
 running late		要晚了	"I'm running late. 我要迟到了。。"	
-tell me about it.		可不是嘛，表示赞同。		
+tell me about it.	[tel mi əˈbaʊt ɪt]	可不是嘛，表示赞同。		
 nauseous	[ˈnɔːʃəs]	令人恶心作呕的		
 dizzy	[ˈdɪzi]	头晕的	She felt dizzy and nauseous.	
 dehydrated	[diːˈhaɪdreɪtɪd]	脱水的		
@@ -653,16 +653,16 @@ prosperity	[prɑːˈsperəti]	繁荣	peace and prosperity prosperity and depress
 solemn	[ˈsɑːləm]	严肃的，庄严的	solemn ceremony 隆重的仪式	
 basis	[ˈbeɪsɪs]	基础	on the basis of 以...为基础	
 slack	[slæk]	松弛的	cut me some slack 放我一马，通融一下 slack-jawed 目瞪口呆的 （jaw 下巴）	
-check out		结账、退房		
+check out	[tʃek aʊt]	结账、退房		
 fortune	[ˈfɔːrtʃən]	除了幸运、财富还 “一大笔钱”的意思	We spend a fortune on cigretees every month.	
 "Let's just say"		就这么说吧		
 incorrigible	[ɪnˈkɔːrɪdʒəb(ə)l]	不可救药的		
-pride and joy		引以为豪的(孩子)		
+pride and joy	[praɪd ənd dʒɔɪ]	引以为豪的(孩子)		
 go through with		完成，将...进行到底	"I can't go through with it"	
 yearn	[jɜːrn]	渴望	He yearned for freedom.	
 foster	[ˈfɑːstər]	收养(的)	foster father 养父	
 mainly	[ˈmeɪnli]	主要是		
-pump iron		举重		
+pump iron	[pʌmp ˈaɪərn]	举重		
 take sth apart		拆开		
 spew	[spjuː]	喷出、排出、呕吐	This old car started to spewing white smoke.	
 spray	[spreɪ]	喷出(专指水)	sprayer 喷雾器	
@@ -671,15 +671,15 @@ mount	[maʊnt]	山、安装、骑上	mount the TV / picture on the wall. mount t
 grouchy	[ˈɡraʊtʃi]	好发牢骚的	grouch 爱发牢骚的人 grumpy 脾气坏的	
 brush sb off		冷落，不理睬某人		
 get off the phone		挂电话	get off the car 下车 get off the bed 下床 get off work 下班	
-at times		有时、偶尔	Their pranks are amusing at times. 他们的恶作剧有时很逗。	
+at times	[æt taɪmz]	有时、偶尔	Their pranks are amusing at times. 他们的恶作剧有时很逗。	
 foul-mouthed	[ˌfaʊl ˈmaʊðd]	满嘴脏话的		
-on edge		紧张，坐立不安	She was always on edge before an interview.	
+on edge	[ˌɑːn ˈedʒ]	紧张，坐立不安	She was always on edge before an interview.	
 You are something else.		意思是“你和其他人不一样”，可以理解为“你可真是个奇葩”		
 nerve-wracking	"['nə:v,rækiŋ]"	令人头疼的，伤脑筋的		
-neat freak		有洁癖的人	He is a complete neat freak, he cleaned the floor three times today.	
+neat freak	[niːt friːk]	有洁癖的人	He is a complete neat freak, he cleaned the floor three times today.	
 intentional	[ɪnˈtenʃən(ə)l]	故意的 = deliberate	"He's sent off the field for his intentional hurting."	
 rally	[ˈræli]	集会	That looks like a protest rally.(抗议集会)	
-throw in		免费赠送		
+throw in	[ˈθrəʊ ɪn]	免费赠送		
 detect	[dɪˈtekt]	察觉	There is movement which is too slow for our eyes to detect. The new test should enable doctors to detect the disease early.	
 mock	[mɑːk]	嘲笑		
 admittedly	[ədˈmɪtɪdli]	诚然(得承认的)		
@@ -695,11 +695,11 @@ radically	[ˈrædɪkli]	彻底的
 anonymous	[əˈnɑːnɪməs]	匿名的		
 strip	[strɪp]	条、脱、剥离	条：a strip of cloth 一个布条 脱(衣)：They stripped completely. He stripped off his wet clothes and stepped into the shower. 剥离，剥夺	
 striped	[straɪpt]	条纹的		
-capital punishment		死刑 = death penalty		
+capital punishment	[ˈkæpɪtl ˈpʌnɪʃmənt]	死刑 = death penalty		
 "that's all for"		就这些	"That's all for today's class."	
 tough	[tʌf]	坚硬的，艰苦的		
 prison	[ˈprɪzn]	监狱	jail 拘留所(罪行更轻一些) slammer 监狱(非正式)	
-lock up		关起来	= imprison 关押，监禁	
+lock up	[ˈlɒk ʌp]	关起来	= imprison 关押，监禁	
 sentence	[ˈsentəns]	句子，判刑，刑罚	sentence to death. He was given a 4-years sentence. to serve a prison sentence. 服刑	
 juvenile	[ˈdʒuːvən(ə)l]	青少年的	juvenile prison 少管所 juvenile offender 少年犯	
 crime	[kraɪm]	犯罪		
@@ -731,7 +731,7 @@ do my part		尽自己的职责	That is my way of doing my part.
 debatable topic		有争论的话题	近义词：controversial	
 hypocrisy	[hɪˈpɑːkrəsi]	伪善	hypocrite 伪君子 hypocritical 虚伪的【同词根的还有一个 hypothesis 假说】	
 superstition	[ˌsuːpərˈstɪʃ(ə)n]	迷信	superstitious 迷信的	
-in touch with		联系	You should be more in touch with your inner child	
+in touch with	[ɪn tʌtʃ wɪð]	联系	You should be more in touch with your inner child	
 drop out of school		退学		
 siblings	[ˈsɪblɪŋz]	兄弟姐妹(正式)		
 frown	[fraʊn]	皱眉	His smile immediately changed to a frown.	
@@ -746,10 +746,10 @@ renew	[rɪˈnuː]	重新开始、恢复、续签	my lease is up，I decide to re
 make way for		为...开路		
 decent	[ˈdiːs(ə)nt]	像样的，得体的	There are no decent schools round here.	
 sneaky	[ˈsniːki]	偷偷摸摸的		
-put up with		忍受		
-come up with		提出，赶上		
+put up with	[pʊt ʌp wɪð]	忍受		
+come up with	[kʌm ʌp wɪð]	提出，赶上		
 without any further ado		闲话少说，言归正传		
-up to		忙于	"what have you been up to (lately) 你最近在忙什么？ I'm up to my work."	
+up to	[ʌp tu]	忙于	"what have you been up to (lately) 你最近在忙什么？ I'm up to my work."	
 same here		我也一样，彼此彼此 (可以代替me too)		
 be sick and tired of...		对...烦透了		
 whine	[waɪn]	牢骚，抱怨	"I'm sick and tired of all your whining."	
@@ -757,7 +757,7 @@ make enemies with		与。。。树敌
 organism	[ˈɔːrɡənɪzəm]	微生物，有机体		
 conundrum	[kəˈnʌndrəm]	谜题		
 pile	[paɪl]	堆	a pile of book 一堆书 pile up 堆积	
-up to my neck		忙的不可开交	"I'm up to my neck in work"	
+up to my neck	[ʌp tu maɪ nek]	忙的不可开交	"I'm up to my neck in work"	
 "have sb's hands full"		也是“忙得腾不出手”的意思	She certainly has her hands full with four kids in the house	
 hectic	[ˈhektɪk]	忙碌的 （比 busy的程度高）		
 nonsense	[ˈnɑːnsens]	废话		
@@ -772,16 +772,16 @@ shoot the breath.		吹牛，闲扯	Wre like to shoot the breath during the break
 straw	[strɔː]	吸管		
 cut it out！		打住、到此为止		
 "You've got to be kidding me!"		你在和我开玩笑把！		
-come in handy		迟早有用	"Don't throw that away, it might come in handy."	
+come in handy	[kʌm ɪn ˈhændi]	迟早有用	"Don't throw that away, it might come in handy."	
 fare	[fer]	交通费	air fare、bus fare	
 nostalgia	[nəˈstældʒə]	怀旧	nostalgic 怀旧的 I have nostalgia for my childhood. Many people were nostalgic for the good old days.	
-bummed out		失望、沮丧	Are you bummed out for something?	
+bummed out	[bʌmd aʊt]	失望、沮丧	Are you bummed out for something?	
 grasp	[ɡræsp]	抓牢、领会	They have a good grasp of foreign language. 他们对外语掌握得很好。	
-help out		帮助摆脱困境	These tips will help you guys out.	
+help out	[help aʊt]	帮助摆脱困境	These tips will help you guys out.	
 pinpoint	[ˈpɪnpɔɪnt]	定位	I could pinpoint his precise location on the map.	
 fresh start		全新开始	Another year, another fresh start.	
 eternity	[ɪˈtɜːrnəti]	(n)永恒	You will regret for eternity. eternal 永恒的 It is an eternal concept.	
-rational explanation		合理的解释		
+rational explanation	[ˈræʃnəl ˌekspləˈneɪʃn]	合理的解释		
 grow	[ɡroʊ]	种植	What kind of stuff do you grow in there? 你在这种什么？We grew everything, we grew tomatoes, and green peppers.(青椒)	
 Hey buddy		嘿，老兄		
 moisture	[ˈmɔɪstʃər]	潮气、水分	There is so much moisture in the air.	
@@ -801,7 +801,7 @@ grave	[ɡreɪv]	坟墓	cemetery 墓地、公墓（指一大片地方） tomb 古
 deceased	[dɪˈsiːst]	已故的，死者	his rencently deceased mother.	
 veterans	[ˈvetərənz]	退伍老兵	veterans day 老兵节	
 armistice	[ˈɑːrmɪstɪs]	停战，休战	Finally, the Bolsheviks signed an armistice with the germany.	
-call a truce		休战		
+call a truce	[kɔːl ə truːs]	休战		
 allies	[ˈælaɪz]	同盟国(二战)，协约国(一战)		
 signed a peace treaty		签订和平条约		
 commemorate	[kəˈmeməreɪt]	纪念	Many countries around the world commemorate this date.	
@@ -812,24 +812,24 @@ lousy	[ˈlaʊzi]	糟糕的(非正式)	the menu is limited and the food is lousy.
 poor	[pʊr]	次的	The quality is poor.	
 duel	[ˈduːəl]	决斗		
 "I'll be there"		我马上过去		
-and stuff		等等	and all that stuff	
+and stuff	[ənd stʌf]	等等	and all that stuff	
 if I ever failed you.		如果我曾经辜负了你		
 jeopardize	[ˈdʒepərdaɪz]	危及，损害	jeopardy 险境 put something in jeopardy.	
 well-being	[ˈwel biːɪŋ]	幸福	I had never experienced such well-being in all my life.	
 planned and organized.		有计划和条理的	My personality is very planned and organized.	
 heartfelt	[ˈhɑːrtfelt]	由衷的	A heartfelt apology can not only heal a damaged relationship but also make it stronger.	
 jargon	[ˈdʒɑːrɡən]	行话		
-social security		社会保障	public security 公共安全	
+social security	[ˌsəʊʃl sɪˈkjʊərəti]	社会保障	public security 公共安全	
 deduct	[dɪˈdʌkt]	扣除	you can authorize your employer to deduct a certain amount of money from your paycheck 你可以授权你的雇主从你的工资中扣除一定数额的钱	
-piggy bank		存钱罐		
+piggy bank	[ˈpɪɡi bæŋk]	存钱罐		
 ceramic	[səˈræmɪk]	陶瓷的		
-put away		收拾起来，存储	Last year, I put away a thousand dollars.	
-plan out		规划	Plant out a resonable schedule and stick to it.	
+put away	[pʊt əˈweɪ]	收拾起来，存储	Last year, I put away a thousand dollars.	
+plan out	[plæn aʊt]	规划	Plant out a resonable schedule and stick to it.	
 compulsive	[kəmˈpʌlsɪv]	让人欲罢不能的，强迫性的	I am a compulsive saver.	
 alleged	[əˈledʒd]	被指称	It is alleged that he mistreated the prisoners.	
-sneak peek		先睹为快	"sneak 偷偷摸摸地 peak 偷看 Let's take a sneak peek."	
+sneak peek	[ˌsniːk ˈpiːk]	先睹为快	"sneak 偷偷摸摸地 peak 偷看 Let's take a sneak peek."	
 humiliate	[hjuːˈmɪlieɪt]	羞辱，感到丢脸	"I didn't want to humiliate her in front of the colleagues./ I have never felt so humiliate in my life."	
-roller coaster		过山车		
+roller coaster	[ˈrəʊlə kəʊstə(r)]	过山车		
 sip	[sɪp]	一小口	He took a sip of Whisky.	
 rear	[rɪr]	后方，尾部	the rear of ...	
 looks to me like ...		在我看来		
@@ -841,7 +841,7 @@ vendor	[ˈvendər]	小贩、厂商	"When graphic card vendor design their card, 
 utilize	[ˈjuːtəlaɪz]	利用	The engineers utilize this techniques to enhance the quality of the recordings.	
 way too		实在是太	"We're all way too busy. way better 好多了 this is way better than..."	
 a handful of		少量	... which basically means, only a handful of games can actually run with ssl...	
-frankly speaking		老实说，坦率的讲		
+frankly speaking	[ˈfræŋkli ˈspiːkɪŋ]	老实说，坦率的讲		
 allowance	[əˈlaʊəns]	补贴		
 allocate	[ˈæləkeɪt]	分配		
 authentically	[ɔːˈθentɪkli]	真正的，真实的		
@@ -866,21 +866,21 @@ cautious	[ˈkɔːʃəs]	谨慎的 = very careful	Physicians are cautious about u
 stinky	[ˈstɪŋki]	恶臭的 = very smelly	The fish market is stinky	
 provide for		供养...	provide for our family	
 resolve	[rɪˈzɑːlv]	解决、决心	she resolved to sticking to her goals.	
-head to		前往	We should ger ready and head to the market to buy something.	
+head to	[hed tu]	前往	We should ger ready and head to the market to buy something.	
 process of		...的过程	go through the process of 经历了...的过程	
 knock yourself out		别客气，请自便		
-all set		准备就绪	Are you all set, do you pack everything?	
+all set	[ɔːl set]	准备就绪	Are you all set, do you pack everything?	
 vibrant	[ˈvaɪbrənt]	充满活力的、鲜亮的(色彩)		
-leave out		遗漏		
+leave out	[liːv aʊt]	遗漏		
 caress	[kəˈres]	抚摸	He was gently caressing her hair.	
 flashy	[ˈflæʃi]	俗艳的		
-yap on		唠唠叨叨	"I'm trying to watch the game, but you're yapping on about your new clothes."	
+yap on	[ˈjɔːpən]	唠唠叨叨	"I'm trying to watch the game, but you're yapping on about your new clothes."	
 blabber	[ˈblæbər]	喋喋不休	"It's the third quater and you've blabbering on since the first!"	
 threaten	[ˈθret(ə)n]	威胁		
 mittens	[ˈmɪtnz]	露指手套		
 earmuffs	[ˈɪrmʌfs]	耳罩		
 turn over a new leaf		改过自新		
-wipe the slate clean		往事一笔勾销		
+wipe the slate clean	[waɪp ðə sleɪt kliːn]	往事一笔勾销		
 pinch pennies		精打细算		
 metaphor	[ˈmetəfər]	比喻	"It's just a metaphor, a way of say this is very competitive."	
 Then comes the hard part		然后难的地方来了		
@@ -896,7 +896,7 @@ minimal	[ˈmɪnɪm(ə)l]	极小的、极少的
 grill	[ɡrɪl]	烧烤、烤架		
 quaint	[kweɪnt]	古雅的		
 shutter	[ˈʃʌtər]	百叶窗		
-picket fence		尖桩篱笆栅栏		
+picket fence	[ˈpɪkɪt fens]	尖桩篱笆栅栏		
 pale yellow		淡黄色		
 rugs	[rʌɡz]	地毯		
 fireplace	[ˈfaɪərpleɪs]	壁炉		
@@ -912,7 +912,7 @@ journal	[ˈdʒɜːrn(ə)l]	期刊，日记
 make no sense		"没有意义 = don't make sense"		
 sarcasm (n)		讥讽，挖苦	"sarcastic 讥讽的，挖苦的 I can't stand your sarcastic jokes anymore. satire (n) 讽刺 多用于文艺作品 satirical (adj) 讽刺的 but it's more of a satirical way of speaking about businessman."	
 I though to myself		我暗自思忖		
-shuttle bus		班车		
+shuttle bus	[ˈʃʌtl bʌs]	班车		
 turn it over to		移交给(如：演讲时引出别人)		
 blessed	[ˈblesɪd]	幸运的，有福的		
 There are a lot of time where...		很多时候。。。	There are a lot of time where I‘d be sitting and doing nothing.	
@@ -929,7 +929,7 @@ I want to keep a pet dog.		我想养一只宠物狗。
 anticipate	[ænˈtɪsɪpeɪt]	预料	Something I did not anticipate is that... / We anticipate that sales will rise next year.	
 genuinely	[ˈdʒenjuɪnli]	多指心理上“真正的”，真诚的	I genuinely like... I genuinely believe in... I will genuinely be shocked at myself/ He was genuinely surprized.	
 You definitely check it out.		你一定要看看。		
-be obsessed with		迷上了...	But then we get a little bit obsessed with the details.	
+be obsessed with	[bi əbˈsest wɪð]	迷上了...	But then we get a little bit obsessed with the details.	
 on your terms		按照你自己的意愿	Go ahead and live your life on your terms.	
 fruition	[fruˈɪʃ(ə)n]	计划、目标、想法收效	These plans take times to come fruition. Make our goals come to fruition and our dreams come true.	
 pull off		赢得，完成	That is not an easy thing to pull off./ I’am sure you will pull off the competition./ I pull off a stunning victory.	
@@ -944,11 +944,11 @@ gripping	[ˈɡrɪpɪŋ]	(电影或故事)扣人心弦的	The film is so gripping
 deem	[diːm]	认为(正式)	Some people deem it is an dangerous signal.	
 highten		提高、增强	The move has hightende tension in the state. highten awareness of ... get heightened. heighten the drama	
 catch on		流行	It tooks quite a while to catch on in Europe.	
-low key		低调	lay low 保持低调	
+low key	[ˌləʊ ˈkiː]	低调	lay low 保持低调	
 go after		追求	go after the life that you want	
 mindset	[ˈmaɪndset]	心态，思维模式	"It's hard to understand sb's mindset. get used to the mindset of speaking in a different language. inhabit a positive mindset. 保持积极的心态"	
-snuff out		扼杀		
-be around		在(某地), (和某人)在一起	"She must be around somewhere. if you've been around this community for a while... I don't wanna be around you./ Be around confident people."	
+snuff out	[snʌf aʊt]	扼杀		
+be around	[bi əˈraʊnd]	在(某地), (和某人)在一起	"She must be around somewhere. if you've been around this community for a while... I don't wanna be around you./ Be around confident people."	
 come off		有“结果是”的意思	that type of journaling can come off really intimidating to a lot of people.	
 approachable	[əˈproʊtʃəbl]	平易近人的		
 encompass	[ɪnˈkʌmpəs]	包含，围住，覆盖		
@@ -963,7 +963,7 @@ revolt	[rɪˈvoʊlt]	造反	to rise in revolt The people rose in revolt against 
 chronic	[ˈkrɑːnɪk]	慢性的，长期的，严重的	chronicle 编年史	
 evacuation	[ɪˌvækjuˈeɪʃ(ə)n]	疏散，撤离		
 dissuade	[dɪˈsweɪd]	劝阻，制止		
-red tape		（官僚的）繁文缛节		
+red tape	[ˌred ˈteɪp]	（官僚的）繁文缛节		
 tarrif		关税		
 clasy		优质的，上等的		
 what was it like...		怎么样		
@@ -981,9 +981,9 @@ drift off to sleep		慢慢睡去
 in a row		连续	He call me three times in a row. do something four years in a row	
 answer the phone		接电话		
 mantra	[ˈmɑːntrəˌˈmæntrə]	口头禅		
-chill out		放松		
+chill out	[ˈtʃɪl aʊt]	放松		
 reflect	[rɪˈflekt]	除了反射，还有“反思”的意思	While the sun starts to go down, I reflect on how I spent my time.	
-pretty much		=almost 几乎	Pretty much every kitchen has something that you eat on, right?	
+pretty much	[ˈprɪti mʌtʃ]	=almost 几乎	Pretty much every kitchen has something that you eat on, right?	
 set forward the watch/clock		拨快手表/钟表		
 natural disasters		自然灾害		
 unprecedented	[ʌnˈpresɪdentɪd]	前所未有的，史无前例的，空前的	"It's an unprecedented success."	
@@ -996,7 +996,7 @@ stay tuned		继续收看	"Stay tuned to this series for more on the topic./ Stay
 hydro power		水力发电	hydroelectric station 水力发电站 take advantage of the floating of the water to genarate power.	
 supper	[ˈsʌpər]	= dinner 晚餐 （美国南部更常用）	The last supper.最后的晚餐	
 crispy	[ˈkrɪspi]	酥脆的		
-soy sauce		酱	soy bean 大豆	
+soy sauce	[ˌsɔɪ ˈsɔːs]	酱	soy bean 大豆	
 onion	[ˈʌnjən]	洋葱		
 garlic	[ˈɡɑːrlɪk]	大蒜		
 ginger	[ˈdʒɪndʒər]	生姜		
@@ -1007,10 +1007,10 @@ attendant	[əˈtendənt]	（加油站或停车场的）服务员
 gasoline	[ˈɡæsəliːn; ˌɡæsəˈliːn]	汽油(美)	petrol(英)	
 acronym	[ˈækrənɪm]	首字母缩略词		
 pulse	[pʌls]	脉搏	His pulse rate dropped suddenly.	
-anytime soon		近期	...do sth anytime soon	
+anytime soon	[ˈeniˌtaɪm suːn]	近期	...do sth anytime soon	
 fracture	[ˈfræktʃər]	断裂，骨折		
 all you ever do		你就只会。。。		
-scenic route		观光路线		
+scenic route	[ˈsiːnɪk ruːt]	观光路线		
 prosecution	[ˌprɑːsɪˈkjuːʃ(ə)n]	控告方		
 defendant	[dɪˈfendənt]	被告		
 testimony	[ˈtestɪmoʊni]	证词		
@@ -1022,18 +1022,18 @@ spring	[sprɪŋ]	还有“突然跳”的意思	spring into my mind inmmediately
 trait	[treɪt]	特征、特质	I think your brand examplifies many of the same traits as my brand. Honesty proves to be a very important  trait of a person.	
 tariff	[ˈtærɪf]	关税		
 cut corners		偷工减料，投机取巧，抄近路		
-hand down		传下去	The idea of handing down his knowledge from generation to generation is important to me. be handed down from ancestors 从祖先传承下来	
+hand down	[hænd daʊn]	传下去	The idea of handing down his knowledge from generation to generation is important to me. be handed down from ancestors 从祖先传承下来	
 later get back to you		稍后再回复你		
 scam	[skæm]	(非正式)欺骗	get scammed 被骗	
 exceed	[ɪkˈsiːd]	超过	Its research budget exceeds $700 million a year.	
 cart	[kɑːrt]	购物车		
 plunge	[plʌndʒ]	投入(水中)	plunge into water 突然陷入 plunge into chaos 骤降 stock market took a huge pluange	
-bull market		牛市	bear market 熊市 （bear 熊、容忍 beer 啤酒）	
+bull market	[ˈbʊl mɑːkɪt]	牛市	bear market 熊市 （bear 熊、容忍 beer 啤酒）	
 nerve-racking	[ˈnɜːrv rækɪŋ]	伤脑筋的，令人神经紧张的		
 in-laws	[ˈɪn lɔːz]	亲家	mother in law 岳母 father in law 岳父	
 thanks for having me		谢谢您的款待		
 last will and testament		临终遗嘱		
-reside in		居住在，存在于		
+reside in	[rɪˈzaɪd ɪn]	居住在，存在于		
 sound	[saʊnd]	还有“健康的，状况良好的”意思	sound mind and body 健全的心智和身体（身心健康）	
 instrument	[ˈɪnstrəmənt]	器械、乐器、仪器，手段		
 revoke	[rɪˈvoʊk]	撤销、废除	The government revoked her licence\ The police revoke her dirver lience	
@@ -1049,7 +1049,7 @@ descent	[dɪˈsent]	下降、斜坡、血统	区分：decent 像样的 She was o
 be cremated		火化、火葬		
 as follows		如下	Please do as follows 请按如下方式操作	
 burial plot		墓地		
-sort out		挑出来、整理、解决		
+sort out	[ˈsɔːt aʊt]	挑出来、整理、解决		
 reckless	[ˈrekləs]	鲁莽的		
 clumsy	[ˈklʌmzi]	笨拙的		
 outspoken	[aʊtˈspoʊkən]	直言不讳的		
@@ -1062,7 +1062,7 @@ sausage	[ˈsɔːsɪdʒ]	香肠、腊肠
 olive	[ˈɑːlɪv]	橄榄		
 cucumber	[ˈkjuːkʌmbər]	黄瓜		
 pickle	[ˈpɪkl]	泡菜、腌菜、咸菜	pickled cucumber 腌黄瓜	
-skimmed milk		脱脂牛奶		
+skimmed milk	[ˌskɪmd ˈmɪlk]	脱脂牛奶		
 fat	[fæt]	还有“脂肪”的意思		
 Get a move on		赶快		
 Nerver mind that.		别管那些/ 别介意那些		
@@ -1070,21 +1070,21 @@ way more		=much more （非正式，口语化）	Stats are just way more importa
 have is that...		据说	rumour \ report \legend has it that... 据谣传、据报道、据传说。。。	
 decline	[dɪˈklaɪn]	下降、谢绝		
 downward trend		下跌趋势	...if the downward trend continues, population could stark shrinking soon...	
-stem from		出自于	All my problems stem from drink / ...the decline in births stemmed from a combination of factors...	
+stem from	[stem frəm]	出自于	All my problems stem from drink / ...the decline in births stemmed from a combination of factors...	
 feed themself		养活自己	"They don't has as much as we do, and don't have enough money to feed themself."	
-make ends meet		收支平衡，引申为“维持生计”	Many families struggle to make ends meet.	
+make ends meet	[meɪk endz miːt]	收支平衡，引申为“维持生计”	Many families struggle to make ends meet.	
 needy	[ˈniːdi]	贫困的		
 finalize	[ˈfaɪnəlaɪz]	确定、敲定	finalize the agreement.	
-pitch in		投入、贡献	Can you pitch in a little of your time with this project that I have?	
+pitch in	[pɪtʃ ɪn]	投入、贡献	Can you pitch in a little of your time with this project that I have?	
 fall on hard time		陷入困境		
 acrimonious	[ˌækrɪˈmoʊniəs]	（言辞、辩论）激烈的，尖刻的 （词根：acri：尖的）		
-get down to business		开始干正事		
+get down to business	[ɡet daʊn tu ˈbɪznəs]	开始干正事		
 proposal	[prəˈpoʊz(ə)l]	(n)提议，建议	marriage proposal 求婚 to table a proposal 提出建议 rationalization proposal 合理化建议 propose (v)提议（词根：pro-前,公开 + -pos-放置 + -al）	
 business proposal		商业计划书；投资建议书		
 custody	[ˈkʌstədi]	监护权		
 antique	[ænˈtiːk]	古董、古老的		
 gramophone	[ˈɡræməfoʊn]	留声机		
-drag out		拖延	"I don't want to drag this out any longer than necessary."	
+drag out	[dræɡ aʊt]	拖延	"I don't want to drag this out any longer than necessary."	
 alley	[ˈæli]	小巷	ally 同盟	
 reconcile	[ˈrekənsaɪl]	调和、和解	reconcile with sb	
 quintessential	[ˌkwɪntɪˈsenʃl]	典型的[正式]	Everybody thinks of him as the quintessential New Yorker.	
@@ -1094,7 +1094,7 @@ detrimental	[ˌdetrɪˈment(ə)l]	有害的、不利的	It can be extremely detr
 scheme	[skiːm]	计划、方案	We devised a scheme to help him. （schedule 日程）	
 live in the boonies		生活在穷乡僻壤		
 refit	[ˈriːfɪt]	整修、改装		
-hybrid vehicle		混合动力车		
+hybrid vehicle	[ˈhaɪbrɪd ˈviːəkl]	混合动力车		
 feasible	[ˈfiːzəb(ə)l]	可行的	hybrid vehicle and solar panels are too expensive to be feasible right now.	
 hippies	[ˈhɪpiz]	嬉皮士		
 carpool	[ˈkɑːrpuːl]	拼车	I carpool to work with some buddies(兄弟) of mine.	
@@ -1107,9 +1107,9 @@ disposable	[dɪˈspoʊzəb(ə)l]	一次性的 （cups or cutlery）杯子或餐�
 emit	[iˈmɪt]	放出、发出(气体、气味、光、热)	The gas that emitted from exhaust pipe.	
 global climate change		全球气候变化		
 energy efficient		节能的		
-light bulb		电灯泡		
+light bulb	[ˈlaɪt bʌlb]	电灯泡		
 ecosystem	[ˈiːkoʊsɪstəm]	生态系统		
-sustainable development		可持续发展		
+sustainable development	[səˈsteɪnəbl dɪˈveləpmənt]	可持续发展		
 beard	[bɪrd]	大胡子	mustache 小胡子	
 burglar	[ˈbɜːrɡlər]	窃贼	burglar alarm 防盗警报	
 park bench		公园长椅		
@@ -1149,23 +1149,23 @@ swallow	[ˈswɑːloʊ]	吞咽
 swollen	[ˈswoʊlən]	肿胀		
 antibiotic	[ˌæntibaɪˈɑːtɪk]	抗生素		
 sedative	[ˈsedətɪv]	镇定剂		
-make time		抽时间	Thank you so much for making some time to see me.	
+make time	[meɪk taɪm]	抽时间	Thank you so much for making some time to see me.	
 insomnia	[ɪnˈsɑːmniə]	失眠		
 melatonin	[ˌmeləˈtoʊnɪn]	褪黑素		
 dreadful	[ˈdredf(ə)l]	糟糕透顶的	dread v. 恐惧、畏惧 I dread being sick. I dread to think what will happen in a case of major emergency.	
 "apply to one's situation"		不适用于xx的情况		
 transient	[ˈtrænʃ(ə)nt]	短期的，短暂的	transient effect /reduction	
-do the trick		奏效	"It won't do the trick."	
+do the trick	[duː ðə trɪk]	奏效	"It won't do the trick."	
 wilderness	[ˈwɪldərnəs]	荒野		
 periodical	[ˌpɪriˈɑːdɪk(ə)l]	期刊，定期的		
 quarterly	[ˈkwɔːrtərli]	季度的		
 head straight for...		直奔去。。。	Everyday I wake up and head straight for shower.	
 conditioner	[kənˈdɪʃənər]	护发素	air conditioner 空调	
 rinse... out		冲洗掉	rinse out mouth 漱口	
-manage to		设法做	I seldom manage to take a shower in under twenty minutes.	
+manage to	[ˈmænɪdʒ tu]	设法做	I seldom manage to take a shower in under twenty minutes.	
 afterwards	[ˈæftərwərdz]	之后，后来		
 brew	[bruː]	冲、沏（咖啡，茶）	He brewed a pot of coffee.	
-every now and then		= from time to time 时不时的		
+every now and then	[ˈevri naʊ ənd ðen]	= from time to time 时不时的		
 "That's more like it"		那还差不多，那才像话		
 walk	[wɔːk]	还有 遛(狗)的意思	feed it, bathe it, and walk it everyday.	
 fulfilling	[fʊlˈfɪlɪŋ]	令人满足的，使人有成就感的		
@@ -1196,9 +1196,9 @@ restless	[ˈrestləs]	坐立不安的
 go all out		全力以赴		
 embryo	[ˈembrioʊ]	胚胎	fetus 胎儿	
 remuneration	[rɪˌmjuːnəˈreɪʃ(ə)n]	薪酬		
-per annum		每年 [拉丁，书面]		
+per annum	[pər ˈænəm]	每年 [拉丁，书面]		
 overview	[ˈoʊvərvjuː]	概览		
-housing allowance		住房津贴		
+housing allowance	[ˈhaʊzɪŋ əˈlaʊəns]	住房津贴		
 trophy	[ˈtroʊfi]	奖杯		
 quarterfinal	"[,kwɔ:tə'fainəl]"	四分之一决赛		
 semifinal	[ˌsemaɪˈfaɪnl; ˌsemiˈfaɪnl]	半决赛		
@@ -1223,11 +1223,11 @@ pointy	[ˈpɔɪnti]	尖尖的
 freckle	[ˈfrek(ə)l]	雀斑		
 dimple	[ˈdɪmp(ə)l]	酒窝		
 oval	[ˈoʊv(ə)l]	蛋形	ellipse [数]椭圆形	
-spring to mind		想到、脑海呈现	If any other question spring to mind...	
+spring to mind	[sprɪŋ tu maɪnd]	想到、脑海呈现	If any other question spring to mind...	
 shortlist	[ˈʃɔːrtlɪst]	候选名单		
 converse	[kənˈvɜːrs]	交谈、相反的、[品牌]匡威	"converse in english converse with someone conversation The main topic of conversation was Tom's new girlfriend. 辨析：communicate 偏向于“交流”"	
 an array of		大量、各种		
-press against		挤压		
+press against	[pres əˈɡenst]	挤压		
 floss	[flɑːs]	牙线	floss or brush your teeth / dental floss	
 anesthetic	[ˌænəsˈθetɪk]	麻醉剂	anesthetize 使麻醉	
 brace	[breɪs]	支撑、牙套	brace yourself for some diffcult thing. brace up 振作起来	
@@ -1248,23 +1248,23 @@ chamber	[ˈtʃeɪmbər]	...室	torture chamber 酷刑室 cold chamber 冷却室
 touch on		谈及，涉及		
 marketing campaign		营销活动		
 rival	[ˈraɪv(ə)l]	匹敌者	competitor 竞争者 enemy 敌人 opponent 对手	
-in leaps and bounds		迅速的	Wireless banking is growing in leaps and bounds. / leap（跳跃）bound（弹跳）	
-down to		有归结于...的意思	...is certainly down to the hard work of all of you here. (成功)归结于这儿的每一个人	
+in leaps and bounds	[ɪn liːps ənd baʊndz]	迅速的	Wireless banking is growing in leaps and bounds. / leap（跳跃）bound（弹跳）	
+down to	[daʊn tu]	有归结于...的意思	...is certainly down to the hard work of all of you here. (成功)归结于这儿的每一个人	
 going from strength to strength		变得越来越强大		
 nanny	[ˈnæni]	保姆		
 Are you up for some ...		要来点。。。吗？	Are you up for grabing a bite to eat later on?	
 This way ...		这样一来。。。		
 refer	[rɪˈfɜːr]	还有“介绍”的意思	I can refer you a great nanny Amy. 我可以介绍你一个好的保姆Amy。	
-now and then		时不时		
-run some errands		办些杂事、跑腿	Tomorrow I have to run some errands for my mom.	
+now and then	[naʊ ənd ðen]	时不时		
+run some errands	[rʌn səm ˈerəndz]	办些杂事、跑腿	Tomorrow I have to run some errands for my mom.	
 juggle	[ˈdʒʌɡl]	杂耍、兼顾应付	I have to juggle lots of different thing./ I have to juggle such a busy schedule.	
 convention	[kənˈvenʃ(ə)n]	习俗、惯例、公约	international convention 国际惯例	
 conventional	[kənˈvenʃən(ə)l]	传统的		
 bogus	[ˈboʊɡəs]	假冒的		
 cut-throat	[ˈkʌt θroʊt]	(竞争)残酷的、激烈的	the cut-throat competition in personal computers.	
 untapped	[ˌʌnˈtæpt]	未利用的	untapped potential market 未开发的潜在市场	
-tap into		挖掘、对。。善加利用		
-market share		市场占有率		
+tap into	[tæp ˈɪntə]	挖掘、对。。善加利用		
+market share	[ˌmɑːkɪt ˈʃeə(r)]	市场占有率		
 drop in the ocean		沧海一粟 (这里drop是水滴的意思)		
 reap	[riːp]	获得	reap the benefits of... reap huge rewards in a very short time frame（时间范围）	
 compare and contrast		比较和对比	compare倾向于比较相同点，contrast倾向于比较差异点	
@@ -1291,17 +1291,17 @@ breathtaking	[ˈbreθteɪkɪŋ]	令人惊叹的
 workmanship	[ˈwɜːrkmənʃɪp]	工艺		
 foremost	[ˈfɔːrmoʊst]	首要的、最好的	"He was one of the world's foremost scholars of ancient Indian culture 。This question has been foremost in our minds recently"	
 value for money		划算、物有所值	It is good value for money for our customers.	
-hands down		轻而易举的	We really win hands down on value for money	
-sleep tight		睡个好觉		
+hands down	[hændz daʊn]	轻而易举的	We really win hands down on value for money	
+sleep tight	[sliːp taɪt]	睡个好觉		
 toss and turn		辗转反侧(睡不着)	toss 扔、抛	
-hit the hay		睡觉(俚语)	hay 干草	
+hit the hay	[hɪt ðə heɪ]	睡觉(俚语)	hay 干草	
 snooze	[snuːz]	小睡、打盹		
 drop something off		落下	I dropped my computer off at the repair shop.	
 accidentally	[ˌæksɪˈdentəli]	不小心地	You might try accidentally breaking something valuable of hers.	
 here is the deal		你看这样行不行；事情是这样的		
-parking lot		停车场		
+parking lot	[ˈpɑːkɪŋ lɒt]	停车场		
 cliche	[#N/A]	陈词滥调	"That's a cliche story."	
-rough patch		困难时期	temporary time period time where things are going bad.	
+rough patch	[rʌf pætʃ]	困难时期	temporary time period time where things are going bad.	
 sulk	[sʌlk]	生闷气		
 soak	[soʊk]	浸透、浸泡	you are soaked. 你全身都浸湿了	
 "It's not worth my time."		不值得我浪费时间。		
@@ -1320,14 +1320,14 @@ impractical	[ɪmˈpræktɪk(ə)l]	不切实际的
 get myself together		自己调整好状态		
 costume	[ˈkɑːstuːm]	服装、戏装		
 rehearsal	[rɪˈhɜːrs(ə)l]	彩排、排练		
-trace amount		微量		
-nap time		午睡时间		
+trace amount	[treɪs əˈmaʊnt]	微量		
+nap time	[næp taɪm]	午睡时间		
 millennial	[mɪˈleniəl]	千禧年的		
 optimal	[ˈɑːptɪməl]	最佳的、最优的	optimal choice 最优选择	
 for free		免费地	You can use them for free.	
 lately	[ˈleɪtli]	最近	"I've been super busy lately. (lately 常常和have been搭配，意为“最近”) recently 更倾向于“不久前”"	
 one hour or even less.		前面表达数量，后面加一个 or even less 搭配		
-be proficient in		精通。。。		
+be proficient in	[bi prəˈfɪʃnt ɪn]	精通。。。		
 chitchat	[ˈtʃɪtˌtʃæt]	闲聊	stopped their chitchat to listen	
 flawless	[ˈflɔːləs]	完美无瑕的		
 mindful	[ˈmaɪndfl]	留意的	be mindful of ...	
@@ -1338,7 +1338,7 @@ sketch	[sketʃ]	草图、素描、速写
 profound	[prəˈfaʊnd]	深刻的、深奥的、高深的		
 "Valentine's Day"		情人节		
 underlying	[ˌʌndərˈlaɪɪŋ]	潜在的	To stop a problem you have to understand its underlying causes	
-carry on		继续	"xxx is the thing that's going to be carry you on throughout the years."	
+carry on	[ˈkæri ɒn]	继续	"xxx is the thing that's going to be carry you on throughout the years."	
 revise	[rɪˈvaɪz]	修正、复习(英)		
 entertain myself		自娱自乐		
 supplemental	[ˌsʌpləˈmentl]	补充的、额外的	supplemental practice 额外的练习	
@@ -1354,7 +1354,7 @@ subsequent	[ˈsʌbsɪkwənt]	随后的
 descend	[dɪˈsend]	下（楼梯等）、下降	descend into	
 excavate	[ˈekskəveɪt]	挖掘（ex-, 向外。cave, 洞穴）	They plan to excavate a large hole. excavator 挖掘机	
 meet standard		符合标准	All fair trade products must meet standards such as these	
-go viral		走红、疯狂传播		
+go viral	[ɡoʊ ˈvaɪrəl]	走红、疯狂传播		
 drill	[drɪl]	钻孔、钻机、操练	we should run some drills	
 saw	[sɔː]	锯子		
 grind	[ɡraɪnd]	磨碎、碾碎	grinder 研磨机	
@@ -1415,7 +1415,7 @@ presentation	[ˌpriːz(ə)nˈteɪʃ(ə)n]	外观、颁奖仪式、演示会
 rational	[ˈræʃ(ə)nəl]	合理的、理性的		
 irrational	[ɪˈræʃən(ə)l]	不合理的，非理性的	irrational number 无理数	
 voyage	[ˈvɔɪɪdʒ]	航行		
-zip code		邮政编码		
+zip code	[ˈzɪp kəʊd]	邮政编码		
 cultivate	[ˈkʌltɪveɪt]	培养、开垦、种植	I want to cultivate the relationship with myself. \ cultivate fruit and vegetables	
 escalate	[ˈeskəleɪt]	逐步升级、变得严重	The protests escalated into five days of rioting.	
 evacuate	[ɪˈvækjueɪt]	撤离 （e-出,向外 + -vacu-空）		
@@ -1439,7 +1439,7 @@ nurture	[ˈnɜːrtʃər]	培育、培养 [词源：nurse：护理、养育]
 regulate	[ˈreɡjuleɪt]	控制、调节	They regulate our climate, purify our water. 净化水源	
 stronghold	[ˈstrɔːŋhoʊld]	要塞、据点	Today, there are some of the last strongholds of wildness[荒野] and wildlife[野生动物].	
 tropical	[ˈtrɑːpɪk(ə)l]	热带的	tropical forest 热带森林 tropic 热带	
-draw to		被...吸引	Many of the creatures here are all drawn to the very same place.	
+draw to	[drɔː tu]	被...吸引	Many of the creatures here are all drawn to the very same place.	
 start from scratch		从零开始	study to learn a language form scratch	
 criterion	[kraɪˈtɪriən]	准则，标准 Practice is the sole criterion of truth.		
 saliva	[səˈlaɪvə]	唾液		
@@ -1465,7 +1465,7 @@ better off		好得多	"She's better off without him."
 land a job		找到工作	He land a good job.	
 arsenal	[ˈɑːrsənl]	军火、军火库	nuclear arsenal 核武器 （同时也是足球队“阿森纳”的英语）	
 foundation	[faʊnˈdeɪʃ(ə)n]	基础、地基、粉底	lay foundation 奠定基础 lay foundation for the next step	
-facial expression		面部表情		
+facial expression	[ˈfeɪʃl ɪkˈspreʃn]	面部表情		
 easier said than done		说来容易做起来难		
 premiere	[prɪˈmɪr]	(电影)首映		
 setback	[ˈsetbæk]	挫折	That would be a severe setback. 那将会是一个严重的挫折。	
@@ -1495,13 +1495,13 @@ vent	[vent]	通风口、发泄	She gave vent to her anger and jealousy.
 photocopy	[ˈfoʊtoʊkɑːpi]	复印、复印件		
 furnace	[ˈfɜːrnɪs]	火炉、熔炉		
 构成相关的单词		如下	compose = to create 多为主动，也可以被动 Ten men compose the committee 名词：composition 成分、作文 comprise：be comprise of The class is comprised mainly of Italian and French students. consist：consist of 包括（不能是被动）The team consists of four Europeans and two Americans. constitute：Women constitute about ten percent of Parliament. 名词：constitution 宪法	
-come down to		可归结为	comes down to the two big reasons. The problem comes down to money.	
+come down to	[kʌm daʊn tu]	可归结为	comes down to the two big reasons. The problem comes down to money.	
 molecule	[ˈmɑːlɪkjuːl]	分子		
 commiserate	[kəˈmɪzəreɪt]	同情、怜悯	com-共同 miser =miserable 痛苦	
 exclusive	[ɪkˈskluːsɪv]	独家的、独有的、专用的	exclusive partnership 独家合作伙伴	
 scramble	[ˈskræmb(ə)l]	攀爬、炒、争夺	scramble for sth 争夺某物 \ scramble to do sth 争前恐后做。。	
 settle	[ˈset(ə)l]	还有“和解”的意思	the matter was settled out of court.	
-track down		追踪	The police have so far failed to track down the attacker.	
+track down	[træk daʊn]	追踪	The police have so far failed to track down the attacker.	
 notify	[ˈnoʊtɪfaɪ]	通知、告知	notify sb of sth. 向某人告知。。 The team notifies vendors of vulnerabilities immediately. 小组迅速向品牌方告知了漏洞。	
 disclose	[dɪsˈkloʊz]	透露	Neither side would disclose details of the transaction.	
 come under fire form...		收受到。。的责难、谴责		
@@ -1518,7 +1518,7 @@ intercept	[ˌɪntərˈsept]	拦截 （cept-有“拿”的意思 ）
 infect	[ɪnˈfekt]	传染、[计算机]感染(病毒)		
 encrypted	[ɪnˈkrɪptɪd]	加密、加密的		
 opt out of		选择退出	you may want to opt out of this feature	
-simply put		简言之		
+simply put	[ˈsɪmpli pʊt]	简言之		
 criteria	[kraɪˈtɪriə]	准则，(评判的)标准	"What criteria are used for assessing(评估) a student's ability?"	
 compromise	[ˈkɑːmprəmaɪz]	折中、妥协 （com-共同 promise-承诺）		
 comprehend	[ˌkɑːmprɪˈhend]	理解、领悟 （com-全部 prehend-抓住）		
@@ -1543,16 +1543,16 @@ sculpture	[ˈskʌlptʃər]	雕塑	statue 雕像
 among others		以及其他、等等		
 graded reader		分级读物		
 vague	[veɪɡ]	含糊的、不明确的		
-down to earth		脚踏实地的、务实的		
+down to earth	[ˌdaʊn tu ˈɜːθ]	脚踏实地的、务实的		
 frown upon		不赞成、对..不悦	And they might frown upon our behavior.	
-mutually beneficial		互惠互利的		
+mutually beneficial	[ˈmjuːtʃuəli ˌbenɪˈfɪʃl]	互惠互利的		
 schedule	[ˈskedʒuːl]	日程表、计划	according to schedule 按计划	
 patriotic	[ˌpeɪtriˈɑːtɪk]	爱国的		
 precede	[prɪˈsiːd]	在...之前 （时间段、文本）		
-by comparison		相比之下		
-at best		最多、顶多	At best she is an adequate typist. 她至多是个称职的打字员。	
+by comparison	[baɪ kəmˈpærɪsn]	相比之下		
+at best	[æt best]	最多、顶多	At best she is an adequate typist. 她至多是个称职的打字员。	
 adequate	[ˈædɪkwət]	足够的，胜任的	I have no adequate preparation. 我没有充分的准备。	
-a while back		前阵子	I had an experience a while back that I would just share with you	
+a while back	[ə waɪl bæk]	前阵子	I had an experience a while back that I would just share with you	
 premature	[ˌpriːməˈtʃʊr]	过早的 （pre-前,先 + mature成熟的）	premature death 早逝 premature infant 早产儿	
 ruminate	[ˈruːmɪneɪt]	沉思	He ruminated on the terrible wastefulness that typified American life.	
 proficiency	[prəˈfɪʃ(ə)nsi]	熟练度	limited English proficiency 英语水平有限 high proficiency in reading	
@@ -1574,7 +1574,7 @@ exterminate	[ɪkˈstɜːrmɪneɪt]	灭除
 go back from...		从。。。回来		
 booklet	[ˈbʊklət]	小册子		
 or rather		或者说、倒不如说		
-pop up		突然出现		
+pop up	[pɒp ʌp]	突然出现		
 amend	[əˈmend]	修正	When something not working, I jusat amend and continue.	
 summarize	[ˈsʌməraɪz]	总结	summarize my language learning progress every week. 每周总结我的语言学习进度	
 entry	[ˈentri]	还有“词目，词条“的意思	diary entry 日记条目	
@@ -1588,27 +1588,27 @@ identity	[aɪˈdentəti]	身份、认同	identity card 身份证 gender/social/n
 identify	[aɪˈdentɪfaɪ]	确认、认同	police/scientist/research have identified ... We need to identify the actual problem.	
 hone	[hoʊn]	磨炼	hone your language skills	
 take sth seriously		重视、认真对待	"I didn't always take languages very seriously at school"	
-take up		不止是“占据”的意思，重要的还有 ”开始“的意思	take up a new challenge/ career/ hobby/ language	
+take up	[ˈteɪk ʌp]	不止是“占据”的意思，重要的还有 ”开始“的意思	take up a new challenge/ career/ hobby/ language	
 motto	[ˈmɑːtoʊ]	座右铭	"that's really the motto I want to adopt for this year."	
 incorporate	[ɪnˈkɔːrpəreɪt]	包含[正式]、纳入、融入	You can incorporate languages into your daily life.	
 corporate	[ˈkɔːrpərət]	公司的、企业的		
 come upon		偶遇	I came upon an old friend in the street today	
 scold	[skoʊld]	训斥、责骂		
-the general public		群众、公众	The site is off-limits to the general public. 这个场所不对公众开放。	
+the general public	[ðə ˌdʒenrəl ˈpʌblɪk]	群众、公众	The site is off-limits to the general public. 这个场所不对公众开放。	
 general	[ˈdʒen(ə)rəl]	总体的、大概的、普遍的、首席的	general manager 总经理 general election 大选 as a general rule 一般而言	
 cereal	[ˈsɪriəl]	麦片		
 tablet	[ˈtæblət]	除了“药片”，还有“平板(电脑)”的意思		
 artificial	[ˌɑːrtɪˈfɪʃ(ə)l]	人造的 （art- 技艺）		
 authentic	[ɔːˈθentɪk]	真正的、正宗的		
 stock up		囤积、大量储备		
-amount to		达到，总计于	"In the 1980's computer ownership amounted to around 0.35% of the total world population."	
+amount to	[əˈmaʊnt tu]	达到，总计于	"In the 1980's computer ownership amounted to around 0.35% of the total world population."	
 carbonated beverage		(饮料 书面) 碳酸饮料	All food and beverage service have been suspended at this time.	
 refer to as		把...称作...	In this post, we’ll explore what I refer to as the “slow-carb diet” 在这篇文章中，我将探索究一下我说指的“低碳水饮食”。	
 regarding	[rɪˈɡɑːrdɪŋ]	也能代替 about，	She has said nothing regarding your request. 关于你的要求，她什么也没说。	
-crystal clear		晶莹剔透的		
+crystal clear	[ˌkrɪstl ˈklɪə(r)]	晶莹剔透的		
 gutter	[ˈɡʌtər]	排水沟		
 imaginative	[ɪˈmædʒɪnətɪv]	富有想象力的		
-reach out to		接触		
+reach out to	[riːtʃ aʊt tu]	接触		
 unveil	[ˌʌnˈveɪl]	揭幕、公布	He plans to unveil those policies later in June. 他计划在6月下旬公开具体政策。	
 hammer home		再三强调	He was here to hammer home plans to spend more on education. To hammer home this point	
 reunion	[ˌriːˈjuːniən]	重聚		
@@ -1616,17 +1616,17 @@ likewise	[ˈlaɪkwaɪz]	我也是，同样的
 trendy	[ˈtrendi]	时髦的		
 parlor	[ˈpɑːrlər]	厅、馆、店	pizza parlor 披萨店 beauty parlor 美容院 tattoo parlor 纹身店 funeral parlor 殡仪馆	
 sterilized	[ˈsterəlaɪzd]	无菌的	sterilize 给...消毒 All equipments must be sterilized before use. 所有的设备在使用前都要消毒。	
-lend a hand		搭把手、帮个忙	Could you lend a hand a second?	
+lend a hand	[lend ə hænd]	搭把手、帮个忙	Could you lend a hand a second?	
 crop up		突然出现 (crop 是庄稼的意思)	Keep calm when problems crop up. Did something unexpected crop up?	
 bracelet	[ˈbreɪslət]	手镯	pendant 坠饰 gemstone 宝石 ruby 红宝石、深红色	
 platinum	[ˈplætɪnəm]	白金		
 appetizer	[ˈæpɪtaɪzər]	开胃菜	main course 主菜	
-smart casual		休闲装		
+smart casual	[ˌsmɑːt ˈkæʒuəl]	休闲装		
 scenic	[ˈsiːnɪk]	风景优美的	scenic spot 景点 scenery 风景	
 What do you do for a living?		你是做什么工作的		
 volume	[ˈvɑːljəm]	除了“音量”，还有“体积”的意思	How do you measure the volume of a gas?	
 flyer	[ˈflaɪər]	传单		
-wrap up		圆满完成	Let me wrap up the presentation by summarising my key points.	
+wrap up	[ræp ʌp]	圆满完成	Let me wrap up the presentation by summarising my key points.	
 outset	[ˈaʊtset]	开始、开端	at the outset 起初 As I mentioned at the outset 像我起初提到的那样	
 inclination	[ˌɪnklɪˈneɪʃ(ə)n]	意向	She showed no inclination to go. 她没有表现出要走的意向。	
 elaborate	[ɪˈlæbərət]	复杂精美的、详细阐述	We will elaborate on this in the next section. 我们将在下一节对此进行详细说明。 He is known for his elaborate costumes. 他以其繁丽的服装著称。	
@@ -1652,15 +1652,15 @@ curry	[ˈkɜːri]	咖喱
 fluffy	[ˈflʌfi]	(毛巾)柔软，(面包、糕点)松软		
 sharp	[ʃɑːrp]	还有“整时、整点”的意思	at 8:00 sharp 在8点整	
 irritate	[ˈɪrɪteɪt]	刺激、激怒	irritating 烦人的、恼人的	
-up to date		最新的	We are keeping up to date with the latest developments.	
-licence plate		车牌		
+up to date	[ˌʌp tə ˈdeɪt]	最新的	We are keeping up to date with the latest developments.	
+licence plate	[ˈlaɪsns pleɪt]	车牌		
 respiration	[ˌrespəˈreɪʃ(ə)n]	呼吸	artificial respiration 人工呼吸 cellular respiration 细胞呼吸	
 grape	[ɡreɪp]	葡萄	glucose 葡萄糖 fructose 果糖 lactose 乳糖 lactose intolerant 乳糖不耐症	
 stumble	[ˈstʌmb(ə)l]	绊倒、踉跄	He stumbled and almost fell. 他绊了一下，差点儿摔倒。 stumble upon/across/on 意外发现、意外遇到	
 step away from...		离...远点		
 walk sb to		送某人到	Can I walk you to the elevator? 我能送你到电梯吗？	
 for the record		声明一下	By the way, for the record...	
-if anything		要说有什么的话		
+if anything	[ɪf ˈeniθɪŋ]	要说有什么的话		
 give it a shot		试一下		
 warm up to		开始有好感	I am warming up to her already.	
 disturbing	[dɪˈstɜːrbɪŋ]	令人不安的	I will show you something disturbing, so brace yourself.	
@@ -1683,7 +1683,7 @@ quotation	[kwoʊˈteɪʃ(ə)n]	引语、报价
 To whom it may concern		致相关人员		
 back up a second		等一下		
 due	[duː]	预期的	Please note that final payment is due two working weeks before publication 请注意，最后的付款被预期在两个工作周之前支付	
-play it safe		求稳		
+play it safe	[pleɪ ɪt seɪf]	求稳		
 kind regards		亲切的问候	give him my kind regards. 请代我向他致以亲切的问候 Once again my sincere thanks and kind regards. 再次致以诚挚的感谢和亲切的问候	
 confirm the deal		达成交易	And hopefully they are going to confirm the deal on the Wednesday.	
 fingers crossed		手指交叉(祈求好运)	"I'll keep my fingers crossed for you. 我将为你祈祷。"	
@@ -1696,20 +1696,20 @@ Have you got a sec		你有时间吗
 you bet		当然		
 first off		首先		
 gross pay		工资总额	gross 除了“恶心”，还有“总”的意思 grossly 也可指“严重的”意思	
-net pay		净工资		
-income tax		所得税	sale tax 销售税 property tax 财产税	
+net pay	[net peɪ]	净工资		
+income tax	[ˈɪnkʌm tæks; ˈɪnkəm tæks]	所得税	sale tax 销售税 property tax 财产税	
 eligible	[ˈelɪdʒəb(ə)l]	有资格的、符合条件的【近义词 qualified】	"He's only 17 and therefore not eligible to vote. 他只有17岁，因此没有投票选举的资格。"	
 pull up a chair		拉把椅子(坐下说)		
 quarantine	[ˈkwɔːrəntiːn]	隔离、检疫 (词源来自quara 40)	put sb into quarantine 对...实施隔离 be quarantined 被隔离	
 chuck	[tʃʌk]	随意乱扔	Why did you chuck that peanut at me?	
 running nose		流鼻涕	I have watery eyes and a running nose. 我的眼睛流泪，鼻子流鼻涕。	
 soaked	[soʊkt]	浸湿的	you are soaked. 你全身都浸湿了	
-lunch break		午休时间		
-bring up		养育、提出	This is a really important point, I’m glad you brought it up.	
+lunch break	[lʌntʃ breɪk]	午休时间		
+bring up	[brɪŋ ʌp]	养育、提出	This is a really important point, I’m glad you brought it up.	
 "i'm in a hurry"		我赶时间		
 career ladder		职业阶梯		
 does wonder		产生奇效	I heard it does wonders in getting you up to the top. it does wonders to your skin.	
-Admission Test		入学考试		
+Admission Test	[ədˈmɪʃn test]	入学考试		
 assessment	[əˈsesmənt]	评估	risk assessment 风险评估	
 "That's the spirit."		这就对了，勇气可嘉（对对方的态度表示赞许）		
 graduate	[ˈɡrædʒuət]	除了表示“毕业、毕业生”，还表示“研究生”	graduate student 研究生 masters 硕士 doctor 博士	
@@ -1720,19 +1720,19 @@ inadequate	[ɪnˈædɪkwət]	不足的	Supplies of food and medicines are inadeq
 proper	[ˈprɑːpər]	适宜的，正规的	And some programs are not proper for children. 一些节目不适合孩子们看。 proper name 专有名词	
 "I'm stuffed."		我吃撑了		
 take a food class		上了一个美食课程		
-take effect		生效	take effort 努力 take exercise 锻炼 take medicine 吃药	
-is this seat taken?		这位子有人坐吗？	No, please feel free. 没有，请便。 Sorry, someone is sitting here.	
+take effect	[teɪk ɪˈfekt]	生效	take effort 努力 take exercise 锻炼 take medicine 吃药	
+is this seat taken?	[ɪz ðɪs siːt ˈteɪkən]	这位子有人坐吗？	No, please feel free. 没有，请便。 Sorry, someone is sitting here.	
 you can say that again		说的太对了		
 "that's for sure"		那是一定的。	"It's a lot colder than Shanghai, that's for sure."	
 first come first served		先到先得	"It's on first come first served basis 这遵循先到先得原则"	
-put someone up		为某人提供住宿	my company put me up at the Hyatt hotel 我的公司安排我住在凯悦酒店	
+put someone up	[pʊt ˈsʌmwʌn ʌp]	为某人提供住宿	my company put me up at the Hyatt hotel 我的公司安排我住在凯悦酒店	
 flights were grounded		航班停飞		
 cower	[ˈkaʊər]	蜷缩	The hostages cowered in their seats. 这些人质蜷缩在其座位上。	
 cozy	[ˈkoʊzi]	舒适的	I found the lounge (等候室) such a cozy place to study in.	
 stamp/stomp foot		跺脚	"I stamp my foot when I'm angry."	
 prey	[preɪ]	猎物	pary是祈祷，两者发音相同	
 predator	[ˈpredətər]	捕食者	predator were a threat to the herd(畜群)	
-roll call		点名	I should get to roll call. 我得去点名了。	
+roll call	[ˈrəʊl kɔːl]	点名	I should get to roll call. 我得去点名了。	
 false advertising		虚假广告		
 persecution	[ˌpɜːrsɪˈkjuːʃn]	迫害	...the persecution of minorities. …对少数派的迫害。	
 subordinate	[səˈbɔːrdɪnət]	从属、下级 [词源：sub+order]	insubordination 违抗命令、不服从	
@@ -1740,15 +1740,15 @@ establishment	[ɪˈstæblɪʃmənt]	除了“成立”，还有一个“地点�
 impede	[ɪmˈpiːd]	妨碍、阻碍[正式]	"One shouldn't impede other's progress."	
 warrant	[ˈwɔːrənt]	搜捕令		
 shifty	[ˈʃɪfti]	狡诈的、不可靠的		
-brand new		崭新的		
+brand new	[ˌbrænd ˈnjuː]	崭新的		
 corner	[ˈkɔːrnər]	除了“角落”，还有“垄断”的意思	"He's trying to corner the market. 他企图垄断市场。"	
 rescind	[rɪˈsɪnd]	撤销[正式]	The governor does not have the authority to rescind the ruling. 该州长无权撤销这项裁决。	
 implore	[ɪmˈplɔːr]	恳求	I implore you...	
-clench fist		攥紧拳头		
+clench fist	[klentʃ fɪst]	攥紧拳头		
 yank	[jæŋk]	猛拉		
 gasp	[ɡæsp]	倒吸气(表震惊、害怕)	Every but the jade emperor gasped.	
 pluck	[plʌk]	采摘、拔	Wukong plucked a peach from a branch and bit into it.	
-lit up		亮起来、亮出(表情)	His eyes lit up 他眼前一亮 His eyes sparkled. 他的眼睛闪闪发光	
+lit up	[lɪt ʌp]	亮起来、亮出(表情)	His eyes lit up 他眼前一亮 His eyes sparkled. 他的眼睛闪闪发光	
 nod	[nɑːd]	点头	She nodded and smiled. 她点点头笑了。	
 hurl	[hɜːrl]	用力投掷		
 lid	[lɪd]	盖子	close the lid 盖上盖子 take the lid off 掀开盖子	
@@ -1774,17 +1774,17 @@ grade	[ɡreɪd]	成绩、年级
 size	[saɪz]	size12表示12码（注意size在前，尺码数字在后）		
 loaf	[loʊf]	可做面包的量词 “一条”	a loaf of sliced bread 一条切片面包	
 redeem	[rɪˈdiːm]	挽回、赎回、兑换	redeemer 救世主	
-use up		用完、耗尽	We have used up all the paper.	
+use up	[juːz ʌp]	用完、耗尽	We have used up all the paper.	
 sobbing	[ˈsɒbɪŋ]	啜泣		
 red potion		红色药水 (常见于游戏)		
 mourn	[mɔːrn]	哀悼	mourn for the dead 为死者哀悼	
 maritime	[ˈmærɪtaɪm]	海洋的	maritime trade 海洋贸易	
 ambush	[ˈæmbʊʃ]	埋伏、伏击	You should set up an ambush here. （am=in）进入到bush灌木丛中埋伏	
-fortune telling		算命	fortune teller 算命先生	
+fortune telling	[ˈfɔːtʃənˌtelɪŋ]	算命	fortune teller 算命先生	
 psychic	[ˈsaɪkɪk]	通灵者、灵媒		
 just for kicks		= just for fun 只是为了好玩		
 postpone	[poʊˈspoʊn]	推迟		
-jump in		快点进来 (不是真的让他人跳进来)		
+jump in	[dʒʌmp ɪn]	快点进来 (不是真的让他人跳进来)		
 pouring	[ˈpɔːrɪŋ]	倒(水)、下大雨	"It's pouring outside. 外面下着瓢泼大雨。"	
 slump	[slʌmp]	暴跌、不景气、瘫倒	Net profits slumped by 41% 净利润暴跌了41% economic slump 经济衰退 She slumped into a chair. 她瘫倒在椅子上	
 whip	[wɪp]	鞭子、鞭打		
@@ -1810,10 +1810,10 @@ bacteria	[bækˈtɪriə]	细菌
 germ	[dʒɜːrm]	病菌		
 refrigerate	[rɪˈfrɪdʒəreɪt]	冷藏	Then I refrigerate it soon after we finished eating, refrigerator 冰箱	
 apron	[ˈeɪprən]	围裙	let me just put my apron on.	
-degree centigrade		摄氏度	degree fahrenheit (法伦海特) 华氏度	
+degree centigrade	[dɪˈɡriː ˈsentɪɡreɪd]	摄氏度	degree fahrenheit (法伦海特) 华氏度	
 batter	[ˈbætər]	面糊		
 consistency	[kənˈsɪstənsi]	还有“粘稠度”的意思		
-nursery rhyme		童谣、儿歌		
+nursery rhyme	[ˈnɜːsəri raɪm]	童谣、儿歌		
 utility bill		物业账单		
 classy	[ˈklæsi]	上乘的、高档的		
 suite	[swiːt]	套间	junior suite 普通套间 superior suite 高级套间 presidential suite 总统套件 a suite of 一套	
@@ -1831,9 +1831,9 @@ dew	[duː]	露水
 acupuncture	[ˈækjupʌŋktʃər]	针灸		
 alleviate	[əˈliːvieɪt]	减轻、缓解(不适)	alleviate depression and anxiety as well as anger.	
 inflict	[ɪnˈflɪkt]	使遭受（施加）	"I don't want to inflict anymore pain on myself. Don't inflict damage on any person."	
-in a little while		再过一会		
+in a little while	[ɪn ə ˈlɪtl waɪl]	再过一会		
 restore	[rɪˈstɔːr]	恢复	Troops were sent in to restore order. 部队被派去恢复秩序。	
-brother in law		姐 \ 妹夫	sister in law 嫂 \ 姨子	
+brother in law	[ˈbrʌðər ɪn lɔː]	姐 \ 妹夫	sister in law 嫂 \ 姨子	
 vaccine	[vækˈsiːn]	疫苗	vaccination 接种疫苗	
 eradicate	[ɪˈrædɪkeɪt]	根除、消灭 【词源：radic -根】	Surely we will aim to finally eradicate disease and poverty. 当然，我们的目标是最终能够消灭疾病和贫困。	
 marble	[ˈmɑːrb(ə)l]	大理石		
@@ -1857,18 +1857,18 @@ satanic	[səˈtænɪk]	邪恶的、撒旦的
 far-fetched	[ˌfɑːr ˈfetʃt]	牵强的、太扯的	The storyline was too far-fetched and none of the actors was particularly good.	
 buy me dinner		请我吃晚饭		
 cholesterol	[kəˈlestərɔːl]	胆固醇		
-mood swing		情绪波动	I have been having a lot of mood swing lately.	
+mood swing	[muːd swɪŋ]	情绪波动	I have been having a lot of mood swing lately.	
 ecstatic	[ɪkˈstætɪk]	狂喜的		
 not in the mood		没有心情		
 "Let's agree to disagree."		那我们就接受不同观点（求同存异）		
-man up		拿出男子气	"We're counting on you here, man. Man up, man!"	
+man up	[mæn ʌp]	拿出男子气	"We're counting on you here, man. Man up, man!"	
 you have a point		你说的有道理.		
 consequence	[ˈkɑːnsɪkwens]	后果	accept the consequences for your action.	
 wage	[weɪdʒ]	工资	minimum wage 最低工资	
 going rate		现行价格、市价	"What's the going rate of computer programmers?"	
 gateway	[ˈɡeɪtweɪ]	通道、途径		
 feverish	[ˈfiːvərɪʃ]	发烧的	I am feeling feverish.	
-mix up		混淆	People often mix me up with other actors.	
+mix up	[ˈmɪks ʌp]	混淆	People often mix me up with other actors.	
 jarring	[ˈdʒɑːrɪŋ]	刺耳的，令人不快的	the sound is jarring comments is jarring	
 glossary	[ˈɡlɑːsəri]	词汇表		
 in droves		成群结队的（drove 是 drive的过去式）	In june, their employees were quitting in droves. 6月份，他们的员工纷纷辞职。	
@@ -1883,8 +1883,8 @@ cliff	[klɪf]	悬崖
 frantic	[ˈfræntɪk]	忙乱的、发狂似的	"She clutched frantically at Emily's arm."	
 snort	[snɔːrt]	轻蔑的发出哼声		
 roast	[roʊst]	烤	roast duck 烤鸭	
-every once in a while		时不时、每隔一段时间		
-sleep in		睡懒觉	I really love the weekends, where I can sleep in.	
+every once in a while	[ˈevri wʌns ɪn ə waɪl]	时不时、每隔一段时间		
+sleep in	[sliːp ɪn]	睡懒觉	I really love the weekends, where I can sleep in.	
 puny	[ˈpjuːni]	弱小的、微不足道的 our puny human brains		
 get sidetracked by		分心		
 contingency	[kənˈtɪndʒənsi]	意外事件	I need to examine all possible contingencies.	
@@ -1906,19 +1906,19 @@ loose	[luːs]	松的、松散的	One of the screws is loose. 有一颗螺丝松�
 all goes back to		一切归结于	it all goes back to the way that you think. 一切都取决于你的思维方式	
 bedtime	[ˈbedtaɪm]	就寝时间	bedtime story 睡前故事	
 weed	[wiːd]	杂草	smoking weed 抽大麻	
-binge eating		暴饮暴食		
+binge eating	[bɪndʒ ˈiːtɪŋ]	暴饮暴食		
 sober	[ˈsoʊbər]	清醒的、未喝醉的		
 hangover	[ˈhæŋoʊvər]	宿醉		
 impulsive	[ɪmˈpʌlsɪv]	冲动的	"pulse 脉搏，脉冲，节拍 impulse 冲动 You're so impulsive! 你太冲动了！"	
 nail	[neɪl]	钉子、指甲	hit the nail on the head 正中要害	
-nail down		弄清、确定 (类似于汉语的“敲定”这种比喻)	"Don't try to nail down what it is you're studying."	
+nail down	[neɪl daʊn]	弄清、确定 (类似于汉语的“敲定”这种比喻)	"Don't try to nail down what it is you're studying."	
 demanding	[dɪˈmændɪŋ]	苛刻的、苛求的	So we should be easy on ourselves and not be too demanding.	
 burnout	[ˈbɜːrnaʊt]	精疲力竭	research has indicated that it can lead to burnout.	
 dilemma	[dɪˈlemə]	困境、窘境	He was faced with the dilemma of whether or not to return to his country.	
-turning point		转折点		
+turning point	[ˈtɜːnɪŋ pɔɪnt]	转折点		
 oral speaking		口语		
 banquet	[ˈbæŋkwɪt]	宴会		
-dress code		着装要求	The company has a strict dress code—all male employees are expected to wear suits	
+dress code	[ˈdres kəʊd]	着装要求	The company has a strict dress code—all male employees are expected to wear suits	
 disorient	[dɪsˈɔːrient]	失去方向的	The loss of a loved one can make a person feel completely disoriented.	
 reach for		伸手去拿	Have you ever tried to reach for your phone when your alarm clock rings?	
 confusional		精神恍惚的	arousal n. 唤醒	
@@ -1935,7 +1935,7 @@ span	[spæn]	时间段	life span 寿命、使用期限 time span 时间跨度 at
 prioritize	[praɪˈɔːrətaɪz]	优先考虑	The organization was formed to prioritize the needs of older people. 这个机构是为优先满足老年人的需要而成立的。	
 point-blank	[ˌpɔɪnt ˈblæŋk]	直截了当的、近距离的	ask me point-blank at point-blank range.	
 errand	[ˈerənd]	差事	She went off on some errand. 她出去办事了。	
-brush aside		漠视、置之不理	"How can she brush aside the others' feelings? 她怎么能无视别人的感受？"	
+brush aside	[brʌʃ əˈsaɪd]	漠视、置之不理	"How can she brush aside the others' feelings? 她怎么能无视别人的感受？"	
 freelancer	[ˈfriːlænsər]	自由职业者		
 farm out		外包	Scores of U.S. companies farm out software development. 许多美国公司外包软件开发。 assign work or service to an outsider.	
 outsource	[ˈaʊtsɔːrs]	[正式]外包，subcontract 也有外包的意思		
@@ -1947,7 +1947,7 @@ offer to do sth.		主动提出做某事	"if you're in the middle of something, o
 ahead of the game		领先	"You're getting ahead of the game."	
 rich in rewards		富有奖励		
 paralyze	[ˈpærəˌlaɪz]	使瘫痪、使麻痹	"Don't let fear paralyze you."	
-moving company		搬家公司		
+moving company	[ˈmuːvɪŋ ˈkʌmpəni]	搬家公司		
 counterpoint	[ˈkaʊntərpɔɪnt]	与...形成鲜明对比	The sharp lines of the furniture counterpoint their bright colors.	
 tranquil	[ˈtræŋkwɪl]	宁静的	She led a tranquil life in the country. 她过着恬静的乡村生活。 【词源：tran-quite】	
 only so much		只有这些	"There‘s only so much space in the refrigerator, so don't bring home too many groceries."	
@@ -1955,7 +1955,7 @@ cleaner	[ˈkliːnər]	干洗店、清洁工、清洁剂
 hit	[hɪt]	处于某种目的去某处	"I' going to hit the mall /bank/ grocery store this afternoon."	
 congestion	[kənˈdʒestʃən]	拥堵、堵塞	traffic congestion 交通拥塞	
 bumper	[ˈbʌmpər]	（车辆）保险杠	bumper to bumper 一辆接一辆（形容交通拥挤） bumper to bumper traffic is a common sight during rush hour.	
-fit in		找时间做	I got a nap in this afternoon, that means I was able to fit some time in for a nap.	
+fit in	[fɪt ɪn]	找时间做	I got a nap in this afternoon, that means I was able to fit some time in for a nap.	
 post-it		便利贴		
 guzzle	[ˈɡʌz(ə)l]	狂饮	gas guzzler 油老虎 xxx guzller 指消耗很多xxx的东西	
 wrestle	[ˈres(ə)l]	摔跤	wrestle with 与...角力、努力克服	
@@ -1963,10 +1963,10 @@ spiral	[ˈspaɪrəl]	螺旋形、螺旋式的(上升或下降)	Production costs 
 foodie	[ˈfuːdi]	美食家、吃货		
 name	[neɪm]	还可以表示说出...的名字	"I don't event think I can name all the members."	
 wear makeup		带妆	Do you like men who wear makeup.	
-ice hockey		冰球		
+ice hockey	[ˈaɪs hɒki]	冰球		
 perky	[ˈpɜːrki]	活泼的、有活力的	"You'll finally be somebody who is perky."	
 perk up		增长、振作起来	He perks up and jokes with them. 他振作起来，和他们开着玩笑。	
-throughout the day		整天	I feel tired and sleepy throughout the day.	
+throughout the day	[θruːˈaʊt ðə deɪ]	整天	I feel tired and sleepy throughout the day.	
 sluggish	[ˈslʌɡɪʃ]	缓慢的、迟钝的	He felt very heavy and sluggish after the meal. slug 鼻涕虫 metal slug 合金弹头	
 on a consistent basis		在连续的基础上，引申为“不断地”意思	Setting up goals is easy, but following them on a consistent basis is difficult.	
 the kind of		这种	"I'm not the kind of person who creates problems."	
@@ -1988,7 +1988,7 @@ siren	[ˈsaɪrən]	特殊车辆的警报器、海妖	He cleared off when he hear
 physical and psychological		生理和心理		
 mighty	[ˈmaɪti]	[文学]非常、强大的		
 causation	[kɔːˈzeɪʃn]	因果关系	"but correlation dosen't mean causation. 但相关性并不意味着因果关系"	
-cheat sheet		小抄、备忘单		
+cheat sheet	[ˈtʃiːt ʃiːt]	小抄、备忘单		
 chalk	[tʃɔːk]	粉笔		
 ask for it		自找苦吃	Your boyfriend broke up with you? Well, you kinda asked for it. You never made time for him.	
 certify	[ˈsɜːrtɪfaɪ]	给...作证、认证	I can certify to his innocency. 我可以证明他清白。	
@@ -2002,12 +2002,12 @@ ketchup	[ˈketʃəp]	番茄酱
 vinegar	[ˈvɪnɪɡər]	醋		
 genesis	[ˈdʒenəsɪs]	起源、《创世纪》	How did you what was the genesis of this idea? 你们这个点子是怎么产生的？	
 jam on the brakes		紧急刹车	I had to jam on the brakes sharply to avoid hitting two schoolchildren.	
-take the lead		带头、领先	Glasgow has pledged to take the lead in reducing carbon emissions in the UK.	
+take the lead	[teɪk ðə liːd]	带头、领先	Glasgow has pledged to take the lead in reducing carbon emissions in the UK.	
 peel	[piːl]	皮、剥皮、剥落	peel off 剥掉 Peel an apple for the child. \ Peel and cube the potatoes	
 Let me take it one step further		进一步讲		
 field research		实地考察、实地研究	field trip、field work 都有实地xx的意思	
 northern hemisphere		北半球		
-i mean it		我是认真的		
+i mean it	[aɪ miːn ɪt]	我是认真的		
 provision	[prəˈvɪʒ(ə)n]	供给、规定、条款	The Constituion of US does have a provision about the right to bear arms in the Bill Rights. 美国宪法在法案权利中确实有关于携带武器权利的规定。	
 bear	[ber]	还有“携带、带有(标记)”的意思	The houses bear the marks of bullet holes 带有弹孔的房子. These items bear a price tag. 这些商品带有价格标签。	
 object to		反对	I really object to being charged for parking. 我非常反对收停车费。	
@@ -2019,13 +2019,13 @@ or so		大约、左右	"Let's choose 100 or so items at random. 我们随机选�
 roll	[roʊl]	可做量词“卷”	4 rolls of tiolet paper. 4卷厕纸	
 sachet	[sæˈʃeɪ]	小袋	6 sachets of washing powder. 6小袋洗衣粉	
 immaculate	[ɪˈmækjələt]	完美无瑕的	"The goalie's performance was immaculate."	
-ice rink		溜冰场		
+ice rink	[ˈaɪs rɪŋk]	溜冰场		
 creep	[kriːp]	悄悄进行、蔓延	prevent work form creeping into your personal life. 阻止工作偷偷进入你的私人生活	
 hold accountable for		对...负责		
 midday	[ˌmɪdˈdeɪ]	中午		
 drowsy	[ˈdraʊzi]	昏昏欲睡的	I feel kind of drowsy.	
 get into \ on \ off the bus		上车、下车		
-get down to		开始着手处理	I like to get down to work by 9. 我喜欢在9点之前开始工作。	
+get down to	[ɡet daʊn tu]	开始着手处理	I like to get down to work by 9. 我喜欢在9点之前开始工作。	
 get back home		回家		
 pedestrian	[pəˈdestriən]	行人		
 sprinkle	[ˈsprɪŋk(ə)l]	撒	Sprinkle a little salt on the rice.	
@@ -2046,33 +2046,33 @@ cabinet	[ˈkæbɪnət]	储柜、内阁	medicine cabinet 医药柜
 thermos	[ˈθɜːrməs]	热水瓶、保温瓶		
 briefcase	[ˈbriːfkeɪs]	公文包		
 head toward		走向 head down to		
-stick shift		手动挡 (manual transmission)	Would you want the stick shift or the automatic?	
-vending machine		自动售货机		
+stick shift	[ˈstɪk ʃɪft]	手动挡 (manual transmission)	Would you want the stick shift or the automatic?	
+vending machine	[ˈvendɪŋ məʃiːn]	自动售货机		
 vender	[ˈvendər]	小贩		
 memorandum	[ˌmeməˈrændəm]	备忘录	(简写：memo)	
 in charge of		负责	The manager is the person that is in charge of a certain group of people.	
 headquarters	[ˈhedkwɔːrtərz]	总部		
-stand in line		排队	Everyone should stand in line when buying tickets.	
-kick back		[口语]放松		
+stand in line	[stænd ɪn laɪn]	排队	Everyone should stand in line when buying tickets.	
+kick back	[kɪk bæk]	[口语]放松		
 stall	[stɔːl]	暂停、熄火	stalled car 抛锚的车	
 ski	[skiː]	滑雪		
 snugly	[ˈsnʌɡli]	舒适的、贴身的	make sure your boots fit sugly. 确保你的靴子合脚	
 goggles	[ˈɡɑːɡ(ə)lz]	护目镜		
 freeway	[ˈfriːweɪ]	高速公路		
 stop by		顺便去...	I decide to stop by the market./ stop by the hospital	
-checkout stand		收银台、结账处	Luckily, they have a lot of checkout stands open.	
+checkout stand	[ˈtʃekaʊt stænd]	收银台、结账处	Luckily, they have a lot of checkout stands open.	
 cashier	[kæˈʃɪr]	收银员		
 lane	[leɪn]	车道、小路	We have freeways that have six or seven lanes.	
-get out		还有“拿出”的意思	He gets out his book to read.	
+get out	[ɡet aʊt]	还有“拿出”的意思	He gets out his book to read.	
 mat	[mæt]	垫子	place mat 餐具垫	
 couch	[kaʊtʃ]	长沙发		
-thumb through		翻阅		
-recycling bin		回收站		
+thumb through	[θʌm θruː]	翻阅		
+recycling bin	[ˌriːˈsaɪkl bɪn]	回收站		
 nod off		打盹、打瞌睡		
 "I'm so beat"		累死我了		
-shoot the breeze		吹牛、闲扯	"When I'm with friends,I can just shoot the breeze all day long."	
+shoot the breeze	[ʃuːt ðə briːz]	吹牛、闲扯	"When I'm with friends,I can just shoot the breeze all day long."	
 muggy	[ˈmʌɡi]	潮湿闷热的	"I hate it most when it's muggy outside."	
-cast about		(精神或视觉上)四处寻找	"I'm always casting about searching for something to talk about. I'm casting about a new pen."	
+cast about	[kæst əˈbaʊt]	(精神或视觉上)四处寻找	"I'm always casting about searching for something to talk about. I'm casting about a new pen."	
 cosmetics	[kɑːzˈmetɪks]	化妆品		
 medication	[ˌmedɪˈkeɪʃ(ə)n]	药物	Over-the-counter medications 非处方药(OTC) ，表面意思是“可以在柜台买到的药”	
 signature	[ˈsɪɡnətʃər]	签名		
@@ -2080,19 +2080,19 @@ lobster	[ˈlɑːbstər]	龙虾
 crab	[kræb]	螃蟹		
 funny	[ˈfʌni]	除了“好笑”的，还有“不适的”的意思	My stomach felt funny. 我的胃感觉不对劲。	
 to be waited on		被服侍	Confined to bed, he needed to be waited on in everything.	
-foot the bill		付账	"Who's going to foot the bill for tonight's dinner?"	
+foot the bill	[fʊt ðə bɪl]	付账	"Who's going to foot the bill for tonight's dinner?"	
 envelope	[ˈenvəloʊp]	信封		
 clueless	[ˈkluːləs]	无知的	"He's completely clueless about computers."	
-sticky situation		棘手的状况	"It's a very sticky situation. Handle with care. 这是很棘手的状况，要小心处理。"	
+sticky situation	[ˈstɪki ˌsɪtʃuˈeɪʃn]	棘手的状况	"It's a very sticky situation. Handle with care. 这是很棘手的状况，要小心处理。"	
 tactful	[ˈtæktfl]	有分寸的、得体的	"That wasn't a very tactful thing to say!"	
 pick your brain		向你请教下	Would you mind if I pick your brain for half an hour?	
 drawback	[ˈdrɔːbæk]	缺点、弊端		
 affection	[əˈfekʃ(ə)n]	感情、喜爱、关怀	I still have affection for my old school. 我对母校依然很有感情。 Children need lots of love and affection.孩子需要多多疼爱和关怀。	
 abiding	[əˈbaɪdɪŋ]	持久的(感情、记忆、兴趣)	law-abiding 遵纪守法的 we saw the abiding love of tradition.	
 monarchy	[ˈmɑːnərki]	君主制		
-swing by		路过顺便去	"I'm going to swing by the coffee shop on my way home."	
+swing by	[swɪŋ baɪ]	路过顺便去	"I'm going to swing by the coffee shop on my way home."	
 age	[eɪdʒ]	还可以表示“变老”	He seemed to have aged in the last few months.	
-in ages		很久	"I hadn't seen her in ages."	
+in ages	[ɪn ˈeɪdʒɪz]	很久	"I hadn't seen her in ages."	
 final offer		最终报价	$1500 is my final offer.	
 drive a hard bargain		极力讨价还价	"You drive a hard bargain! OK, that's the deal. 你真会讨价还价！好吧，就这么定了。"	
 hammer out		制定出(锤成)	I think we can hammer out a solution.	
@@ -2101,7 +2101,7 @@ soul-searching	[ˈsoʊl sɜːrtʃɪŋ]	深刻的反省	My year was spent doing a
 cocky	[ˈkɑːki]	自以为是的	She said I should be confident but not cocky.	
 meek	[miːk]	温顺的		
 submissive	[səbˈmɪsɪv]	顺从的、唯唯诺诺的		
-sound advice		忠告	He gave me some very sound advice.	
+sound advice	[saʊnd ədˈvaɪs]	忠告	He gave me some very sound advice.	
 rerun	[ˈriːrʌn]	重播、重映	I just watched the rerun of Pride and Prejudice.	
 walk all over sb		专横跋扈对待某人		
 take credit for sth		认为是自己的功劳		
@@ -2149,7 +2149,7 @@ ventilation	[ˌventɪˈleɪʃ(ə)n]	通风	"but since there's no ventilation in 
 oath of office		就职宣誓		
 skyscraper	[ˈskaɪskreɪpər]	摩天大楼		
 linger	[ˈlɪŋɡər]	留存、挥之不去	The aftermath of covid still lingers. 新冠疫情的影响仍挥之不去。	
-pay tribute to		致敬		
+pay tribute to	[peɪ ˈtrɪbjuːt tu]	致敬		
 admire	[ədˈmaɪər]	钦佩、仰慕、欣赏	I admired her restlessness to create change.	
 born of		出于	not born of ill will or bad intentions, quite the opposite in fact. 不是出于恶意	
 fork	[fɔːrk]	除了“叉子”，还表示岔路口	you come to a fork in the path one leads to a picnic area and the other leads to the lake. 你来到一个岔路口...	
